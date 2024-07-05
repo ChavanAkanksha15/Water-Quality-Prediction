@@ -1,0 +1,1427 @@
+Gram_panchayat,Village,Sample_source,Sample_tested_date,Temperature, Colour, Odour, Taste, Turbidity, pH,TDS, Total_Alkalinity, Chloride, Fluoride, Nitrate, Sulphate, Total_Hardness, Iron,Conductivity,Potability
+Abaichiwadi,Abaichiwadi,Anganwadi name : ABAICHIWADI 11,26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.06,210,1
+Abaichiwadi,Abaichiwadi,Anganwadi name : ABAICHIWADI 12,02-06-2023,34,2,0,0,0.5,7.2,258,40,40,0.48,16.99,0.92,152,0.08,340,1
+Abaichiwadi,Abaichiwadi,School name : z.p.school,02-06-2023,34,2,0,0,0.5,7.2,258,40,40,0.48,16.99,0.92,152,0.08,340,1
+Abaichiwadi,Abaichiwadi,Individual house tap water Baburav Nangare,02-06-2023,34,2,0,0,0.5,7.2,258,40,40,0.48,16.99,0.92,152,0.08,340,1
+Abaichiwadi,Abaichiwadi,Individual house tap water Sambhaji Surve,02-06-2023,34,2,0,0,0.5,7.2,258,40,40,0.48,16.99,0.92,152,0.08,340,1
+Abaichiwadi,Abaichiwadi,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,0,0,0,0.5,7.2,258,40,40,0.48,16.99,0.92,152,0.08,340,1
+Abaichiwadi,Abaichiwadi,", location : Location : Beghar vasti [ Source type : Deep Tubewell ] [ schemeId : 6313078, scheme name : Beghar vasti, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.3,486,40,60,0.16,63,2,224,0.18,760,1
+Adarshnagar,Aadarshnagar,"Source Type : Open Well, location : NEAR GAOTHAN",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Adarshnagar,Aadarshnagar,"Source Type : Deep Tubewell, location : NEAR PRY.SCHOOL",26-09-2023,26,0,0,0,0.5,7.3,160,34,40,0.001,0.12,0.9,186,0.06,368,1
+Akaichiwadi,Akaichiwadi,Individual house tap water SANJAY VADKAR,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,466,1
+Akaichiwadi,Akaichiwadi,Individual house tap water JANAKI SUTAR,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Akaichiwadi,Akaichiwadi,Individual house tap water in front of temple,20-06-2023,33,3,0,0,0.6,7.2,294,50,22,0.06,4.6,0.6,138,0.08,388,1
+Akaichiwadi,Akaichiwadi,"Source Type : Open Well, location : Near nalla",20-06-2023,33,2,0,0,0.6,7.3,616,190,50,0.4,30.45,1.1,396,0.09,828,1
+Akaichiwadi,Akaichiwadi,Individual house tap water sutar house,20-06-2023,33,2,0,0,0.6,7.2,294,50,22,0.06,4.6,0.6,138,0.08,388,1
+Akaichiwadi,Akaichiwadi,School name : ZP SCHOOL AAKAICHIWADI,20-06-2023,33,2,0,0,0.6,7.2,294,50,22,0.06,4.6,0.6,138,0.08,388,1
+Akaichiwadi,Akaichiwadi,Anganwadi name : anganwadi 1,20-06-2023,33,2,0,0,0.6,7.2,294,50,22,0.06,4.6,0.6,138,0.08,388,1
+Akaichiwadi,Botrewadi (n.v.),"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,3,0,0,0.6,7.3,612,218,62,0.6,30.5,2,442,0.06,810,1
+Akaichiwadi,Botrewadi (n.v.),Public tap water location : -----,20-06-2023,33,2,0,0,0.6,7.3,612,218,62,0.6,30.5,2,442,0.06,810,1
+Ambavade,Ambavade,"Source Type : Open Well, location : IN HABITATION",04-10-2023,,,,,,,,34,,,,,,,,0
+Ambavade,Ambavade,"Source Type : Open Well, location : IN HABITATION",04-08-2023,33,0,0,0,0.4,7,160,44,42,0.001,0.12,0.9,62,0.012,154,1
+Ambavade,Ambavade,", location : Location : near Maruti Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313091, scheme name : near Maruti Mandir, Type : Handpump ]",04-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,162,0.02,154,1
+Ambavade,Ambavade,"Others, location : Ambavade",04-08-2023,32,0,0,0,0.4,7,160,42,33,0.001,0.12,0.9,211,0.02,154,1
+Ambavade,Ambavade,"Others, location : pandharechiwadi",04-08-2023,33,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Andharwadi,Andharwadi,School name : z.p.school,05-07-2023,30,2,0,0,0.3,7.29,548,100,56,0.1,3.86,3.5,364,0.13,727,1
+Andharwadi,Andharwadi,"Source Type : Open Well, location : KORIWALE RASTA",12-06-2023,33,3,0,0,0.5,7.2,376,82,58,0.4,17.2,1.1,200,0.06,498,1
+Andharwadi,Andharwadi,Anganwadi name : Anganwadi 3,12-06-2023,33,3,0,0,0.5,7.2,362,70,40,0.5,13.1,1,238,0.04,474,1
+Andharwadi,Andharwadi,"PrivateHand Pump, location : sandip balu thorat",15-06-2023,34,2,0,0,0.5,7.2,262,44,32,0.09,8.52,0.85,132,0.08,349,1
+Andharwadi,Andharwadi,"PrivateHand Pump, location : adhik rajaram chavhan",12-06-2023,33,3,0,0,0.5,7.2,362,68,40,0.5,13.1,1,238,0.04,474,1
+Ane,Aane,"Source Type : Open Well, location : Near Gavthan",08-08-2023,25,3,0,0,0.5,7.3,594,380,42,0.12,20.2,1.8,178,0.06,594,1
+Ane,Aane,"Source Type : Open Well, location : Near Gavthan",08-08-2023,25,3,0,0,0.5,7.3,380,58,42,0.12,20.2,1.8,178,0.06,594,1
+Ane,Aane,"Source Type : Open Well, location : Near Gavthan",25-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.6,211,0.06,256,1
+Ane,Aane,"Source Type : Deep Tubewell, location : NEAR RIVER",07-08-2023,32,0,0,0,0.4,7.1,160,34,42,0.001,0.12,0.9,211,0.02,256,1
+Antwadi,Antvadi,School name : z.p.school,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,368,1
+Antwadi,Antvadi,Individual house tap water SAYAJI RAMCHANDRA SHINDE,05-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Antwadi,Antvadi,Individual house tap water Nitin Ishwar Shinde,12-06-2023,33,2,0,0,0.2,7.4,643,180,132,0.13,52.06,2,304,0.04,1008,1
+Antwadi,Antvadi,"Source Type : Open Well, location : in habitaiton",12-06-2023,33,0.2,0,0,0.2,7.2,298,140,24,0.18,4.51,1.06,108,0.04,608,1
+Antwadi,Antvadi,", location : Location : percolation well in Malwadi area [ Source type : Open Well ] [ schemeId : 6313104, scheme name : percolation well in Malwadi area, Type : Handpump ]",12-06-2023,33,2,0,0,0.2,7.4,643,180,132,0.13,52.06,2,304,0.04,1008,1
+Antwadi,Antvadi,Anganwadi name : Anganwadi,12-06-2023,33,2,0,0,0.2,7.2,298,140,24,0.18,4.51,1.06,108,0.04,395,1
+Antwadi,Antvadi,Anganwadi name : Mini anganwadi,12-06-2023,33,2,0,0,0.2,7.4,643,180,132,0.13,52.06,2,304,0.04,1008,1
+Arewadi,Aarewadi,"Source Type : Open Well, location : in habitaiton",02-06-2023,34,2,0,0,0.8,7.3,577,164,56,0.1,40.74,0.58,316,0.1,768,1
+Arewadi,Aarewadi,", location : Location : Jakhani vasti [ Source type : Open Well ] [ schemeId : 6313105, scheme name : Jakhani vasti, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.1,93,40,20,0.17,10.3,0,48,0.08,145,1
+Arewadi,Aarewadi,", location : Location : Mole wadi [ Source type : Deep Tubewell ] [ schemeId : 6313106, scheme name : Mole wadi, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.2,268,52,40,0.05,18.57,0.56,112,0.06,356,1
+Arewadi,Aarewadi,", location : Location : Grampanchayat office [ Source type : Deep Tubewell ] [ schemeId : 6313108, scheme name : Grampanchayat office, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.1,93,40,20,0.17,10.3,0,48,0.08,145,1
+Arewadi,Aarewadi,", location : Location : Grampanchayat office [ Source type : Deep Tubewell ] [ schemeId : 6313108, scheme name : Grampanchayat office, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.1,93,40,20,0.17,10.3,0,48,0.08,145,1
+Arewadi,Aarewadi,", location : Location : Mole wadi [ Source type : Deep Tubewell ] [ schemeId : 6313106, scheme name : Mole wadi, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.1,93,40,20,0.17,10.3,0,48,0.08,145,1
+Atake,Aatake,", location : Location : Chavan vasti [ Source type : Deep Tubewell ] [ schemeId : 6313113, scheme name : Chavan vasti, Type : Handpump ]",21-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Atake,Aatake,", location : Location : near Pandurang Patil house [ Source type : Deep Tubewell ] [ schemeId : 6313123, scheme name : near Pandurang Patil house, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.2,316,42,34,0.18,34.44,0.6,200,0.06,492,1
+Atake,Aatake,", location : Location : near Maruti Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313121, scheme name : near Maruti Mandir, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.2,274,50,38,0.14,14.6,0.9,168,0.06,424,1
+Atake,Aatake,"Source Type : Open Well, location : Gaothan",20-07-2023,28,2,0,0,0.4,7.2,228,60,20,0.17,4.7,0.46,104,0.07,303,1
+Atake,Aatake,", location : Location : Balkrishna Jadhav house [ Source type : Deep Tubewell ] [ schemeId : 6313116, scheme name : Balkrishna Jadhav house, Type : Handpump ]",20-07-2023,28,2,0,0,0.3,7.3,586,134,116,0.11,7.6,3.6,274,0.06,930,1
+Atake,Aatake,", location : Location : Ananda Thorat house [ Source type : Deep Tubewell ] [ schemeId : 6313118, scheme name : Ananda Thorat house, Type : Handpump ]",20-07-2023,28,2,0,0,0.2,7.2,258,54,26,0.12,3.6,2.6,102,0.06,342,1
+Atake,Aatake,", location : Location : Chavan vasti [ Source type : Deep Tubewell ] [ schemeId : 6313113, scheme name : Chavan vasti, Type : Handpump ]",20-07-2023,28,2,0,0,0.4,7.2,278,44,20,0.11,25.34,1.22,184,0.07,370,1
+Atake,Aatake,", location : Location : near Bhairavnath Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313109, scheme name : near Bhairavnath Mandir, Type : Handpump ]",20-07-2023,28,2,0,0,0.4,7.3,650,120,40,0.11,24.84,1.78,296,0.1,1082,1
+Babarmachi,Babarmachi,"Source Type : Open Well, location : NEAR GAOTHAN",18-09-2023,34,0,0,0,0.6,7.2,494,34,33,0.12,0.12,0.9,186,0.06,772,1
+Babarmachi,Babarmachi,", location : Location : Bajugade Patil vast [ Source type : Deep Tubewell ] [ schemeId : 6313126, scheme name : Bajugade Patil vast, Type : Handpump ]",02-06-2023,34,0,0,0,0.6,7.2,484,48,60,0.18,25.5,2,360,0.16,757,1
+Babarmachi,Babarmachi,", location : Location : near gavtan [ Source type : Open Well ] [ schemeId : 465661, scheme name : Babarmachi, Type : Handpump ]",02-06-2023,34,2,0,0,0.5,7.1,377,48,62,0.12,9.76,1,216,0.11,590,1
+Babarmachi,Babarmachi,"Source Type : Open Well, location : NEAR GAOTHAN",15-09-2023,34,0,0,0,0.5,7.1,377,34,33,0.001,0.12,0.9,211,0.06,590,1
+Babarmachi Dicholi(n.v.),Dicholi,"Source Type : Open Well, location : NEAR GAOTHAN",15-09-2023,34,0,0,0,0.6,7.2,441,34,33,0.001,0.12,0.9,211,0.06,690,1
+Bamanwadi,Bamanwadi,"Others, location : Vijay Desai Ghar Sarvjanik Nal",21-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,211,0.06,256,1
+Bamanwadi,Bamanwadi,"Others, location : Zp school Tank",20-09-2023,26,0,0,0,0.5,7.4,160,34,40,0.001,0.12,0.9,296,0.06,368,1
+Bamanwadi,Bamanwadi,"Others, location : Shiralkar house Tap Connection",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,154,1
+Bamanwadi,Bamanwadi,"PrivateTube well / Bore well / Well, location : khadyachiwadi sarvajanik open well",25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Bamanwadi,Bamanwadi,"Others, location : Anganwadi bamanwadi tap water",04-08-2023,32,0,0,0,0.4,7,160,42,42,0.001,0.12,0.9,211,0.02,154,1
+Bamanwadi,Bamanwadi,"Others, location : primary school shibewadi",04-08-2023,33,0,0,0,0.4,7,299,34,33,0.001,0.12,0.09,211,0.012,154,1
+Bamanwadi,Bamanwadi,"Others, location : Prakash Patil hand pump",04-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.012,256,1
+Bamanwadi,Bamanwadi,"Others, location : Tanker sample",04-08-2023,32,0,0,0,0.4,7,299,34,33,0.001,0.12,0.9,211,0.012,154,1
+Bamanwadi,Pawarwadi,"Others, location : Tanker sample",25-09-2023,26,0,0,0,0.5,7.2,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Banavadi,Banvadi,"Source Type : Open Well, location : BANAVADI 8",15-09-2023,34,0,0,0,0.02,7,47,34,33,0.001,0.12,0.9,211,0.06,73,1
+Banugadewadi,Banugadewadi,Anganwadi name : Anganwadi-11,05-07-2023,30,2,0,0,0.5,7.2,430,88,44,0.8,30.1,3.02,268,0.03,668,1
+Banugadewadi,Banugadewadi,School name : z.p.school,11-07-2023,30,2,0,0,0.5,7.2,428,86,76,0.7,29.6,3,270,0.04,670,1
+Banugadewadi,Banugadewadi,Individual house tap water SANJAY SANKPAL HOUSE,11-07-2023,30,3,0,0,0.5,7.2,428,86,76,0.7,29.6,3,270,0.04,670,1
+Banugadewadi,Banugadewadi,Individual house tap water BABAN JADHAV HOUSE,11-07-2023,30,3,0,0,0.5,7.19,430,88,44,0.65,30.17,3.11,268,0.05,670,1
+Banugadewadi,Banugadewadi,"Source Type : Open Well, location : NORTH SIDE OF VILLAGE",05-07-2023,30,2,0,0,0.5,7.2,428,86,76,0.7,29.6,3,270,0.04,670,1
+Belavade Bk,Belawade Bk,Public tap water location : -----,21-12-2023,,0,,,,,,,,,,,,,,0
+Belavade Bk,Belawade Bk,Public tap water location : -----,18-12-2023,,0,,,,,,,,,,,,,,0
+Belavade Bk,Belawade Bk,Public tap water location : -----,21-12-2023,,0,,,,,,,,,,,,,,0
+Belavade Bk,Belawade Bk,Public tap water location : -----,21-12-2023,,0,,,,,,,,,,,,,,0
+Belavade Bk,Belawade Bk,Public tap water location : -----,21-12-2023,,0,,,,,,,,,,,,,,0
+Belavade Bk,Belawade Bk,"Source Type : Open Well, location : BELAVADE BK 18",08-06-2023,33,2,0,0,0.6,7.3,468,100,116,0.06,20.81,3.3,92,0.15,734,1
+Belavade Bk,Belawade Bk,"PrivateHand Pump, location : near magas vasti",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Belavade Bk,Belawade Bk,", location : Location : Near Yashwant Mulik house [ Source type : Deep Tubewell ] [ schemeId : 6313158, scheme name : Near Yashwant Mulik house, Type : Handpump ]",08-06-2023,33,2,0,0,0.6,7.5,519,40,40,0.16,50,7.5,304,0.09,810,1
+Belavade Bk,Belawade Bk,"Source Type : Open Well, location : BELAVADE BK 18",08-06-2023,33,2,0,0,0.6,7.5,762,44,44,0.07,61.5,3,344,0.15,1190,1
+Beldare,Beldare,"Source Type : Open Well, location : in habitaiton",02-06-2023,34,0,0,0,0.5,7.3,299,64,40,0.24,28.24,0.92,188,0.07,398,1
+Beldare,Beldare,"Source Type : Open Well, location : NEAR GAOTHAN",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.06,256,1
+Beldare,Beldare,School name : NEW ENGLISH SCHOOL SAKURDI BELDARE PHATA,27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,211,0.06,256,1
+Beldare,Beldare,School name : z.p.school,02-06-2023,34,2,0,0,0.18,7.39,301,64,40,0.24,28.24,0.9,188,0.07,400,1
+Beldare,Beldare,Anganwadi name : anganwadi,02-06-2023,34,2,0,0,0.48,7.31,304,60,40,0.36,15.43,0.7,240,0.06,402,1
+Beldare,Beldare,Individual house tap water Rajendra Mane,02-06-2023,34,2,0,0,0.4,7.3,299,64,40,0.24,28.24,0.92,188,0.07,398,1
+Beldare,Beldare,Individual house tap water Shashikant Khegade,02-06-2023,34,2,0,0,0.4,7.3,310,72,44,0.3,26.9,1.01,192,0.07,420,1
+Belvade Haveli,Belvade-haveli,Individual house tap water Sourabh late house tap water,14-07-2023,30,2,0,0,0.5,7.2,340,50,62,0.4,17.6,1.3,214,0.06,456,1
+Belvade Haveli,Belvade-haveli,Individual house tap water Bhimrao Bandu Thorat,14-07-2023,30,3,0,0,0.5,7.3,338,58,50,0.3,16.1,1,218,0.08,448,1
+Belvade Haveli,Belvade-haveli,School name : z.p.school,05-07-2023,30,3,0,0,0.5,7.2,236,46,22,0.26,9.4,1.16,158,0.02,312,1
+Belvade Haveli,Belvade-haveli,"Source Type : Open Well, location : WEST SIDE OF VILLAGE",05-07-2023,30,3,0,0,0.5,7.2,340,50,62,0.4,17.6,1.3,214,0.06,456,1
+Belvade Haveli,Belvade-haveli,", location : Location : Laman vasti near vidyalaya [ Source type : Deep Tubewell ] [ schemeId : 6313165, scheme name : Laman vasti near vidyalaya, Type : Handpump ]",05-07-2023,30,3,0,0,0.5,7.3,338,58,50,0.3,,1,218,0.08,448,1
+Belvade Haveli,Belvade-haveli,", location : Location : Laman vasti [ Source type : Deep Tubewell ] [ schemeId : 6313166, scheme name : Laman vasti, Type : Handpump ]",05-07-2023,30,3,0,0,0.5,7.1,338,52,48,0.5,,2.6,200,0.09,450,1
+Belvade Haveli,Belvade-haveli,Anganwadi name : anganwadi 12,05-07-2023,30,3,0,0,0.5,7.2,340,50,62,0.4,17.6,1.3,214,0.06,456,1
+Belwadi,Belwadi,"Source Type : Open Well, location : NEAR GAOTHAN",05-07-2023,30,2,0,0,0.2,7.1,462,98,42,0.5,27.12,1.6,290,0.1,716,1
+Belwadi,Belwadi,Anganwadi name : anganwadi,11-07-2023,30,3,0,0,0.2,7.2,460,100,44,0.6,28,1.58,288,0.09,718,1
+Belwadi,Belwadi,Individual house tap water RAMCHANDRA NALAWADE HOUSE,11-07-2023,30,2,0,0,0.2,7.1,462,98,42,0.5,27.12,1.6,290,0.1,716,1
+Belwadi,Belwadi,Individual house tap water GANESH PAWAR HOUSE,11-07-2023,30,3,0,0,0.2,7.2,460,100,44,0.6,28,1.58,288,0.09,,1
+Belwadi,Belwadi,School name : BELWADI,11-07-2023,30,2,0,0,0.2,7.1,462,98,42,0.5,27.12,1.6,290,0.1,716,1
+Bhambe,Bhambe,Public tap water location : -----,15-06-2023,34,2,0,0,0.2,7.1,110,36,24,0.13,11.6,0.69,36,0.11,176,1
+Bhambe,Bhambe,"PrivateTube well / Bore well / Well, location : gav vihir",08-06-2023,33,2,0,0,0.5,7.3,420,44,40,0.11,32.7,2.2,304,0.1,656,1
+Bhambe,Bhambe,Anganwadi name : anganwadi -16,08-06-2023,33,2,0,0,0.5,7.3,401,64,40,0.51,7.76,0.8,220,0.1,401,1
+Bhambe,Bhambe,School name : zp school,08-06-2023,33,2,0,0,0.5,7.3,472,100,56,0.33,36.12,2.17,212,0.14,631,1
+Bhambe,Bhambe,Public tap water location : -----,26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,368,1
+Bharewadi,Bharewadi,Individual house tap water HANAMANT KALUGADE,31-07-2023,26,2,0,0,0.6,7.2,648,166,70,0.16,39.8,4.6,322,0.09,860,1
+Bharewadi,Bharewadi,Individual house tap water BABAN SHELATE,31-07-2023,26,2,0,0,0.6,7.2,648,166,70,0.16,39.8,4.6,322,0.09,860,1
+Bharewadi,Bharewadi,"Source Type : Open Well, location : IN GAOTHAN",20-06-2023,33,2,0,0,0.6,7.2,648,166,70,0.16,39.8,4.6,322,0.09,860,1
+Bharewadi,Bharewadi,"Others, location : GRAVITY PUBLIC TAB WATER SUPPLY",20-06-2023,33,3,0,0,0.6,7.2,266,42,22,0.12,2.1,2.9,186,0.08,352,1
+Bhavanwadi,Bhavanwadi,School name : z.p.school,05-07-2023,30,3,0,0,0.5,7.2,444,66,48,0.2,31.6,1.8,298,0.06,584,1
+Bhavanwadi,Bhavanwadi,"Source Type : Open Well, location : in habitaiton",05-07-2023,30,2,0,0,0.5,7.2,340,52,60,0.36,17.8,1.2,216,0.08,452,1
+Bhavanwadi,Bhavanwadi,Individual house tap water Vinod Yadav Tap water,05-07-2023,30,2,0,0,0.5,7.26,388,118,80,0.2,10.1,1,158,0.08,600,1
+Bhavanwadi,Bhavanwadi,Individual house tap water Dipak Bhosale tap water,05-07-2023,30,2,0,0,0.5,7.2,444,66,48,0.2,31.6,1.8,298,0.06,584,1
+Bholewadi,Bholewadi,Individual house tap water vikram prlahd surywanshi,02-06-2023,34,2,0,0,0.5,7.1,261,88,20,0.44,13.63,1.03,104,0.06,349,1
+Bholewadi,Bholewadi,Individual house tap water arjun anada surywnshi,02-06-2023,34,2,0,0,0.5,7.1,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Bholewadi,Bholewadi,School name : z.p.school,02-06-2023,34,2,0,0,0.6,7.69,1328,156,164,0.16,14.29,14.76,556,0.36,1764,1
+Bholewadi,Bholewadi,", location : Location : NEAR NALLA [ Source type : Open Well ] [ schemeId : 6312946, scheme name : NEAR NALLA, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.3,300,80,40,0.45,26.07,0.82,220,0.06,400,1
+Bholewadi,Bholewadi,"Source Type : Open Well, location : NEAR GAOTHAN",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Bholewadi,Bholewadi,"Source Type : Open Well, location : NEAR GAOTHAN",02-06-2023,34,2,0,0,0.5,7.2,220,40,52,0.12,22.75,2.3,164,0.1,342,1
+Bhosalewadi,Bhosalewadi,"Source Type : Deep Tubewell, location : GAOTHAN",05-07-2023,30,2,0,0,0.5,7.3,358,80,56,0.1,19.26,2.85,180,0.05,472,1
+Bhosalewadi,Bhosalewadi,"Source Type : Open Well, location : GAOTHAN 1",15-06-2023,34,2,,0,0.5,,104,36,20,0.09,,0.55,40,0.04,164,1
+Bhosalewadi,Bhosalewadi,Anganwadi name : Anganwadi 18,15-06-2023,34,2,,0,0.5,,229,36,36,0.15,,0.87,64,0.09,303,1
+Bhosalewadi,Bhosalewadi,", location : Location : Grampanchayat [ Source type : Deep Tubewell ] [ schemeId : 6312947, scheme name : Grampanchayat, Type : Handpump ]",15-06-2023,34,2,,0,0.5,,540,104,80,0.07,,0.61,164,0.42,718,1
+Bhurbhushi,Bhurbhushi,Individual house tap water SAKHARAM TUKARAM DEUNGALE,31-07-2023,26,2,0,0,0.4,7.1,262,58,14,0.2,1.6,2.6,134,0.06,346,1
+Bhurbhushi,Bhurbhushi,Individual house tap water LAXMAN NAMDEV SHEWALE,31-07-2023,26,2,0,0,0.4,7.1,262,58,14,0.2,1.6,2.6,134,0.06,346,1
+Bhurbhushi,Bhurbhushi,"Source Type : Open Well, location : KALAMBADEVI",20-06-2023,33,3,0,0,0.4,7.1,262,58,14,0.2,1.6,2.6,134,0.06,346,1
+Bhurbhushi,Bhurbhushi,"Others, location : KALAMBA MANDIR",20-06-2023,33,3,0,0,0.4,7.2,252,62,16,0.16,20.6,2.1,142,0.04,332,1
+Bhurbhushi,Bhurbhushi,School name : z.p.school,20-06-2023,33,2,0,0,0.6,7.2,266,42,22,0.12,2.1,2.9,186,0.08,352,1
+Bhuyachiwadi,Bhuyachiwadi,"Source Type : Open Well, location : NEAR GAONTHAN",08-06-2023,25,2,0,0,0.5,7.3,337,100,40,0.02,1.13,0.92,132,0.07,448,1
+Bhuyachiwadi,Bhuyachiwadi,", location : Location : near Maruti Mandir old gaothan [ Source type : Deep Tubewell ] [ schemeId : 6313006, scheme name : near Maruti Mandir old gaothan, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,821,72,92,0.06,37.74,0.94,324,0.07,1088,1
+Bhuyachiwadi,Bhuyachiwadi,"Source Type : Open Well, location : NEAR GAONTHAN",08-06-2023,25,2,0,0,0.5,7.3,393,104,76,0.07,26.47,0.67,124,0.03,522,1
+Bhuyachiwadi,Bhuyachiwadi,"Source Type : Deep Tubewell, location : NEW GAOTHAN",08-06-2023,25,2,0,0,0.5,7.3,421,68,92,0.02,0.28,0.82,96,0.06,558,1
+Bhuyachiwadi,Bhuyachiwadi,"Source Type : Open Well, location : NEAR GAOTHAN",08-06-2023,25,2,0,0,0.5,7.4,803,132,156,0.04,45,0.96,444,0.06,1066,1
+Bhuyachiwadi,Bhuyachiwadi,"Others, location : anganwadi",08-06-2023,25,2,0,0,0.5,7.4,630,134,154,0.1,47,3,278,0.1,984,1
+Bhuyachiwadi,Bhuyachiwadi,"Others, location : anganwadi",08-06-2023,25,2,0,0,0.5,7.3,356,82,82,0.1,29,2,126,0.11,556,1
+Chachegaon,Chachegaon,School name : z.p.school,08-08-2023,25,2,0,0,0.4,7.18,352,84,48,0.5,38.16,0.53,208,0.1,550,1
+Chachegaon,Chachegaon,School name : zp school,08-08-2023,25,2,0,0,0.4,7.28,386,84,32,0.25,11.95,2.84,168,0.19,603,1
+Chachegaon,Chachegaon,Anganwadi name : anganwadi 31,08-08-2023,25,2,0,0,0.4,7.18,224,60,16,0.26,37.84,0.41,104,0.13,351,1
+Chachegaon,Chachegaon,Anganwadi name : anganwadi 29,08-08-2023,25,2,0,0,0.4,7.33,366,124,36,0.4,38.48,0.92,188,0.07,574,1
+Chachegaon,Chachegaon,Anganwadi name : ANGANWADI 30,08-08-2023,25,2,0,0,0.4,7.18,352,84,48,0.5,38.16,0.53,208,0.1,550,1
+Chachegaon,Chachegaon,Anganwadi name : anganwadi 32,08-08-2023,25,3,0,0,0.4,7.28,386,84,32,0.25,11.95,2.84,168,0.19,603,1
+Chachegaon,Chachegaon,Individual house tap water Mahesh Pawar House,08-08-2023,25,2,0,0,0.4,7.18,224,60,16,0.26,37.84,0.41,104,0.13,351,1
+Chachegaon,Chachegaon,Individual house tap water Rahul Pawar House,08-08-2023,25,2,0,0,0.4,7.33,366,124,36,0.4,38.48,0.92,188,0.07,574,1
+Chachegaon,Chachegaon,"Source Type : Infiltration well, location : Koyana River",24-06-2023,26,0,0,0,0.4,7.41,261,44,20,0.16,6.84,1.07,180,0.2,407,1
+Chachegaon,Chachegaon,"Source Type : Open Well, location : CHACHEGAON 30",24-06-2023,26,0,0,0,0.4,7.18,224,60,16,0.26,37.84,0.41,104,0.13,351,1
+Chachegaon,Chachegaon,"Source Type : Open Well, location : in habitaiton",24-06-2023,26,0,0,0,0.4,7.18,352,84,48,0.5,38.16,0.53,208,0.1,550,1
+Chachegaon,Chachegaon,"Source Type : Open Well, location : ON THE BANK OF NALLA",24-06-2023,26,0,0,0,0.4,7.18,224,60,16,0.26,37.84,0.41,104,0.13,351,1
+Chachegaon,Chachegaon,", location : Location : old Gaothan [ Source type : Deep Tubewell ] [ schemeId : 6313009, scheme name : old Gaothan, Type : Handpump ]",21-06-2023,34,2,0,0,0.6,7.2,380,48,60,0.06,20.5,1.16,240,0.08,600,1
+Chachegaon,Chachegaon,", location : Location : Pry.school [ Source type : Deep Tubewell ] [ schemeId : 6313010, scheme name : Pry.school, Type : Handpump ]",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.26,0.9,198,0.06,210,1
+Charegaon,Charegaon,"Source Type : Open Well, location : IN HABITATION",20-04-2023,,,,,,,,0,,,,,,,,0
+Charegaon,Charegaon,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.3,562,98,42,0.2,45,1.3,390,0.06,748,1
+Charegaon,Charegaon,"Source Type : Deep Tubewell, location : SURYAWANSHI WASTI DUAL PUMP ON SOLAR ENERGY",12-06-2023,33,2,0,0,0.5,7.3,366,98,42,0.4,1,2,178,0.06,486,1
+Charegaon,Charegaon,"PrivateTube well / Bore well / Well, location : shankar suryvanshi",12-06-2023,33,3,0,0,0.5,7.3,562,98,42,0.2,45,1.3,390,0.06,748,1
+Charegaon,Charegaon,"PrivateHand Pump, location : Gunabaeecha wada",12-06-2023,33,3,0,0,0.5,7.2,730,178,64,0.4,34.7,2.1,378,0.09,968,1
+Charegaon,Charegaon,"PrivateTube well / Bore well / Well, location : balavant chavhan",12-06-2023,33,2,0,0,0.5,7.3,524,138,46,0.3,46.1,2.5,310,0.08,694,1
+Charegaon,Charegaon,"PrivateTube well / Bore well / Well, location : zp school",12-06-2023,33,2,0,0,0.5,7.3,562,98,42,0.2,45,1.3,390,0.06,748,1
+Charegaon,Charegaon,", location : Location : Charegaon-surywanshi vasti solar dual pump [ Source type : Deep Tubewell ] [ schemeId : 5585177, scheme name : Charegaon-surywanshi vasti solar dual pump, Type : Handpump ]",12-06-2023,33,3,0,0,0.5,7.3,366,98,42,0.4,1,2,178,0.06,486,1
+Charegaon,Charegaon,", location : Location : percolation well near PHC [ Source type : Open Well ] [ schemeId : 6313014, scheme name : percolation well near PHC, Type : Handpump ]",12-06-2023,33,3,0,0,0.5,7.4,662,178,62,0.2,31.5,4,362,0.06,878,1
+Charegaon,Charegaon,", location : Location : NEAR GAVTHAN [ Source type : Deep Tubewell ] [ schemeId : 5358254, scheme name : Charegaon Dual Pump on Solar Energy, Type : Handpump ]",12-06-2023,33,3,0,0,0.5,7.3,562,98,42,0.2,45,1.3,390,0.06,748,1
+Charegaon,Charegaon,", location : Location : NEAR GAVTHAN [ Source type : Deep Tubewell ] [ schemeId : 5358254, scheme name : Charegaon Dual Pump on Solar Energy, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.2,730,178,64,0.4,34.7,2.1,378,0.09,968,1
+Charegaon,Charegaon,"PrivateTube well / Bore well / Well, location : Anganwadi",12-06-2023,33,3,0,0,0.5,7.3,562,98,42,0.2,45,1.3,390,0.06,748,1
+Charegaon,Charegaon,"PrivateHand Pump, location : chafal fata",12-06-2023,33,3,0,0,0.5,7.4,712,218,62,0.4,34.26,7.1,382,0.06,944,1
+Charegaon,Charegaon,", location : Location : sHANKAR sURYAWANSHI HOUSE [ Source type : Deep Tubewell ] [ schemeId : 4406075, scheme name : CHAREGAON-SURYAWANSHI MALA, Type : Handpump ]",12-06-2023,33,3,0,0,0.5,7.2,730,178,64,0.4,34.7,2.1,378,0.09,968,1
+Chikhali,Chikhali,School name : Z P SCHOOL,07-09-2023,33,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,211,0.08,210,1
+Chikhali,Chikhali,School name : BHIKOBA PA. H. SCHOOL CHIKHLI,07-09-2023,32,0,0,0,0.5,7.3,380,34,33,0.001,0.12,2.6,211,0.02,256,1
+Chikhali,Chikhali,Individual house tap water MILIND POPAT KAMBALE,05-09-2023,26,0,0,0,0.5,7,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Chikhali,Chikhali,Individual house tap water SHIVAJI SAMPAT MALI,14-08-2023,26,0,0,0,0.5,7.2,543,124,52,0.37,27.7,1.9,280,0.04,721,1
+Chikhali,Chikhali,"Source Type : Open Well, location : NEAR NALLA",13-06-2023,33,3,0,0,0.5,7.2,543,124,52,0.37,27.7,1.9,280,0.05,721,1
+Chikhali,Chikhali,"Others, location : Near Dhuloba Mandir",15-06-2023,34,2,0,0,0.2,7.1,324,60,56,0.11,1.6,0.87,80,0.09,507,1
+Chikhali,Chikhali,Anganwadi name : anganwadi 2,12-06-2023,33,2,0,0,0.5,7.2,543,124,52,0.37,27.7,1.9,280,0.05,721,1
+Chikhali,Chikhali,Anganwadi name : Chikhali 29,15-06-2023,34,2,0,0,0.2,7.1,125,36,24,0.11,1.6,0.82,44,0.09,195,1
+Chikhali,Chikhali,Anganwadi name : anganwadi new1,12-06-2023,33,2,0,0,0.5,7.2,543,124,52,0.37,27.7,1.9,280,0.05,721,1
+Chikhali,Chikhali,Anganwadi name : anganwadi -30,15-06-2023,34,2,0,0,0.2,7.1,181,40,36,0.12,0.06,1.19,52,0.1,282,1
+Chinchani,Chinchani,"Source Type : Open Well, location : NEAR NALLA",05-07-2023,30,2,0,0,0.6,7.16,341,100,38,0.38,10.7,1.26,182,0.1,533,1
+Chinchani,Chinchani,", location : Location : near Anganwadi [ Source type : Deep Tubewell ] [ schemeId : 6313027, scheme name : near Anganwadi, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.2,388,98,42,0.4,10.6,1.6,234,0.09,606,1
+Chinchani,Chinchani,Anganwadi name : anganwadi -31,11-07-2023,30,3,0,0,0.6,7.16,341,100,38,0.38,10.7,1.26,182,0.1,533,1
+Chinchani,Chinchani,Individual house tap water DIPAK PATNE HOUSE,11-07-2023,30,3,0,0,0.6,7.2,388,98,42,0.4,10.6,1.6,234,0.09,606,1
+Chinchani,Chinchani,Individual house tap water SANTOSH ANPAT HOUSE,11-07-2023,30,3,0,0,0.6,7.16,341,100,38,0.38,10.7,1.26,182,0.1,533,1
+Chinchani,Chinchani,School name : z.p.school,11-07-2023,30,2,0,0,0.6,7.16,341,100,38,0.38,10.7,1.26,182,0.1,533,1
+Chorajwadi,Chorajwadi,School name : ZP SCHOOL CHORAJWADI,12-06-2023,33,2,0,0,0.6,7.2,412,98,34,0.6,,0.88,260,0.06,542,1
+Chorajwadi,Chorajwadi,Anganwadi name : anganwadi,12-06-2023,33,3,0,0,0.6,7.3,392,126,38,0.08,,0.8,212,0.06,518,1
+Chorajwadi,Chorajwadi,"PrivateHand Pump, location : harne vasti hand pump",12-06-2023,33,2,0,0,0.6,7.3,392,126,38,0.08,,0.8,212,0.06,518,1
+Chorajwadi,Chorajwadi,"PrivateHand Pump, location : parsoba odha handpump",12-06-2023,33,3,0,0,0.6,7.2,388,98,20,0.09,,12.6,236,0.08,518,1
+Chorajwadi,Chorajwadi,", location : Location : near well [ Source type : Deep Tubewell ] [ schemeId : 6313032, scheme name : near well, Type : Handpump ]",12-06-2023,33,2,0,0,0.6,7.2,332,46,46,0.08,,2,234,0.04,520,1
+Chorajwadi,Chorajwadi,Individual house tap water umesh kondiba shelake house,12-06-2023,33,2,0,0,0.6,7.2,388,98,20,0.09,,0.88,236,0.08,518,1
+Chorajwadi,Chorajwadi,Individual house tap water vanita sarjerav harne,12-06-2023,33,2,0,0,0.6,7.3,392,392,38,0.08,,0.8,212,0.06,518,1
+Chore,Chore,Anganwadi name : anganwadi 35,12-06-2023,33,3,0,0,0.5,7.3,385,118,28,0.11,11.2,1,226,0.08,510,1
+Chore,Chore,Anganwadi name : Anganwadi 33,12-06-2023,33,3,0,0,0.5,7.2,288,26,28,0.12,38,1,236,0.06,452,1
+Chore,Chore,Anganwadi name : anganwadi 34,12-06-2023,33,3,0,0,0.5,7.2,210,22,24,0.11,25,2,126,0.09,330,1
+Chore,Chore,School name : JIJAMATA VIDYALAY CHORE,12-06-2023,33,3,0,0,0.5,7.3,600,98,60,0.1,36.6,1,382,0.06,796,1
+Chore,Chore,School name : Z P SCHOOL,12-06-2023,33,3,0,0,0.5,7.3,385,118,28,0.11,11.2,1,226,0.08,510,1
+Chore,Chore,Individual house tap water satish iknath salunkhe,12-06-2023,33,3,0,0,0.5,7.2,210,22,24,0.11,25,2,126,0.09,330,1
+Chore,Chore,Individual house tap water kalpana dhondiram nalawade,12-06-2023,33,3,0,0,0.5,7.2,288,26,28,0.12,38,1,236,0.06,452,1
+Chore,Chore,"Source Type : Open Well, location : NEAR NALLA",12-06-2023,33,3,0,0,0.5,7.2,210,22,24,0.11,25,2,126,0.09,330,1
+Chore,Chore,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.2,288,26,28,0.12,38,1,236,0.06,452,1
+Chore,Chore,"Source Type : Open Well, location : BEGHAR VASTI",12-06-2023,33,2,0,0,0.5,7.3,385,118,28,0.11,11.2,1,226,0.08,510,1
+Chore,Chore,"Source Type : Open Well, location : NEAR NALLA",12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.1,36.6,1,382,0.06,796,1
+Chore,Chore,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.3,385,118,28,0.11,11.2,1,226,0.08,510,1
+Chore,Chore,School name : SAKHARWADI,12-06-2023,33,3,0,0,0.5,7.2,288,26,28,0.12,38,1,236,0.06,452,1
+Chore,Sakharwadi,Anganwadi name : Anganwadi-174,12-06-2023,33,3,0,0,0.5,7.2,210,22,24,0.11,25,2,126,0.09,330,1
+Chore,Sakharwadi,"Source Type : River, location : NEAR KRISHNA RIVER BHUYACHIWADI",12-06-2023,33,2,0,0,0.5,7.2,380,24,36,0.09,18,2,242,0.04,592,1
+Chore,Sakharwadi,"Source Type : River, location : NEAR KRISHNA RIVER BHUYACHIWADI",12-06-2023,33,2,0,0,0.5,7.2,386,26,36,0.1,16,2,240,0.06,590,1
+Chore,Sakharwadi,Individual house tap water jotiram jadhav,12-06-2023,33,3,0,0,0.5,7.2,380,24,36,0.09,18,2,242,0.04,592,1
+Chore,Sakharwadi,Individual house tap water aanandrav pawar,12-06-2023,33,2,0,0,0.5,7.2,386,26,36,0.1,16,2,240,0.06,590,1
+Chougulemala,Chaugulemala,"Source Type : Deep Tubewell, location : NEAR B.G. PATIL HOUSE",22-06-2023,32,2,0,0,0.5,7.2,292,68,40,0.22,30.65,2.6,180,0.09,456,1
+Chougulemala,Chaugulemala,Anganwadi name : anganwadi 33,21-06-2023,33,2,0,0,0.5,7.3,495,112,44,0.31,24.95,0.89,268,0.1,864,1
+Chougulemala,Chaugulemala,Anganwadi name : anganwadi new,21-06-2023,33,2,0,0,0.5,7.3,386,100,48,0.65,4.98,1.44,104,0.08,512,1
+Chougulemala,Chaugulemala,Individual house tap water tanaji lakshaman patil,21-06-2023,33,2,0,0,0.5,7.3,383,140,52,0.51,7.08,0.79,160,0.12,509,1
+Chougulemala,Chaugulemala,Individual house tap water madhukar maruti yadhav,21-06-2023,33,2,0,0,0.5,7.3,350,100,80,0.35,3.24,1.3,112,0.13,464,1
+Delewadi,Delewadi,"Source Type : Open Well, location : NEAR NAULA",02-06-2023,34,2,0,0,0.8,7.2,238,64,36,0.02,22.12,0.59,148,0.06,316,1
+Delewadi,Delewadi,School name : z.p.school,24-07-2023,27,2,0,0,0.4,7.2,234,,34,0.03,20.12,0.6,146,0.06,320,1
+Delewadi,Delewadi,Anganwadi name : anganwadi,24-07-2023,27,2,0,0,0.4,7.2,238,,36,0.02,22.12,0.59,148,0.04,316,1
+Delewadi,Delewadi,Individual house tap water appaso ananda babar,24-07-2023,27,2,0,0,0.4,7.2,234,,34,0.03,20.12,0.6,146,0.04,320,1
+Delewadi,Delewadi,Individual house tap water jivendra krishnat babar,24-07-2023,27,2,0,0,0.4,7.2,238,,36,0.02,22.12,0.59,148,0.05,316,1
+Dhanakwadi (n.v.),Dhanakwadi (n.v.),"Source Type : Deep Tubewell, location : IN GHAOTHAN",05-07-2023,30,2,0,0,0.6,7.3,342,82,54,0.09,1.8,2,222,0.09,454,1
+Dhanakwadi (n.v.),Dhanakwadi (n.v.),Anganwadi name : Anganwadi 37,05-07-2023,30,3,0,0,0.2,7.2,226,78,22,1.46,0.1,0.6,180,0.12,302,1
+Dhanakwadi (n.v.),Dhanakwadi (n.v.),Individual house tap water Dhananjay Sabale,05-07-2023,30,2,0,0,0.6,7.3,224,38,20,0.26,1.2,1.4,78,0.08,296,1
+Dhanakwadi (n.v.),Dhanakwadi (n.v.),Individual house tap water Sandip Deshamane,05-07-2023,30,3,0,0,0.2,7.2,222,78,42,0.2,1.66,0.8,150,0.09,298,1
+Dhavarwadi,Dhavarwadi,Anganwadi name : anganwadi 38,12-06-2023,33,2,0,0,0.6,7.2,400,58,60,0.11,37,1,276,0.08,625,1
+Dhavarwadi,Dhavarwadi,School name : z.p.school,12-06-2023,33,2,0,0,0.6,7.2,400,58,60,0.11,37,1,276,0.08,625,1
+Dhavarwadi,Dhavarwadi,Individual house tap water bapurav vechalekar,12-06-2023,33,2,0,0,0.6,7.2,376,22,24,0.19,2,2,256,0.06,588,1
+Dhavarwadi,Dhavarwadi,Individual house tap water chandrakant chandugade,15-06-2023,34,2,0,0,0.5,7.2,118,40,24,0.1,0.52,0.84,24,0.14,185,1
+Dhavarwadi,Dhavarwadi,"Source Type : Open Well, location : DHAVARWADI",12-06-2023,33,3,0,0,0.6,7.2,400,58,60,0.11,37,1,276,0.08,625,1
+Dhondewadi,Dhondewadi,School name : SWA. SAI.ANANDRAO PATIL VIDYALAY DHONDEWADI,20-07-2023,28,2,0,0,0.6,7.7,1206,194,274,0.45,48.1,6.4,556,0.11,1860,1
+Dhondewadi,Dhondewadi,"PrivateTube well / Bore well / Well, location : Krushnat Dinkar Kakade",20-07-2023,28,2,0,0,0.6,7.7,1206,194,274,0.45,48.1,6.4,556,0.11,1860,1
+Dhondewadi,Dhondewadi,"PrivateTube well / Bore well / Well, location : Hanamant Tukaram Kakade",20-07-2023,28,2,0,0,0.6,7.7,1210,200,258,0.45,46.1,6.8,546,0.12,1888,1
+Dhondewadi,Dhondewadi,"Source Type : Open Well, location : IN GAOTHAN",22-06-2023,33,2,0,0,0.5,7.2,497,140,80,0.06,35.76,0.69,192,0.05,658,1
+Dhondewadi,Dhondewadi,"Source Type : Open Well, location : near village nala well",15-06-2023,33,2,0,0,0.5,7.2,388,88,64,0.07,34.45,0.66,204,0.82,515,1
+Dhondewadi,Dhondewadi,School name : z.p.school,15-06-2023,33,2,0,0,0.5,7.3,230,60,28,0.08,9.32,0.77,104,0.06,305,1
+Dushere,Dushere,"Source Type : River, location : NEAR KRISHNA RIVER",06-06-2023,34,2,0,0,0.6,7.1,88,36,12,0.08,0.55,4.5,42,0.06,134,1
+Dushere,Dushere,"Others, location : Khadkmala",06-06-2023,34,3,0,0,0.6,7.3,554,128,64,0.18,26.1,5,218,0.08,732,1
+Dushere,Dushere,"Others, location : Chainimala",06-06-2023,34,3,0,0,0.6,7.3,488,100,252,0.03,21.6,6,182,0.08,644,1
+Dushere,Dushere,"Others, location : Chinimala",06-06-2023,34,3,0,0,0.6,7.3,692,140,104,0.02,13.1,4.1,246,0.06,914,1
+Dushere,Dushere,"Others, location : ??????? mala",06-06-2023,34,3,0,0,0.6,7.3,626,148,84,0.11,12.75,4.8,222,0.06,828,1
+Dushere,Dushere,"Others, location : Nalbhag",06-06-2023,34,3,0,0,0.6,7.5,852,124,60,0.07,45.15,5,286,0.04,1126,1
+Dushere,Dushere,School name : z.p.school,24-07-2023,26,0,0,0,0.6,7.3,488,100,252,0.03,21.6,6,182,0.11,644,1
+Dushere,Dushere,School name : zp school,24-07-2023,26,0,0,0,0.6,7.1,88,36,12,0.08,0.55,4.5,42,0.12,134,1
+Dushere,Dushere,"Others, location : gawthan",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Dushere,Dushere,"Others, location : gavthan",24-07-2023,26,0,0,0,0.6,7.3,488,100,252,0.03,21.6,6,182,0.11,644,1
+Dushere,Dushere,Anganwadi name : anganwadi,24-07-2023,26,0,0,0,0.6,7.1,88,36,12,0.08,0.55,4.5,42,0.1,134,1
+Dushere,Dushere,", location : Location : Near Mahadev D.Patil nouse [ Source type : Deep Tubewell ] [ schemeId : 6313173, scheme name : Near Mahadev D.Patil nouse, Type : Handpump ]",05-10-2023,,,,,,,,,,0.12,,,,,,0
+Gaikwadwadi,Gaikwadwadi,Anganwadi name : anganwadi,11-07-2023,30,3,0,0,0.5,7.2,474,78,54,0.1,20.7,2.3,246,0.04,746,1
+Gaikwadwadi,Gaikwadwadi,School name : z.p.school,11-07-2023,30,3,0,0,0.5,7.2,474,78,54,0.1,20.7,2.3,246,0.04,746,1
+Gaikwadwadi,Gaikwadwadi,Individual house tap water SOMNATH PAWAR HOUSE,11-07-2023,30,2,0,0,0.5,7.2,474,78,54,0.1,20.7,2.3,246,0.04,746,1
+Gaikwadwadi,Gaikwadwadi,Individual house tap water PRAKASH PAWAR HOUSE,11-07-2023,30,3,0,0,0.5,7.2,474,78,54,0.1,20.7,20.7,246,0.04,746,1
+Gaikwadwadi,Gaikwadwadi,"Source Type : Open Well, location : NEAR GAOTHAN",05-07-2023,30,2,0,0,0.5,7.2,474,78,54,0.1,20.7,2.3,246,0.04,746,1
+Gamewadi,Gamewadi,"Source Type : Open Well, location : Near Naula",02-06-2023,34,2,0,0,0.8,7.3,432,156,44,0.11,42.61,2,40,0.06,676,1
+Gamewadi,Gamewadi,"Source Type : Open Well, location : NINAI MANDIR",02-06-2023,34,2,0,0,0.8,7.1,92,52,20,0,8.57,0,40,0.1,143,1
+Gamewadi,Gamewadi,Anganwadi name : anganwadi,02-06-2023,34,2,0,0,0.8,7.1,92,52,20,0,8.57,0,40,0.1,143,1
+Gamewadi,Gamewadi,Individual house tap water shrirang pandurng aswale,02-06-2023,34,2,0,0,0.8,7.1,92,52,20,0,8.57,0,40,0.1,143,1
+Gamewadi,Gamewadi,Individual house tap water maya santosh jadhv,02-06-2023,34,2,0,0,0.8,7.1,92,52,20,0,8.57,0,40,0.1,143,1
+Gamewadi,Gamewadi,School name : z.p.school,26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,198,0.06,368,1
+Gamewadi,Patharwadi,Anganwadi name : anganwadi,Tested in lab,34,2,0,0,0.8,7.3,432,156,44,0.11,42.61,2,40,0.06,676,1
+Ganeshwadi,Ganeshwadi,Individual house tap water LAXMI RAGHU HINUKALE,31-07-2023,26,2,0,0,0.5,7.1,216,48,22,0.22,2,1.4,100,0.08,300,1
+Ganeshwadi,Ganeshwadi,Individual house tap water ANJALI KADAM,31-07-2023,26,2,0,0,0.5,7.1,216,48,22,0.22,2,1.4,100,0.08,300,1
+Ganeshwadi,Ganeshwadi,"Source Type : Open Well, location : WELL NEAR VILLAGE",20-06-2023,33,3,0,0,0.5,7.1,218,46,20,0.2,2.1,1.6,104,0.09,288,1
+Ganeshwadi,Ganeshwadi,"Source Type : Open Well, location : NEAR GAOTHAN",20-06-2023,33,3,0,0,0.5,7.1,216,48,22,0.22,2,1.4,100,0.08,300,1
+Ganeshwadi,Ganeshwadi,School name : z.p.school,20-06-2023,33,3,0,0,0.5,7.1,218,46,20,0.2,2.1,1.6,104,0.09,288,1
+Gharalwadi,Gharalwadi,Individual house tap water DIPAK GHARAL,31-07-2023,26,2,0,0,0.4,7.2,306,50,48,0.6,3.7,2.6,162,0.09,412,1
+Gharalwadi,Gharalwadi,Individual house tap water SANGITA GHARAL,31-07-2023,26,2,0,0,0.4,7.2,306,50,48,0.6,3.7,2.6,162,0.09,412,1
+Gharalwadi,Gharalwadi,"Source Type : Deep Tubewell, location : In habitation",20-06-2023,33,3,0,0,0.4,7.2,306,50,48,0.6,3.7,2.6,162,0.09,412,1
+Gharalwadi,Gharalwadi,School name : GHARALWADI,20-07-2023,33,3,0,0,0.4,7.2,306,50,48,0.6,3.7,2.6,162,0.09,412,1
+Gharalwadi,Gharalwadi,School name : GHARALWADI,20-06-2023,33,2,0,0,0.4,7.1,262,58,14,0.2,1.6,2.6,134,0.06,346,1
+Gharalwadi,Gharalwadi,Anganwadi name : anganwadi 50,20-06-2023,33,2,0,0,0.4,7.2,306,50,48,0.6,3.7,2.6,162,,412,1
+Gharewadi,Gharewadi,Anganwadi name : anganwadi new,08-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.012,156,1
+Gharewadi,Gharewadi,Anganwadi name : anganwadi 45,08-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Gharewadi,Gharewadi,Anganwadi name : anganwadi 46,08-08-2023,32,0,0,0,0.4,7,299,34,33,0.001,0.12,0.9,211,0.012,211,1
+Gharewadi,Gharewadi,Anganwadi name : anganwadi 47,08-08-2023,33,0,0,0,0.4,7,210,34,42,0.001,1,0.9,211,0.001,156,1
+Gharewadi,Gharewadi,School name : GHAREWADI NO.2,08-08-2023,32,0,0,0,0.4,7,160,42,33,0.001,0.12,0.9,211,0.02,156,1
+Gharewadi,Gharewadi,School name : GHAREWADI NO. 1,08-08-2023,32,0,0,0,0.4,7.1,160,44,33,0.001,0.12,0.9,211,0.02,266,1
+Gharewadi,Gharewadi,"Source Type : Open Well, location : IN HABITATION",08-08-2023,33,0,0,0,0.1,7,299,34,42,0.001,0.12,0.9,62,0.02,154,1
+Gharewadi,Navin Gharewadi,"Source Type : Open Well, location : NEAR NAULA",08-08-2023,32,0,0,0,0.4,7,299,34,33,0.001,0.12,7,211,0.012,266,1
+Ghogaon,Ghogaon,Individual house tap water RAJENDRA BHEDATE,06-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,211,0.08,211,1
+Ghogaon,Ghogaon,Individual house tap water DHANASHREE PATIL,06-09-2023,26,0,0,0,0.5,7.3,160,34,42,0.001,0.12,0.9,274,0.02,210,1
+Ghogaon,Ghogaon,"Source Type : Open Well, location : NEAR ANGANWADI",20-06-2023,33,3,0,0,0.4,7.3,280,82,72,0.3,0.1,0.72,110,0.04,378,1
+Ghogaon,Ghogaon,"PrivateTube well / Bore well / Well, location : Shivajinagar jadhavwadi",20-06-2023,33,3,0,0,0.4,7.2,282,58,34,0.2,4.96,1.06,162,0.06,379,1
+Ghogaon,Ghogaon,Individual house tap water shivajinagar stand,20-06-2023,33,3,0,0,0.4,7.2,286,56,36,0.3,5.1,1.1,166,0.04,376,1
+Ghogaon,Ghogaon,Individual house tap water datta mandir,20-06-2023,33,3,0,0,0.4,7.2,228,50,30,0.3,4.6,0.4,106,0.04,308,1
+Ghogaon,Ghogaon,,20-06-2023,33,2,0,0,0.4,7.2,246,82,26,0.26,0.8,0.5,110,0.02,332,1
+Ghogaon,Ghogaon,Anganwadi name : SAINAGAR GHOGAON NAVIN,20-06-2023,33,3,0,0,0.4,7.2,246,82,26,0.26,0.8,0.5,110,0.02,332,1
+Ghogaon,Ghogaon,School name : DNYANAMRUT MADYAMIK & UCHMADYAMIK VID. GHOGAON,20-06-2023,33,2,0,0,0.4,7.2,282,58,34,0.2,4.96,1.06,162,0.06,379,1
+Gholapwadi,Gholapwadi,Individual house tap water SATISH RAMCHANDRA CHANDUGADE,05-09-2023,26,0,0,0,0.4,7,160,34,44,0.001,0.12,0.9,211,0.02,210,1
+Gholapwadi,Gholapwadi,Individual house tap water SAMBHAJI DNYANU GHOLAP,05-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Gholapwadi,Gholapwadi,"Source Type : Open Well, location : in habitaiton",12-06-2023,33,2,0,0,0.2,7.1,300,84,48,0.37,4.87,0.65,128,0.05,397,1
+Gholapwadi,Gholapwadi,", location : Location : in chimta [ Source type : Open Well ] [ schemeId : 6313209, scheme name : in chimta, Type : Handpump ]",12-06-2023,33,3,0,0,0.2,7.2,405,100,40,0.46,4.91,0.87,224,0.06,538,1
+Gholapwadi,Gholapwadi,", location : Location : behind Sandeep Gaikwad house [ Source type : Deep Tubewell ] [ schemeId : 6313212, scheme name : behind Sandeep Gaikwad house, Type : Handpump ]",12-06-2023,33,3,0,0,0.2,7.2,450,100,40,0.55,15.69,1.25,276,0.06,596,1
+Gholapwadi,Gholapwadi,Anganwadi name : Anganwadi,12-06-2023,33,2,0,0,0.2,7.2,405,100,40,0.46,4.91,0.87,224,0.06,538,1
+Gholapwadi,Gholapwadi,School name : z.p.school,12-06-2023,25,2,0,0,0.2,7.3,468,82,38,0.22,9.43,1,298,0.4,618,1
+Ghonashi,Ghonashi,"Source Type : Open Well, location : EAST OF GAOTHAN",14-07-2023,30,3,0,0,0.4,7.4,663,178,82,0.4,2.2,3.6,300,0.1,884,1
+Ghonashi,Ghonashi,School name : z.p.school,14-07-2023,30,3,0,0,0.4,7.4,663,178,82,0.4,2.2,3.6,300,0.1,884,1
+Ghonashi,Ghonashi,"PrivateHand Pump, location : sainagar hand pump 1",05-07-2023,30,2,0,0,0.6,7.2,274,126,34,0.32,1.6,2.26,106,0.06,360,1
+Godwadi,Godwadi,"Source Type : Deep Tubewell, location : GAOTHAN",12-06-2023,33,2,0,0,0.5,7.2,532,82,98,0.2,26.12,1.6,322,0.04,706,1
+Godwadi,Godwadi,Anganwadi name : ANGANWADI 44,12-06-2023,33,2,0,0,0.5,7.3,370,58,54,0.3,22.6,2,222,0.06,492,1
+Godwadi,Godwadi,School name : GODWADI,12-06-2023,33,2,0,0,0.5,7.2,532,82,98,0.2,26.12,1.6,322,0.04,706,1
+Godwadi,Godwadi,"PrivateHand Pump, location : balaso sampat ghadage",12-06-2023,33,2,0,0,0.5,7.2,532,82,98,0.2,26.12,1.6,322,0.04,706,1
+Godwadi,Godwadi,"PrivateHand Pump, location : arjun bhargav ghadage",12-06-2023,33,2,0,0,0.5,7.3,370,58,54,0.3,22.6,2,222,0.06,492,1
+Goleshwar,Goleshwar,"Source Type : River, location : GOLESHWAR GAOTHAN",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Goleshwar,Goleshwar,"Source Type : Open Well, location : in habitaiton",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,154,1
+Goleshwar,Goleshwar,,21-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,368,1
+Goleshwar,Goleshwar,,02-06-2023,34,0,0,0,0.4,7.6,809,140,44,0.1,15.6,1.87,180,0.06,1072,1
+Goleshwar,Goleshwar,,02-06-2023,34,0,0,0,0.4,7.3,270,80,32,0.14,7.86,1.03,152,0.09,358,1
+Goleshwar,Goleshwar,,02-06-2023,34,0,0,0,0.4,7,56,20,12,0.11,0.6,1.51,20,0.08,89,1
+Goleshwar,Goleshwar,-----,02-06-2023,34,0,0,0,0.4,7.2,520,152,44,0.14,14.8,1.66,220,0.06,688,1
+Goleshwar,Goleshwar,Public tap water location : -----,02-06-2023,34,0,0,0,0.4,7.6,836,128,108,0.22,7.2,0.03,304,0.06,1109,1
+Goleshwar,Goleshwar,"Others, location : Sandip Bhaskar Mane House",02-06-2023,34,0,0,0,0.4,7.6,836,128,108,0.22,7.2,0.03,304,0.05,1108,1
+Goleshwar,Goleshwar,School name : KALYANI ENGLISH MEDIUM SCHOOL KARVE NAKA GOLESHWAR,24-07-2023,26,0,0,0,0.4,7.3,270,80,32,0.14,7.86,1.03,152,0.11,358,1
+Goleshwar,Goleshwar,School name : KALYANI MARATHI MEDIUM SCHOOL KARVE NAKA GOLESHWAR,24-07-2023,26,0,0,0,0.6,7.6,809,140,44,0.1,15.6,1.87,180,0.1,1072,1
+Goleshwar,Goleshwar,School name : z.p.school,24-07-2023,26,0,0,0,0.2,7.6,834,128,108,0.22,7.26,0.03,304,0.11,1108,1
+Goleshwar,Goleshwar,Anganwadi name : goleshwar 53,24-07-2023,26,0,0,0,0.2,7.6,834,128,108,0.22,7.26,0.03,304,0.12,1108,1
+Goleshwar,Goleshwar,Anganwadi name : goleshwar 54,24-07-2023,26,0,0,0,0.4,7.5,470,108,44,0.11,26.5,2.14,212,0.11,620,1
+Goleshwar,Goleshwar,Anganwadi name : 272,24-07-2023,26,0,0,0,0.4,7.3,270,80,32,0.14,7.86,1.03,152,0.09,358,1
+Goleshwar,Goleshwar,Anganwadi name : ANGANWADI NEW,24-07-2023,26,0,0,0,0.4,7.6,809,140,44,0.1,15.6,1.87,180,0.11,1072,1
+Goleshwar,Goleshwar,"Others, location : Pawar wasti",24-07-2023,26,0,0,0,0.2,7.6,834,128,108,0.22,7.26,0.03,304,0.1,1108,1
+Goleshwar,Goleshwar,Anganwadi name : goleshwar navin,24-07-2023,26,0,0,0,0.4,7.5,470,108,44,0.11,26.5,2.14,212,0.1,620,1
+Goleshwar,Goleshwar,"Others, location : Bapuji Nagar",24-07-2023,26,0,0,0,0.4,7.3,270,80,32,0.14,7.86,1.03,152,0.08,358,1
+Gondi,Gondi,"Others, location : Anganwadi No.56",26-07-2023,26,0,0,0,0.6,7.4,820,,138,0.1,50,2,422,0.04,1284,1
+Gondi,Gondi,"Others, location : Anganwadi No 57",06-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,274,0.02,368,1
+Gondi,Gondi,"Others, location : Navin Anganwadi",06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.21,0.9,211,0.09,254,1
+Gondi,Gondi,School name : z.p.school,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,210,1
+Gondi,Gondi,,22-06-2023,34,2,0,0,0.5,7.55,1372,200,326,0.19,12.6,1.1,596,0.06,2178,1
+Gondi,Gondi,"Source Type : River, location : KRISHNA RIVER",22-06-2023,34,2,0,0,0.5,7.83,1438,102,246,0.06,45,1,374,0.04,1908,1
+Gondi,Gondi,"Source Type : Open Well, location : in habitaiton",22-06-2023,34,2,0,0,0.5,7.3,316,118,42,0.11,14.2,1.2,158,0.06,488,1
+Gosavewadi,Gosavewadi,Anganwadi name : ANGANWADI 45,05-07-2023,30,2,0,0,0.5,7.2,436,98,50,0.38,21.5,2.98,200,0.03,682,1
+Gosavewadi,Gosavewadi,School name : z.p.school,11-07-2023,30,3,0,0,0.5,7.2,438,100,50,0.4,21.6,3.1,202,0.04,684,1
+Gosavewadi,Gosavewadi,Individual house tap water ANANDA PAWAR HOUSE,11-07-2023,30,2,0,0,0.5,7.2,438,100,50,0.4,21.6,3.1,202,0.04,684,1
+Gosavewadi,Gosavewadi,Individual house tap water ANIL MADANE HOUSE,11-07-2023,30,2,0,0,0.5,7.2,436,98,50,0.38,21.5,2.98,200,0.03,682,1
+Gosavewadi,Gosavewadi,"Source Type : Open Well, location : GOSAVEWADI 45",05-07-2023,30,2,0,0,0.5,7.2,438,100,50,0.4,21.6,3.1,202,0.04,684,1
+Gote,Gote,"Source Type : Open Well, location : NEAR KOYANA RIVER",08-06-2023,33,2,0,0,0.5,7.5,388,80,44,0,17.86,1,60,0,606,1
+Gote,Gote,Anganwadi name : anganwadi 61,08-06-2023,33,2,0,0,0.2,7.52,47,8,4,0.02,1.22,0.8,16,0.01,73,1
+Gote,Gote,"Source Type : Open Well, location : east of gaothan",08-06-2023,33,2,0,0,0.2,7.19,36,20,20,0.5,2.74,0.76,16,0.06,129,1
+Gote,Gote,School name : z.p.school,08-06-2023,33,2,0,0,0.5,7.5,388,80,44,0,17.86,1,60,0,606,1
+Gote,Gote,School name : PRITISANGAM VIDYAMANDIR GOTE MUNDHE,08-06-2023,33,2,0,0,0.2,7.52,47,8,4,0.02,1.22,0.8,16,0.01,73,1
+Gote,Gote,"Others, location : vitthal rukmini temple Near",08-06-2023,33,2,0,0,0.5,7.2,388,80,44,,17.86,1,60,,606,1
+Gote,Gote,"Others, location : ZP SCHOOL NEAR",08-06-2023,33,2,0,0,0.2,7.52,47,8,4,0.02,1.22,0.8,16,0.01,73,1
+Gotewadi,Gotewadi,Individual house tap water RAMCHANDRA SHANKAR TODAKAR,31-07-2023,26,2,0,0,0.4,7.2,200,50,20,0.2,2.12,1.6,116,0.04,268,1
+Gotewadi,Gotewadi,Individual house tap water SUNANDA PARSHURAM SHEDAGE,31-07-2023,26,2,0,0,0.4,7.2,200,50,20,0.2,2.12,1.6,116,0.04,268,1
+Gotewadi,Gotewadi,"Source Type : Open Well, location : In habitation",20-06-2023,33,3,0,0,0.4,7.2,200,50,20,0.2,2.12,1.6,116,0.04,268,1
+Gotewadi,Gotewadi,"Others, location : MULIKWADI ELECTRIC BORE",20-06-2023,33,3,0,0,0.4,7.2,224,58,14,0.16,3.96,1.9,114,0.02,304,1
+Gotewadi,Gotewadi,Anganwadi name : anganwadi 64,20-06-2023,33,2,0,0,0.4,7.2,200,50,20,0.2,2.12,1.6,116,,268,1
+Govare,Govare,", location : Location : HANUMAN NAGAR [ Source type : Deep Tubewell ] [ schemeId : 4441709, scheme name : HANUMAN NAGAR GOVARE BW/PP, Type : Handpump ]",24-05-2023,34,0,0,0,0.6,7.2,574,60,72,0.16,26.6,1.4,400,0.08,894,1
+Govare,Govare,"Source Type : Open Well, location : in habitaiton",24-05-2023,34,0,0,0,0.01,7,54,8,8,0.02,0.09,0.04,60,0.01,84,1
+Govare,Govare,"Source Type : Open Well, location : CHOUNDESHWAR NAGAR",18-09-2023,34,0,0,0,0.6,7.3,802,34,33,0.001,0.12,0.9,211,0.06,1252,1
+Govare,Govare,"Source Type : Open Well, location : IN HABITATION",24-05-2023,34,0,0,0,0.6,7.3,757,60,72,0.12,39.5,1.4,520,0.12,1183,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 50,07-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,1,0.9,186,0.09,211,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 51,07-09-2023,26,0,0,0,0.4,7.3,160,34,40,0.001,0.23,2.6,211,0.02,256,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 52,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,198,0.06,368,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 53,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,2.6,211,0.012,256,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 54,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,1.1,186,0.02,256,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 55,06-09-2023,26,0,0,0,0.4,7.3,160,26,33,0.001,0.12,0.9,211,0.02,240,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi - 56,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Hajarmachi,Hajarmachi,Anganwadi name : Anganwadi 49,06-09-2023,26,0,0,0,0.4,7.3,380,26,14,0.001,0.12,0.9,211,0.02,260,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi new malwadi,06-09-2023,26,0,0,0,0.5,7.3,380,34,33,0.001,1,0.9,274,0.02,368,1
+Hajarmachi,Hajarmachi,Anganwadi name : anganwadi new burudwasti,06-09-2023,32,0,0,0,0.5,7.3,160,26,33,0.001,0.23,0.9,211,0.02,211,1
+Hajarmachi,Hajarmachi,School name : ATMARAM VIDHYA MANDIR OGLEWADI,06-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Hajarmachi,Hajarmachi,School name : KALYANI ENG.MED.SCH.OGLEWADI,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.02,211,1
+Hajarmachi,Hajarmachi,School name : VIKAS MANDEER KOYANASAYDING,06-09-2023,26,0,0,0,0.5,7.3,156,34,33,0.11,0.27,0.9,274,0.02,368,1
+Hajarmachi,Hajarmachi,School name : Z.P.PS.SADASHIVGAD,06-09-2023,26,0,0,0,0.5,7.3,160,74,33,0.12,16.1,2.6,62,0.09,211,1
+Hajarmachi,Hajarmachi,School name : z.p.school,06-09-2023,26,0,0,0,0.5,7.3,160,34,16,0.001,0.12,0.9,186,0.09,256,1
+Hajarmachi,Hajarmachi,Individual house tap water Aslam Hamid Mulla,06-09-2023,26,0,0,0,0.4,7,380,34,33,0.001,0.12,1,211,0.02,211,1
+Hajarmachi,Hajarmachi,"Source Type : River, location : in habitaiton",02-06-2023,34,4,0,0,0.02,7,66,4,8,0.02,0.6,0.09,44,0.01,104,1
+Hajarmachi,Hajarmachi,", location : Location : JOTIRLINK MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313271, scheme name : JOTIRLINK MANDIR, Type : Handpump ]",18-09-2023,25,2,0,0,0.02,7,66,4,8,0.02,,0.09,42,0.01,103,1
+Hajarmachi,Hajarmachi,", location : Location : MAYUR HOTEL [ Source type : Deep Tubewell ] [ schemeId : 6313281, scheme name : MAYUR HOTEL, Type : Handpump ]",18-09-2023,34,0,,0,0.02,7,67,4,8,0.01,,0.08,44,0.01,105,1
+Hajarmachi,Hajarmachi,", location : Location : SABANE MANGAL KARLY [ Source type : Deep Tubewell ] [ schemeId : 6313272, scheme name : SABANE MANGAL KARLY, Type : Handpump ]",18-09-2023,25,2,,0,0.02,7,66,6,8,0.01,,0.08,44,0.02,103,1
+Hajarmachi,Hajarmachi,"Source Type : River, location : in habitaiton",02-06-2023,34,2,,0,0.02,7,66,6,8,0.01,,0.06,42,0.02,103,1
+Hanbarwadi,Hanbarwadi,School name : AADARSHA VIDYA. HANBARWADI,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.09,368,1
+Hanbarwadi,Hanbarwadi,Individual house tap water Ulahas Adhikrao Shedage,14-06-2023,33,3,0,0,0.24,7.1,306,58,32,0.08,3.06,0.8,166,0.06,408,1
+Hanbarwadi,Hanbarwadi,Individual house tap water Gajanan Shrirang Shedage,14-06-2023,33,3,0,0,0.5,7.1,550,84,64,0.18,3.21,0.73,216,0.05,738,1
+Hanbarwadi,Hanbarwadi,"Source Type : Open Well, location : percolation well near canol",12-06-2023,33,2,0,0,0.6,7.2,705,96,96,0.1,33.26,1.49,432,0.08,936,1
+Hanbarwadi,Hanbarwadi,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 1298, scheme name : HANBARWADI, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.1,550,84,64,0.18,3.21,0.73,216,0.05,738,1
+Hanbarwadi,Hanbarwadi,Anganwadi name : anganwadi 58,12-06-2023,33,2,0,0,0.6,7.2,705,96,96,0.1,33.26,1.49,432,0.08,936,1
+Hanbarwadi,Hanbarwadi,Anganwadi name : Anganwadi57,12-06-2023,33,2,0,0,0.5,7.2,550,84,64,0.18,3.21,0.73,216,0.05,738,1
+Hanbarwadi,Hanbarwadi,Anganwadi name : ANGANWADI MINI NEW,12-06-2023,33,2,0,0,0.6,7.2,705,96,96,0.1,33.26,1.49,432,0.08,936,1
+Hanbarwadi,Hanbarwadi,School name : z.p.school,12-06-2023,33,2,0,0,0.5,7.1,550,84,64,0.18,3.21,0.73,216,0.05,738,1
+Hanumantwadi,Hanumantwadi,Individual house tap water SAMBHAJI SHEWALE,31-07-2023,26,2,0,0,0.73,7.2,290,42,30,0.06,10.6,1.09,154,0.02,386,1
+Hanumantwadi,Hanumantwadi,Individual house tap water SANGITA KUMBHAR,31-07-2023,26,2,0,0,0.73,7.2,290,42,30,0.06,10.6,1.09,154,0.02,386,1
+Hanumantwadi,Hanumantwadi,"Source Type : Deep Tubewell, location : NEAR YAWATI DAM",20-06-2023,33,3,0,0,0.73,7.2,290,42,30,0.06,10.6,1.09,154,0.02,386,1
+Hanumantwadi,Hanumantwadi,School name : z.p.school,20-06-2023,33,2,0,0,0.73,7.2,290,42,30,0.06,10.6,1.09,154,0.02,386,1
+Hanumantwadi,Hanumantwadi,Anganwadi name : anganwadi -60,20-06-2023,33,2,0,0,0.73,7.2,290,42,30,0.06,10.6,1.09,154,0.02,386,1
+Hanumanwadi,Hanumanwadi,"Source Type : Open Well, location : in habitaiton",05-07-2023,30,2,0,0,0.5,7.2,224,38,18,0.4,2,1.2,56,0.09,296,1
+Hanumanwadi,Hanumanwadi,"Source Type : Deep Tubewell, location : NEAR YAWTI DAD",05-07-2023,30,2,0,0,0.5,7.18,222,40,18,0.36,1.8,1.1,58,0.1,298,1
+Hanumanwadi,Hanumanwadi,Anganwadi name : Anganwadi,05-07-2023,30,3,0,0,0.5,7.18,222,40,18,0.36,1.8,1.1,58,0.1,298,1
+Hanumanwadi,Hanumanwadi,School name : z.p.school,05-07-2023,30,3,0,0,0.6,7.3,658,164,52,0.3,30.6,3.6,378,0.09,874,1
+Harphalwadi,Harpalwadi,"Source Type : Open Well, location : Nalekar mala percolation well",15-09-2023,26,0,0,0,0.5,7.3,374,34,33,0.001,0.12,0.9,211,0.06,256,1
+Harphalwadi,Harpalwadi,", location : Location : Nalekar mala percolation well [ Source type : Open Well ] [ schemeId : 6313292, scheme name : Nalekar mala percolation well, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,391,44,44,0.9,16,6,296,0.12,611,1
+Harphalwadi,Harpalwadi,"Source Type : Open Well, location : NEAR GAOTHAN",08-06-2023,25,2,0,0,0.5,7.2,380,112,40,0.09,14.67,0.6,208,0.09,505,1
+Harphalwadi,Harpalwadi,Anganwadi name : anganwadi - 62,08-06-2023,33,2,0,0,0.5,7.2,380,112,40,0.09,14.67,0.65,208,0.09,505,1
+Harphalwadi,Harpalwadi,Anganwadi name : Harpalwadi new,08-06-2023,33,2,0,0,0.5,7.2,388,88,64,0.07,34.45,0.66,204,0.82,515,1
+Harphalwadi,Harpalwadi,Anganwadi name : Harpalwadi 61,08-06-2023,33,2,0,0,0.5,7.2,380,112,40,0.09,14.67,0.65,208,0.09,505,1
+Harphalwadi,Harpalwadi,School name : z.p.school,08-06-2023,33,2,0,0,0.5,7.2,388,88,64,0.07,34.45,0.66,204,0.82,515,1
+Harphalwadi,Harpalwadi,", location : Location : magas vasti [ Source type : Deep Tubewell ] [ schemeId : 6313295, scheme name : magas vasti, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,472,100,72,0.06,29,0.64,204,0.03,626,1
+Harphalwadi,Harpalwadi,", location : Location : Vetal mala [ Source type : Deep Tubewell ] [ schemeId : 6313294, scheme name : Vetal mala, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,230,60,28,0.08,9.32,0.77,104,0.06,305,1
+Harphalwadi,Harpalwadi,", location : Location : Deskhmukh lake [ Source type : Deep Tubewell ] [ schemeId : 6313293, scheme name : Deskhmukh lake , Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,497,140,80,0.06,35.76,0.69,192,0.05,658,1
+Harphalwadi,Harpalwadi,", location : Location : Deshmukh lane [ Source type : Deep Tubewell ] [ schemeId : 6313296, scheme name : Deshmukh lane, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,388,88,64,0.07,34.45,0.66,204,0.82,515,1
+Havelwadi,Havelwadi,Individual house tap water TATYA KASHID,06-09-2023,33,0,0,0,0.2,7,160,26,14,0.12,0.12,0.9,186,0.06,211,1
+Havelwadi,Havelwadi,Individual house tap water RESHMA SHEWALE,06-09-2023,32,0,0,0,0.3,7.1,160,26,33,0.11,1,0.9,186,0.04,256,1
+Havelwadi,Havelwadi,"Source Type : Open Well, location : NEAR GAOTHAN",20-06-2023,33,2,0,0,0.4,7.1,256,56,28,0.1,1.4,3.4,100,0.04,344,1
+Havelwadi,Havelwadi,"Others, location : GAVTHAN",20-06-2023,33,2,0,0,0.4,7.2,254,54,30,0.11,1.6,3.42,102,,346,1
+Havelwadi,Havelwadi,School name : z.p.school,20-06-2023,33,2,0,0,0.4,7.1,256,56,28,0.1,1.4,3.4,100,0.04,344,1
+Havelwadi,Havelwadi,Anganwadi name : anganwadi,20-06-2023,33,2,0,0,0.4,7.1,256,56,28,0.1,1.4,3.4,100,0.04,344,1
+Helgaon,Helgaon,Anganwadi name : anganwadi 63,05-07-2023,30,3,0,0,0.5,7.2,326,98,38,0.3,3.4,3.18,170,0.09,512,1
+Helgaon,Helgaon,Anganwadi name : anganwadi -64,05-07-2023,30,3,0,0,0.5,7.3,398,126,50,0.2,10.02,3.1,176,0.08,622,1
+Helgaon,Helgaon,Anganwadi name : anganwadi -66,05-07-2023,30,3,0,0,0.5,7.2,326,98,38,0.3,3.4,3.18,170,0.09,512,1
+Helgaon,Helgaon,School name : z.p.school,11-07-2023,30,2,0,0,0.6,7.2,272,86,26,0.18,8.6,1.1,178,0.06,5330,1
+Helgaon,Helgaon,School name : PANCHCROSHI DATTA VIDYAMANDIR HELGAON,11-07-2023,30,2,0,0,0.5,7.3,400,126,46,0.2,9.8,3.1,174,0.06,624,1
+Helgaon,Helgaon,Individual house tap water PRAKASH PATIL HOUSE,11-07-2023,30,3,0,0,0.5,7.3,398,126,50,0.2,10.02,3.1,176,0.08,622,1
+Helgaon,Helgaon,Individual house tap water APPASO SURYAWANSHI HOUSE,11-07-2023,30,2,0,0,0.5,7.3,400,126,46,0.2,9.8,3.1,174,0.06,624,1
+Helgaon,Helgaon,"Source Type : Open Well, location : HELGAON 65",05-07-2023,30,3,0,0,0.6,7.2,272,86,26,0.18,8.6,1.1,178,0.06,5330,1
+Helgaon,Helgaon,", location : Location : Pokale house [ Source type : Deep Tubewell ] [ schemeId : 6313303, scheme name : Pokale house, Type : Handpump ]",05-07-2023,30,3,0,0,0.6,7.2,476,118,38,0.12,16,0.6,282,0.08,634,1
+Helgaon,Helgaon,", location : Location : Mala vasti [ Source type : Deep Tubewell ] [ schemeId : 6313306, scheme name : Mala vasti, Type : Handpump ]",05-07-2023,30,3,0,0,0.6,7.2,404,98,38,0.11,7.8,1.2,198,0.06,544,1
+Hingnole,Hingnole,"Source Type : Open Well, location : NEAR GAOTHAN",08-06-2023,33,2,0,0,0.5,7.2,96,32,8,0.37,24.59,2.2,40,0.1,152,1
+Hingnole,Hingnole,"Others, location : Near Grampanchayat",26-09-2023,26,0,0,0,0.5,7.2,160,34,33,0.11,0.12,1,211,0.09,256,1
+Hingnole,Hingnole,Anganwadi name : Anganwadi-68,08-06-2023,33,2,0,0,0.5,7.3,472,472,56,0.33,36.12,2.17,212,0.14,631,1
+Hingnole,Hingnole,School name : z.p.school,08-06-2023,33,2,0,0,0.5,7.2,96,32,8,0.37,24.59,2.2,40,0.1,152,1
+Hingnole,Hingnole,"Others, location : Near Maruti Mandir",08-06-2023,33,2,0,0,0.5,7.2,386,84,56,0.54,19.38,1.4,204,0.13,512,1
+Indoli,Indoli,", location : Location : near smarak [ Source type : Deep Tubewell ] [ schemeId : 6313328, scheme name : near smarak, Type : Handpump ]",17-10-2023,,,,,,,,,,,,,,,210,0
+Indoli,Indoli,", location : Location : EAST OF GAOTHAN [ Source type : Deep Tubewell ] [ schemeId : 4423193, scheme name : SMARAK VASTI-INDOLI BWHP, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,430,80,80,0.12,18,4,172,0.16,672,1
+Indoli,Indoli,", location : Location : Chavan vasti [ Source type : Deep Tubewell ] [ schemeId : 6313322, scheme name : Chavan vasti, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,244,36,40,0.06,14,1.2,144,0.1,381,1
+Indoli,Indoli,", location : Location : Nandiwale vasti [ Source type : Deep Tubewell ] [ schemeId : 6313327, scheme name : Nandiwale vasti, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.2,269,40,60,0.109,29,1,160,0.14,420,1
+Indoli,Indoli,", location : Location : Jadhav vasti Shirgaon road [ Source type : Deep Tubewell ] [ schemeId : 6313324, scheme name : Jadhav vasti Shirgaon road, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.2,371,92,88,0.191,12,4,160,0.04,581,1
+Indoli,Indoli,"Source Type : Open Well, location : INDOLI 71",08-06-2023,25,2,0,0,0.5,7.2,233,149,36,0.9,3.11,0.9,48,0.1,233,1
+Indoli,Indoli,", location : Location : More lane [ Source type : Deep Tubewell ] [ schemeId : 6313320, scheme name : More lane, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,432,76,92,0.28,2.14,0.74,72,0.07,573,1
+Indoli,Indoli,", location : Location : Hatte lane [ Source type : Deep Tubewell ] [ schemeId : 6313321, scheme name : Hatte lane, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,508,96,56,0.16,45,1,216,0.14,792,1
+Indoli,Indoli,", location : Location : Kadambade vasti [ Source type : Deep Tubewell ] [ schemeId : 6313325, scheme name : Kadambade vasti, Type : Handpump ]",26-09-2023,26,2,0,0,0.5,7.2,231,32,24,0.12,15,1.2,140,0.1,361,1
+Indoli,Indoli,", location : Location : near smarak [ Source type : Deep Tubewell ] [ schemeId : 6313328, scheme name : near smarak, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.2,406,84,40,0.25,3.86,0.84,72,0.14,538,1
+Jakhinwadi,Jakhinwadi,", location : Location : Wadar vasti [ Source type : Deep Tubewell ] [ schemeId : 6313331, scheme name : Wadar vasti, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.2,294,68,50,0.16,34.66,1.2,150,0.06,462,1
+Jakhinwadi,Jakhinwadi,", location : Location : Samapat Patil mala [ Source type : Deep Tubewell ] [ schemeId : 6313337, scheme name : Samapat Patil mala, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.2,280,52,38,0.2,26.6,1.22,154,0.08,430,1
+Jakhinwadi,Jakhinwadi,", location : Location : Gopal wasti [ Source type : Deep Tubewell ] [ schemeId : 6313332, scheme name : Gopal wasti, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.1,278,52,46,0.16,29.6,0.44,126,0.09,440,1
+Jakhinwadi,Jakhinwadi,", location : Location : near Babaji Patil house [ Source type : Deep Tubewell ] [ schemeId : 6313333, scheme name : near Babaji Patil house, Type : Handpump ]",20-07-2023,25,2,0,0,0.6,7.3,290,52,42,0.14,22.8,0.99,184,0.1,460,1
+Jinti,Jinti,Individual house tap water NISHIGANDHA PATIL,04-09-2023,26,0,0,0,0.4,7.1,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Jinti,Jinti,"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,3,0,0,0.2,7.2,240,82,34,0.6,29.92,1.6,102,0.06,326,1
+Jinti,Jinti,"Source Type : Shallow Tubewell, location : in habitaiton",20-06-2023,33,3,0,0,0.2,7.4,616,126,58,0.4,35.7,1.58,406,0.05,814,1
+Jinti,Jinti,School name : Z P SCHOOL,20-06-2023,33,3,0,0,0.2,7.2,240,82,34,0.6,29.92,1.6,102,0.06,326,1
+Jinti,Jinti,Anganwadi name : anganwadi 72,20-06-2023,33,2,0,0,0.2,7.4,616,126,58,0.4,35.7,1.58,406,0.05,814,1
+Jujarwadi,Junjarwadi (n.v.),School name : z.p.school,20-07-2023,28,2,0,0,0.5,7.3,1122,162,98,0.2,40.93,6.8,210,0.1,1750,1
+Jujarwadi,Junjarwadi (n.v.),"Source Type : Open Well, location : @ GAOTHAN JUNJARWADI",12-06-2023,33,2,0,0,0.6,7.6,1220,214,270,0.16,48.6,3.8,600,0.04,1900,1
+Jujarwadi,Junjarwadi (n.v.),School name : z.p.school,12-06-2023,33,3,0,0,0.6,7.1,270,62,34,0.4,20.6,1.2,128,0.08,426,1
+Julewadi,Julewadi,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Julewadi,Julewadi,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Julewadi,Julewadi,"Source Type : Open Well, location : NEAR KRISNA @ GONDI GAOTHAN",15-06-2023,34,2,0,0,0.23,7.49,422,64,44,0.07,31.51,1.4,120,0.1,671,1
+Julewadi,Julewadi,"Source Type : Open Well, location : NEAR KRISNA @ GONDI GAOTHAN",15-06-2023,34,2,0,0,0.48,7.51,380,136,20,0.017,1.17,1.32,284,0.06,593,1
+Julewadi,Julewadi,"Source Type : Open Well, location : IN HABITATION",15-06-2023,34,2,0,0,0.6,7,120,38,22,0.16,10,1,24,0.08,186,1
+Kambirwadi,Kambirwadi,School name : z.p.school,07-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,211,0.02,256,1
+Kambirwadi,Kambirwadi,Individual house tap water santosh Shankar Kambire,14-06-2023,33,3,0,0,0.5,7.2,300,40,60,0.1,1.84,1,40,0.04,466,1
+Kambirwadi,Kambirwadi,Individual house tap water Satish Bhagwant Kambire,12-06-2023,33,2,0,0,0.5,7.2,299,40,60,0.1,1.86,1,38,0.03,468,1
+Kambirwadi,Kambirwadi,"Source Type : Open Well, location : GAOTHAN",12-06-2023,33,3,0,0,0.5,7.2,300,38,60,0.1,1.84,1,40,0.04,471,1
+Kambirwadi,Kambirwadi,Anganwadi name : Anganwadi,12-06-2023,33,2,0,0,0.5,7.2,299,38,60,0.1,1.86,1,38,0.03,468,1
+Kamthi,Kamthi,"Source Type : Open Well, location : in habitaiton",15-09-2023,26,0,0,0,0.6,7.2,477,34,33,0.001,0.12,0.9,211,0.06,746,1
+Kamthi,Kamthi,", location : Location : Bendad vasti [ Source type : Deep Tubewell ] [ schemeId : 6313375, scheme name : Bendad vasti, Type : Handpump ]",15-09-2023,34,0,0,0,0.6,7.2,478,34,33,0.11,0.12,0.9,211,0.06,748,1
+Kapil,Kapil,"Source Type : River, location : IN HABITATION",06-06-2023,34,3,0,0,0.6,7.3,448,128,52,0.09,26.1,1.1,218,0.04,590,1
+Kapil,Kapil,"Source Type : Open Well, location : NEAR GAOTHAN",06-06-2023,34,3,0,0,0.6,7.3,578,96,44,0.04,5.12,1,202,0.06,764,1
+Kapil,Kapil,Anganwadi name : ANGANWADI 95,24-07-2023,25,2,0,0,0.6,7.3,448,128,52,0.09,26.1,1.1,218,0.06,590,1
+Kapil,Kapil,"Others, location : gavthan",24-07-2023,25,2,0,0,0.4,7.6,809,140,44,0.1,15.6,1.87,180,0.09,1072,1
+Kapil,Kapil,Anganwadi name : kapil 96,24-07-2023,25,2,0,0,0.6,7.3,578,96,44,0.04,5.12,1,202,0.06,764,1
+Kapil,Kapil,Anganwadi name : ANGANWADI 51,24-07-2023,25,2,0,0,0.4,7.6,809,140,44,0.1,15.6,1.87,180,0.06,1072,1
+Kapil,Kapil,School name : z.p.school,24-07-2023,25,2,0,0,0.6,7.3,448,128,52,0.09,26.1,1.1,218,0.1,590,1
+Kapil,Kapil,School name : Z.P.PS.HOUDMALA,24-07-2023,25,2,0,0,0.6,7.3,578,96,44,0.04,5.12,1,202,0.11,764,1
+Kapil,Kapil,School name : JAVAHAR VIDYAMANDIR KAPIL GOLESHWAR,24-07-2023,26,0,0,0,0.4,7.6,836,128,108,0.22,7.2,0.03,304,0.11,1108,1
+Kapil,Pachwad Vasahat,Anganwadi name : kapil 191,24-07-2023,25,2,0,0,0.6,7.3,448,128,52,0.09,26.1,1.1,218,0.11,590,1
+Kapil,Pachwad Vasahat,"Others, location : pachwad vasahat",24-07-2023,25,2,0,0,0.6,7.3,578,96,44,0.04,5.12,1,202,0.13,764,1
+Karanjoshi,Karanjoshi,Anganwadi name : anganwadi,08-06-2023,33,2,0,0,0.5,7.3,495,112,44,0.31,24.95,0.89,268,0.1,864,1
+Karanjoshi,Karanjoshi,School name : zp school,08-06-2023,33,2,0,0,0.5,7.3,418,100,40,0.6,12.87,1.3,208,0.09,555,1
+Karanjoshi,Karanjoshi,"Source Type : Deep Tubewell, location : NEAR GAOTHAN",08-06-2023,25,2,0,0,0.5,7.3,495,112,44,0.31,24.95,0.89,268,0.1,864,1
+Karanjoshi,Karanjoshi,Anganwadi name : anganwadi,08-06-2023,33,2,0,0,0.5,7.3,495,112,44,0.31,24.95,0.89,268,0.1,864,1
+Karanjoshi,Karanjoshi,School name : zp school,08-06-2023,33,2,0,0,0.5,7.3,418,100,40,0.6,12.87,1.3,208,0.09,555,1
+Karanjoshi,Karanjoshi,"Source Type : Deep Tubewell, location : NEAR GAOTHAN",08-06-2023,25,2,0,0,0.5,7.3,495,112,44,0.31,24.95,0.89,268,0.1,864,1
+Karve,Gopalnagar,School name : z.p.school,24-07-2023,26,0,0,0,0.6,7.1,278,98,40,0.03,10.5,0.6,106,0.11,364,1
+Karve,Karve,Anganwadi name : karve 100,24-07-2023,26,0,0,0,0.6,7.5,987,240,50,0.08,43.65,4,250,0.1,1312,1
+Karve,Karve,Anganwadi name : karve 58,24-07-2023,26,0,0,0,0.6,7.5,987,240,50,0.04,40.1,4.1,222,0.1,1312,1
+Karve,Karve,Anganwadi name : karve 37,24-07-2023,26,0,0,0,0.6,7.5,1284,110,210,0.08,10.12,2.5,350,0.1,1702,1
+Karve,Karve,Anganwadi name : karve chouki mini,24-07-2023,26,0,0,0,0.6,7.2,280,82,38,0.06,10.12,1,142,0.11,374,1
+Karve,Karve,School name : Z.P.PS.GOPALNAGAR,24-07-2023,26,0,0,0,0.6,7.1,278,118,38,0.1,8.1,2.2,166,0.1,364,1
+Karve,Karve,School name : ZP SCHOOL BOYS KARVE,24-07-2023,26,0,0,0,0.6,7.5,987,240,50,0.08,43.65,4,250,0.11,1312,1
+Karve,Karve,Anganwadi name : 249,20-07-2023,25,2,0,0,0.6,7.5,1284,110,210,0.08,10.12,2.5,350,0.06,1702,1
+Karve,Karve,Anganwadi name : klarve 28,20-07-2023,25,2,0,0,0.6,7.2,280,82,38,0.06,10.12,1,142,0.1,374,1
+Karve,Karve,Anganwadi name : karve 101,20-07-2023,25,2,0,0,0.6,7.5,280,82,38,0.06,10.12,1,142,0.06,374,1
+Karve,Karve,Anganwadi name : karve 36,20-07-2023,25,2,0,0,0.6,7.5,987,240,50,0.08,43.65,4,250,0.08,1312,1
+Karve,Karve,Anganwadi name : karve 26,20-07-2023,25,2,0,0,0.6,7.5,987,240,50,0.08,43.65,4,250,,1312,1
+Karve,Karve,School name : DHANAI NAGAR,24-07-2023,26,0,0,0,0.6,7.3,602,82,82,0.1,47,1.8,206,0.06,796,1
+Karve,Karve,"Others, location : Anganwadi No.38",20-07-2023,25,2,0,0,0.6,7.5,987,240,50,0.04,40.1,4.1,222,0.09,1312,1
+Karve,Karve,"Others, location : Anganwadi no.99 Karve",07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,210,1
+Karve,Karve,"Others, location : Anganwadi No.101 Karve",24-07-2023,26,0,0,0,0.6,7.5,1284,110,210,0.08,10.12,2.5,350,0.1,1702,1
+Karve,Karve,"Others, location : Anganwadi no.98 Karve",24-07-2023,26,0,0,0,0.6,7.2,280,82,38,0.06,10.12,1,142,0.11,374,1
+Karve,Karve,"Others, location : Hulwan Wasti Anganwadi",24-07-2023,26,0,0,0,0.6,7.5,987,240,50,0.04,40.1,4.1,222,0.11,,1
+Karve,Karve,"Others, location : Indubai Balkrishna Mohite",24-07-2023,26,0,0,0,0.6,7.5,1284,110,210,0.08,10.12,2.5,350,0.11,1702,1
+Karve,Karve,", location : Location : Sahebrao Anna vast [ Source type : Deep Tubewell ] [ schemeId : 6313408, scheme name : Sahebrao Anna vast, Type : Handpump ]",15-06-2023,34,3,0,0,0.6,7.5,987,240,50,0.08,43.65,4,250,0.6,1312,1
+Karve,Karve,"PrivateHand Pump, location : KOREGAON ROAD PISAL VASTI",15-06-2023,34,3,0,0,0.6,7.5,987,240,50,0.04,40.1,4.1,222,0.6,1312,1
+Karve,Karve,"PrivateHand Pump, location : KOREGAON ROAD BHAIROBA MANDIR",15-06-2023,34,2,0,0,0.6,7.35,866,138,54,0.08,46.6,1.26,142,0.04,1148,1
+Karve,Karve,"PrivateHand Pump, location : KUMBHAR WADA HAND PUMP",15-06-2023,34,2,0,0,0.6,7.1,278,118,38,0.1,8.1,2.2,166,0.06,0.06,1
+Karve,Karve,"PrivateHand Pump, location : LY PATIL VASTI HAND PUMP",15-06-2023,34,2,0,0,0.6,7.5,1284,110,210,0.08,10.12,2.5,350,0.08,1702,1
+Karve,Karve,"PrivateHand Pump, location : SATUKASHI MALA",15-06-2023,34,2,0,0,0.6,7.1,278,98,40,0.03,10.5,0.6,106,0.06,364,1
+Karve,Karve,"PrivateHand Pump, location : THORAT MALA",15-06-2023,34,2,0,0,0.6,7.2,280,82,42,0.08,10.12,1,182,0.04,368,1
+Karve,Karve,"PrivateHand Pump, location : DHANAI MANDIR",15-06-2023,34,2,0,0,0.6,7.31,602,82,82,0.1,47.1,1.8,206,0.06,796,1
+Karve,Karve,"PrivateHand Pump, location : ANANDMALA HAND PUMP",15-06-2023,34,2,0,0,0.6,7.6,1268,162,126,0.1,48.1,2,312,0.04,1680,1
+Karve,Karve,"Source Type : River, location : GAOTHAN",15-06-2023,34,3,0,0,0.6,7.2,280,82,38,0.06,10.12,1,142,0.08,374,1
+Kasarshirambe,Kasarshirambe,Public tap water location : -----,21-12-2023,,0,,,,,,,,,,,,,,0
+Kasarshirambe,Kasarshirambe,"Others, location : gaavthan",15-06-2023,34,2,0,0,0.5,7.2,436,84,24,,0.55,0.61,124,,683,1
+Kasarshirambe,Kasarshirambe,"Others, location : maruti mandir",15-06-2023,34,2,0,0,1,7.2,357,84,48,0.1,29.06,1.28,120,0.1,558,1
+Kasarshirambe,Kasarshirambe,"Others, location : gaavthan",15-06-2023,34,2,0,0,0.5,7.18,155,20,72,0.08,0.55,1.29,20,0.1,246,1
+Kasarshirambe,Kasarshirambe,"Others, location : gaav",15-06-2023,34,2,0,0,0.5,7.2,101,36,36,0.1,3.23,0.58,24,0.1,157,1
+Kavathe,Kavathe,"Source Type : Deep Tubewell, location : GAOTHAN",05-07-2023,30,2,0,0,0.6,7.2,476,118,40,0.11,14.8,0.8,284,0.08,630,1
+Kavathe,Kavathe,"PrivateTube well / Bore well / Well, location : rewansiddha ward",05-07-2023,30,2,0,0,0.6,7.3,830,166,98,0.2,46,3.6,400,0.09,1298,1
+Kavathe,Kavathe,"Source Type : Deep Tubewell, location : IN HABITATION",05-07-2023,30,2,0,0,0.6,7.2,482,70,50,0.16,41.6,3.2,298,0.1,158,1
+Kavathe,Kavathe,"PrivateHand Pump, location : Revansidda ward",05-07-2023,30,2,0,0,0.6,7.2,360,90,30,0.14,12.8,2.2,210,0.11,566,1
+Kavathe,Kavathe,"PrivateTube well / Bore well / Well, location : kenjal wasti",05-07-2023,30,3,0,0,0.6,7.2,372,98,42,0.09,21.6,0.1,230,0.1,586,1
+Kavathe,Kavathe,"PrivateTube well / Bore well / Well, location : mala ward",05-07-2023,30,3,0,0,0.6,7.2,366,82,38,0.1,12.5,1.6,218,0.09,572,1
+Kavathe,Kavathe,"PrivateTube well / Bore well / Well, location : kenjal vasti",05-07-2023,30,3,0,0,0.6,7.2,356,86,46,0.11,22.6,1.4,190,0.1,562,1
+Kavathe,Kavathe,"PrivateTube well / Bore well / Well, location : kenjal vasti",05-07-2023,30,3,0,0,0.6,7.2,362,82,34,0.04,18.8,1,222,0.1,570,1
+Kavathe,Kavathe,Anganwadi name : ANGANWADI 74,11-07-2023,30,2,0,0,0.6,7.2,476,118,40,0.11,14.8,0.8,284,0.08,630,1
+Kavathe,Kavathe,Anganwadi name : anganwadi -85,11-07-2023,30,2,0,0,0.6,7.2,482,70,50,0.16,41.6,3.2,298,0.1,158,1
+Kavathe,Kavathe,Anganwadi name : Kavathe N,11-07-2023,30,0,0,0,0.6,7.2,476,118,40,0.11,14.8,0.8,284,0.08,630,1
+Kavathe,Kavathe,Individual house tap water BHUSHAN SUTAR HOUSE,11-07-2023,30,2,0,0,0.6,7.2,482,70,50,0.16,41.6,3.2,298,0.1,158,1
+Kavathe,Kavathe,Individual house tap water BALASAHEB KIRAT HOUSE,11-07-2023,30,2,0,0,0.6,7.2,360,90,30,0.14,12.8,2.2,210,0.11,566,1
+Kavathe,Kavathe,School name : z.p.school,11-07-2023,30,2,0,0,0.6,7.2,482,70,50,0.16,,3.2,298,0.1,158,1
+Kavathe,Kavathe,"Source Type : Deep Tubewell, location : GAOTHAN",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,"Others, location : jyotirling highschool",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,School name : z.p.school,20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,"Others, location : kenjal purva nalyojna",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,"Others, location : mala ward handpump",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,", location : Location : WALUCHAMALA [ Source type : Open Well ] [ schemeId : 4736299, scheme name : KAVATHE WALUCHAMALA BWPP, Type : Handpump ]",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 30307, scheme name : near school, Type : Handpump ]",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kavathe,Kavathe,"Others, location : begharvasti handpump",20-06-2023,,,,,,7,,,0,,,,,,,0
+Kese,Kese,Anganwadi name : anganwadi 108,02-06-2023,34,2,0,0,0.5,7.1,261,88,20,0.44,13.63,1.03,104,0.06,349,1
+Kese,Kese,Anganwadi name : anganwadi 109,02-06-2023,34,2,0,0,0.5,7.1,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Kese,Kese,Anganwadi name : anganwadi 107,02-06-2023,34,2,0,0,0.5,7.1,261,88,20,0.44,13.63,1.03,104,0.06,349,1
+Kese,Kese,Individual house tap water lalaso vilas shinde,02-06-2023,34,2,0,0,0.5,7.1,261,88,20,0.44,13.63,1.03,104,0.06,349,1
+Kese,Kese,Individual house tap water Uday shivaji shinde,02-06-2023,34,2,0,0,0.5,7.1,72,8,4,0.02,1.22,1.39,16,0.01,70,1
+Kese,Kese,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,0,0,0,0.5,7.1,70,8,4,0.02,1.22,1.39,16,0.01,72,1
+Kese,Kese,-----,02-06-2023,34,0,0,0,0.5,7.1,261,88,20,0.44,13.63,1.03,104,0.06,349,1
+Kese,Kese,-----,03-06-2023,34,0,0,0,0.5,7.1,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Kese,Kese,School name : z.p.school,02-06-2023,34,2,0,0,0.5,7.1,72,8,4,0.02,1.22,1.39,16,0.01,70,1
+Khalkarwadi,Khalkarwadi,"Source Type : Open Well, location : GAOTHAN",05-07-2023,30,2,0,0,0.5,7.2,524,122,98,0.3,1.1,3,164,0.1,700,1
+Khalkarwadi,Khalkarwadi,"Others, location : mane vasti bore well",05-07-2023,30,2,0,0,0.5,7.2,418,86,38,0.2,25.6,3.38,258,0.09,560,1
+Khalkarwadi,Khalkarwadi,Individual house tap water Dilip Bandu Ingale house tap,05-07-2023,30,2,0,0,0.5,7.2,418,86,38,0.2,25.6,3.38,258,0.09,560,1
+Khalkarwadi,Khalkarwadi,Individual house tap water Narayan Jaysing Khalkar house tap water,05-07-2023,30,2,0,0,0.5,7.2,524,122,98,0.3,1.1,3,164,0.1,700,1
+Khalkarwadi,Khalkarwadi,Anganwadi name : anganwadi mini new,05-07-2023,30,2,0,0,0.5,7.2,428,86,58,0.3,12,1.6,246,0.1,676,1
+Kharade,Kharade,", location : Location : Shamrao Kiratkar house [ Source type : Deep Tubewell ] [ schemeId : 6313454, scheme name : Shamrao Kiratkar house, Type : Handpump ]",05-07-2023,30,2,0,0,0.4,7.2,500,86,58,0.2,18.1,4.3,318,0.06,780,1
+Kharade,Kharade,"Others, location : new english school",05-07-2023,30,2,0,0,0.4,7.2,236,66,20,0.2,1.6,2.2,110,0.09,369,1
+Kharade,Kharade,"Source Type : Open Well, location : GAOTHAN",05-07-2023,30,2,0,0,0.4,7.2,310,82,22,0.18,1.56,2.1,210,0.1,484,1
+Kharade,Kharade,"Others, location : new english school",05-07-2023,30,2,0,0,0.4,7.2,170,46,14,0.26,12.6,0.6,90,0.11,262,1
+Kharade,Kharade,Anganwadi name : anganwadi,11-07-2023,30,3,0,0,0.4,7.2,236,66,20,0.2,1.6,2.2,110,0.09,369,1
+Kharade,Kharade,Anganwadi name : anganwadi,11-07-2023,30,2,0,0,0.4,7.2,170,46,14,0.26,12.6,0.6,90,0.11,262,1
+Kharade,Kharade,Individual house tap water BHANUDAS MADNE HOUSE,11-07-2023,30,3,0,0,0.4,7.2,310,82,22,0.18,1.56,2.1,210,0.1,484,1
+Kharade,Kharade,Individual house tap water ANIL JADHAV HOUSE,11-07-2023,30,2,0,0,0.4,7.2,170,46,14,0.26,12.6,0.6,90,0.11,262,1
+Kharade,Kharade,School name : Z.P.PS.SHARADNAGAR,11-07-2023,30,3,0,0,0.4,7.2,236,66,20,0.2,1.6,2.2,110,0.09,369,1
+Kharade,Kharade,School name : NEW ENGLISH SCHOOL KHARADE,11-07-2023,30,3,0,0,0.4,7.2,310,82,22,0.18,1.56,2.1,210,0.1,484,1
+Khodashi,Khodashi,"Source Type : River, location : KHODASHI BANDHARA",05-07-2023,30,3,0,0,0.6,7.2,470,74,58,0.26,28.9,2.5,162,0.03,626,1
+Khodashi,Khodashi,"PrivateHand Pump, location : cavan vasti handpump",05-07-2023,30,3,0,0,0.6,7.3,646,158,90,0.28,45.1,1.6,206,0.02,852,1
+Khodashi,Khodashi,", location : magas vasti hand pump",05-07-2023,30,2,0,0,0.6,7.2,318,110,46,0.2,4.1,1.12,118,0.06,418,1
+Khodashi,Khodashi,"Source Type : Open Well, location : IN HABITATION",05-07-2023,30,2,0,0,0.6,7.1,360,102,42,0.4,30.2,1.1,210,0.04,474,1
+Khodashi,Khodashi,", location : Location : ATH BIGA VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313455, scheme name : ATH BIGA VASTI, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.2,534,114,58,0.4,42.68,1.1,278,0.08,704,1
+Khodashi,Khodashi,", location : Location : NEAR SAVKAR HOUSE [ Source type : Deep Tubewell ] [ schemeId : 4421548, scheme name : KHODASHI SAVKAR VASTI, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.3,584,126,98,0.42,41.6,1.4,300,0.04,770,1
+Khodashi,Khodashi,Anganwadi name : ANGANWADI 92,05-07-2023,30,2,0,0,0.6,7.1,376,130,40,0.11,4.1,3.3,38,0.04,588,1
+Khodashi,Khodashi,School name : z.p.school,05-07-2023,30,3,0,0,0.6,0.6,418,318,110,46,0.2,4.1,1.12,118,7.2,1
+Khodashi,Khodashi,"Source Type : Open Well, location : KHODASHI 92",05-07-2023,30,2,0,0,0.6,7.1,376,130,40,0.11,4.1,3.3,38,0.04,588,1
+Khodjaiwadi,Khodjaiwadi,Individual house tap water Rajendra Daji Mandave,12-06-2023,33,2,0,0,0.2,7.2,440,118,38,0.2,9.79,0.8,262,0.06,584,1
+Khodjaiwadi,Khodjaiwadi,Individual house tap water Bajrang Maruti Kokate,12-06-2023,33,2,0,0,0.2,7.3,468,82,38,0.22,9.43,1,298,0.4,618,1
+Khodjaiwadi,Khodjaiwadi,"Source Type : Open Well, location : KHODJAIWADI 89",12-06-2023,33,2,0,0,0.2,7.3,468,82,38,0.22,9.43,1,298,0.4,618,1
+Khodjaiwadi,Khodjaiwadi,"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,2,0,0,0.2,7.2,440,118,38,0.2,9.79,0.8,262,0.06,584,1
+Khodjaiwadi,Khodjaiwadi,Anganwadi name : ANGANWADI 89,12-06-2023,33,2,0,0,0.2,7.2,440,118,38,0.2,9.79,0.8,262,0.06,584,1
+Khodjaiwadi,Khodjaiwadi,School name : z.p.school,12-06-2023,25,2,0,0,0.2,7.2,440,118,38,0.2,9.79,0.8,262,0.06,584,1
+Khubi,Khubi,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",04-08-2023,33,0,0,0,0.4,7,160,42,42,0.001,0.12,0.9,211,0.02,256,1
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",04-08-2023,32,0,0,0,0.4,7,160,44,33,0.001,0.12,0.9,211,0.001,154,1
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",04-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",03-08-2023,32,0,0,0,0.4,7,160,34,42,0.001,0.12,0.9,211,0.02,156,1
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",03-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,7,211,0.02,154,1
+Kirpe,Kirpe,"Source Type : Open Well, location : in habitaiton",03-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Kodoli,Kodoli,Anganwadi name : 114,24-07-2023,26,0,0,0,0.5,7.1,170,52,44,0.1,0.4,2,80,0.13,210,1
+Kodoli,Kodoli,Anganwadi name : 115,24-07-2023,26,0,0,0,0.5,7.4,924,60,100,0.2,15,2,600,0.11,1460,1
+Kodoli,Kodoli,Anganwadi name : Anganwadi 116,24-07-2023,26,0,0,0,0.5,7.4,652,72,96,0.4,38,3,380,0.12,973,1
+Kodoli,Kodoli,Anganwadi name : ANGANWADI NEW,24-07-2023,26,0,0,0,0.6,7.1,278,98,40,0.03,10.5,0.6,106,0.11,364,1
+Kodoli,Kodoli,School name : Z P SCHOOL,24-07-2023,26,0,0,0,0.5,7.4,924,60,100,0.2,15,2,600,0.1,1460,1
+Kodoli,Kodoli,"Source Type : River, location : in habitaiton",13-06-2023,34,2,0,0,0.5,7.4,652,72,96,0.4,38,3,380,0.09,1460,1
+Kodoli,Kodoli,"Others, location : inamdar wasti",13-06-2023,34,2,0,0,0.5,7.1,170,52,44,0.1,0.4,2,80,0.09,210,1
+Kodoli,Kodoli,"Others, location : Wakan Wasti",13-06-2023,34,3,0,0,0.5,7.1,266,40,60,0.3,21,1,120,0.1,426,1
+Kodoli,Kodoli,"Others, location : Ninai Wasti",13-06-2023,34,3,0,0,0.5,7.4,1058,192,200,0.2,10,2,292,0.11,1682,1
+Kodoli,Kodoli,School name : Z P SCHOOL,13-06-2023,34,2,0,0,0.5,7.4,924,60,100,0.2,15,2,600,0.1,1460,1
+Kodoli,Kodoli,"Others, location : Wakan Wasti",13-06-2023,34,3,0,0,0.5,7.6,886,138,126,1.1,22,2,426,0.09,1380,1
+Kole,Kole,"Source Type : River, location : in habitaiton",03-08-2023,32,0,0,0,0.4,7,160,44,42,0.001,0.12,0.9,211,0.012,466,1
+Kole,Kole,"Source Type : River, location : IN HABITATION",03-08-2023,33,0,0,0,0.4,7.1,160,34,42,0.001,0.12,0.09,211,0.02,154,1
+Kolewadi,Kolewadi,School name : z.p.school,08-08-2023,25,2,0,0,0.3,7.1,133,14,18,0.08,1,0.09,120,0.07,211,1
+Kolewadi,Kolewadi,Anganwadi name : anganwadi 125,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,368,1
+Kolewadi,Kolewadi,Anganwadi name : anganwadi 124,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.06,368,1
+Kolewadi,Kolewadi,Anganwadi name : anganwadi 126,21-09-2023,26,0,0,0,0.5,7.3,160,34,38,0.001,0.12,0.9,211,0.02,211,1
+Kolewadi,Kolewadi,Individual house tap water Rajendra Mahadar House,21-09-2023,33,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.6,186,0.02,211,1
+Kolewadi,Kolewadi,"Source Type : Open Well, location : in habitaiton",21-06-2023,33,2,0,0,0.5,7.3,337,100,40,0.02,1.13,0.92,132,0.07,448,1
+Kolewadi,Shindewadi,School name : z.p.school,08-08-2023,25,2,0,0,0.3,7.5,894,170,210,0.11,15.6,1.6,286,0.11,1189,1
+Kolewadi,Shindewadi,Anganwadi name : anganwadi 251,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Kolewadi,Shindewadi,Individual house tap water Mahadev Shinde House,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Kolewadi,Shindewadi,"Source Type : Open Well, location : IN HABITATION",21-06-2023,33,2,0,0,0.5,7.3,821,72,92,0.06,37.74,0.94,324,0.07,1088,1
+Kolewadi,Shindewadi,"Source Type : Open Well, location : NEAR SCHOOL",21-06-2023,33,2,0,0,0.5,7.3,393,104,76,0.07,26.47,0.67,124,0.03,522,1
+Konegaon,Konegaon,"Others, location : gavthan public well",26-07-2023,0,1,0,0,0.69,,444,112,88,0.33,3.19,12.06,106,0.39,520,1
+Konegaon,Konegaon,"Source Type : Open Well, location : GAOTHAN",05-07-2023,30,2,0,0,0.4,7.3,595,126,78,0.2,22,1.96,330,0.1,934,1
+Konegaon,Konegaon,Anganwadi name : anganwadi 100,11-07-2023,30,2,0,0,0.4,7.3,596,126,80,0.22,21.98,1.94,328,0.09,935,1
+Konegaon,Konegaon,Anganwadi name : anganwadi -101,11-07-2023,30,3,0,0,0.4,7.3,595,126,78,0.2,22,1.96,330,0.1,934,1
+Konegaon,Konegaon,Anganwadi name : ANGANWADI 102,11-07-2023,30,2,0,0,0.4,7.3,596,126,80,0.22,21.98,1.94,328,0.09,935,1
+Konegaon,Konegaon,Anganwadi name : anganwadi -103,11-07-2023,30,3,0,0,0.4,7.3,595,126,78,0.2,22,1.96,330,0.1,934,1
+Konegaon,Konegaon,Individual house tap water DIPAK LOHAR HOUSE,11-07-2023,30,2,0,0,0.4,7.3,596,126,80,0.22,21.98,1.94,328,0.09,935,1
+Konegaon,Konegaon,Individual house tap water LAXMAN BHOPTE HOUSE,11-07-2023,30,2,0,0,0.4,7.3,595,126,78,0.2,22,1.96,330,0.1,934,1
+Konegaon,Konegaon,School name : z.p.school,11-07-2023,30,2,0,0,0.4,7.3,596,126,80,0.22,21.98,1.94,328,0.09,935,1
+Konegaon,Konegaon,"School name : KONEGAON VIDYALAYA ,KONEGAON",11-07-2023,30,3,0,0,0.4,7.3,595,126,78,0.2,22,1.96,330,0.1,934,1
+Konegaon,Konegaon,"Source Type : Open Well, location : GAOTHAN",20-06-2023,,,,,,7,,,0,,,,,,,0
+Koparde-haveli,Koparde Haveli,School name : PODAR INTERNATIONAL SCHOOL KARAD,07-09-2023,26,0,0,0,0.5,7,160,34,33,0.001,19.6,0.9,211,0.02,256,1
+Koparde-haveli,Koparde Haveli,Individual house tap water Ravindra Rajaram Chavan,12-06-2023,33,2,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,Individual house tap water Hanmant Sadashiv Chavan,12-06-2023,33,2,0,0,0.5,7.1,400,52,40,0.1,22,1,194,0.06,626,1
+Koparde-haveli,Koparde Haveli,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : Anganvadi 107,12-06-2023,33,2,0,0,0.5,7.1,400,52,40,0.1,22,1,194,0.06,626,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : anganwadi mini,12-06-2023,33,2,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : anganwadi - 109,12-06-2023,33,2,0,0,0.5,7.1,400,52,40,0.1,22,1,194,0.06,626,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : Anganwadi 106,12-06-2023,33,3,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : Anganwadi108,12-06-2023,33,2,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : anganwadi new,12-06-2023,33,3,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,"Others, location : Near z p school",12-06-2023,33,3,0,0,0.5,7.1,400,52,40,0.1,22,1,194,0.06,626,1
+Koparde-haveli,Koparde Haveli,Anganwadi name : Anganwadi 104,12-06-2023,33,3,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,School name : Z P SCHOOL,12-06-2023,33,2,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Koparde-haveli,Koparde Haveli,School name : SIDHESHWAR VID.KOPARDE HAVELI,12-06-2023,33,2,0,0,0.5,7.1,400,52,40,0.1,22,1,194,0.06,626,1
+Koregaon,Koregaon,"Source Type : Open Well, location : gaothan",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Koregaon,Koregaon,"Source Type : Open Well, location : gaothan",02-06-2023,34,3,0,0,0.2,7.1,292,84,40,0.08,3.46,4.83,104,0.03,388,1
+Koregaon,Koregaon,"Source Type : Deep Tubewell, location : MANE WASTI DUAL PUMP ON SOLAR ENERGY",02-06-2023,34,2,0,0,0.2,7.2,296,84,16,0.12,18,6.18,144,0.04,394,1
+Koregaon,Koregaon,"Others, location : Savalekar Wasti",02-06-2023,34,2,0,0,0.2,7.4,944,260,140,0.03,45,1.8,340,0.06,1248,1
+Koregaon,Koregaon,"Others, location : Kamblewasti",02-06-2023,34,2,0,0,0.2,7.3,645,180,40,0.05,22.4,5.6,244,0.05,856,1
+Koregaon,Koregaon,"Others, location : Dattmandir",02-06-2023,34,3,0,0,0.2,7.3,590,140,32,0.17,2.8,5.89,300,0.02,784,1
+Koregaon,Koregaon,Individual house tap water Ramchandra Jangam,02-06-2023,34,3,0,0,0.2,7.1,292,84,40,0.08,3.4,4.83,104,0.06,388,1
+Koregaon,Koregaon,Individual house tap water Natha Baburao Naik,02-06-2023,34,3,0,0,0.2,7.1,290,84,40,0.08,3.4,4.83,104,0.04,388,1
+Koregaon,Koregaon,Anganwadi name : 128,24-07-2023,26,0,0,0,0.2,7.1,292,84,40,0.08,3.46,4.83,104,0.11,388,1
+Koregaon,Koregaon,Anganwadi name : koregaon 128,24-07-2023,26,0,0,0,0.2,7.4,944,260,140,0.03,45,1.8,340,0.13,1248,1
+Koregaon,Koregaon,School name : z.p.school,24-07-2023,26,0,0,0,0.5,7.3,482,40,60,0.4,16.25,1.2,288,0.06,750,1
+Koregaon,Koregaon,"Others, location : manewasti",24-07-2023,26,0,0,0,0.2,7.1,292,84,40,0.08,3.46,4.83,104,0.11,388,1
+Koregaon,Koregaon,"Source Type : Open Well, location : Gaothan",15-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Koriwale,Koriwale,,08-06-2023,25,,0,0,,7.2,507,80,60,0.26,45,3.67,,0.13,0,1
+Koriwale,Koriwale,-----,08-06-2023,25,2,,0,,7.2,247,44,36,,12.5,2,,0.06,385,1
+Koriwale,Koriwale,Anganwadi name : anganwadi - 111,08-06-2023,25,2,0,0,0.8,7.2,507,80,60,0.11,45,2.12,244,0.08,793,1
+Koriwale,Koriwale,Anganwadi name : ANGANWADI 110,08-06-2023,25,2,0,0,0.8,7.2,247,44,36,0.22,39.74,2,126,0.06,385,1
+Koriwale,Koriwale,School name : z.p.school,08-06-2023,25,2,0,0,0.8,7.2,247,44,36,0.22,39.74,1.22,116,0.08,385,1
+Korti,Korti,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,1,,0,0.6,,378,84,92,0.06,,2.55,204,0.07,500,1
+Korti,Korti,Anganwadi name : Anganwadi 98,12-06-2023,33,2,,0,0.6,,776,100,140,0.06,,3.34,444,0.08,1029,1
+Korti,Korti,School name : Z P SCHOOL TWO,12-06-2023,33,2,,0,0.6,,319,108,52,0.07,,2.2,148,0.09,423,1
+Korti,Korti,School name : Z P SCHOOL TWO,12-06-2023,33,2,,0,0.6,,583,100,60,0.32,,2.88,124,0.03,773,1
+Korti,Korti,", location : Location : near godown [ Source type : Deep Tubewell ] [ schemeId : 6313538, scheme name : near godown, Type : Handpump ]",12-06-2023,33,2,,0,0.6,,380,84,92,0.06,,2.2,200,0.06,0.06,1
+Korti,Korti,", location : Location : Siddheshwar Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313537, scheme name : Siddheshwar Mandir, Type : Handpump ]",12-06-2023,33,2,,0,0.6,,404,84,56,0.11,,2.17,220,0.06,536,1
+Korti,Korti,", location : Location : Swaraj Chowk [ Source type : Deep Tubewell ] [ schemeId : 6313539, scheme name : Swaraj Chowk, Type : Handpump ]",12-06-2023,33,2,,0,0.6,,378,84,92,0.06,,2.55,204,0.07,500,1
+Korti,Korti,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,2,,0,0.6,,224,60,20,0.23,,3.91,124,0.06,292,1
+Latakewadi,Latakewadi,Individual house tap water RAJARAM CHAVAN,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.08,466,1
+Latakewadi,Latakewadi,Individual house tap water SANGITA CHAVAN,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,58,0.02,230,1
+Latakewadi,Latakewadi,"Source Type : Open Well, location : near gaothan",20-06-2023,33,2,0,0,0.2,7.2,344,54,38,0.18,42.06,1.6,218,0.02,454,1
+Latakewadi,Latakewadi,School name : z.p.school,20-06-2023,33,3,0,0,0.2,7.2,344,54,38,0.18,42.06,1.6,218,0.02,454,1
+Latakewadi,Latakewadi,Anganwadi name : anganwadi,20-06-2023,33,3,0,0,0.2,7.2,344,54,38,0.18,42.06,1.6,218,0.02,454,1
+Loharwadi,Loharwadi,Individual house tap water BABAN AAVALE,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Loharwadi,Loharwadi,Individual house tap water KAVITA LOHAR,04-09-2023,25,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Loharwadi,Loharwadi,"Source Type : Open Well, location : near peprcolation pond",20-06-2023,33,2,0,0,0.4,7.1,232,58,14,0.3,4.6,1.5,154,0.02,304,1
+Loharwadi,Loharwadi,School name : z.p.school,20-06-2023,33,3,0,0,0.4,7.1,230,56,16,0.36,4.2,1.4,152,0.03,306,1
+Loharwadi,Loharwadi,Anganwadi name : anganwadi,20-06-2023,33,2,0,0,0.4,7.1,232,58,14,0.3,4.6,1.5,154,0.02,304,1
+Loharwadi,Loharwadi,Public tap water location : -----,20-06-2023,33,2,0,0,0.4,7.1,230,56,16,0.36,4.2,1.4,152,0.03,306,1
+Loharwadi,Loharwadi,"Source Type : Deep Tubewell, location : GAOTHAN",10-07-2023,,,,,,,,,0,,,,,,,0
+Maharugadewadi,Maharugadewadi,Individual house tap water SAMBHAJI JADHAV,04-09-2023,27,0,0,0,0.4,7,160,34,33,0.11,0.12,0.6,296,0.02,256,1
+Maharugadewadi,Maharugadewadi,Individual house tap water BALKRUSHNA MANE,04-09-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Maharugadewadi,Maharugadewadi,"Source Type : Open Well, location : GAOTHAN",20-06-2023,33,2,0,0,0.2,7.2,254,42,20,0.5,39.6,1.6,182,0.03,338,1
+Maharugadewadi,Maharugadewadi,School name : z.p.school,20-06-2023,33,3,0,0,0.2,7.2,254,42,20,0.5,39.6,1.6,182,0.03,338,1
+Maharugadewadi,Maharugadewadi,Anganwadi name : anganwadi,20-06-2023,33,2,0,0,0.2,7.2,254,42,20,0.5,39.6,1.6,182,0.03,338,1
+Malkhed,Malkhed,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Malkhed,Malkhed,"Others, location : gaavthan",08-06-2023,25,2,0,0,0.6,7.2,267,60,60,0.1,19,3,144,0.11,416,1
+Malkhed,Malkhed,"Others, location : gaavthan",08-06-2023,25,2,0,0,0.6,7.3,535,40,40,0.09,14,4,396,0.14,836,1
+Malwadi,Malwadi,School name : z.p.school,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,19.6,0.9,211,0.02,368,1
+Malwadi,Malwadi,Individual house tap water DHONDIRAM SHANKAR JAGATAP,05-09-2023,26,0,0,0,0.6,7,160,34,33,0.001,26.61,1.1,211,0.02,368,1
+Malwadi,Malwadi,Individual house tap water SHANTARAM KASHINATH SHELAR,05-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,62,0.02,210,1
+Malwadi,Malwadi,Anganwadi name : Anganwadi,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,1,0.9,211,0.02,210,1
+Malwadi,Malwadi,"Source Type : Open Well, location : in habitaiton",12-06-2023,33,3,0,0,0.5,7.2,410,66,86,0.16,8.36,1,174,0.09,646,1
+Malwadi,Malwadi,", location : Location : Smashanbhoomi [ Source type : Deep Tubewell ] [ schemeId : 6313574, scheme name : Smashanbhoomi, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.2,370,64,80,0.1,9.6,1,174,0.08,582,1
+Mangwadi (n.v.),Mangwadi (n.v.),"Source Type : Open Well, location : MANGWADI",12-06-2023,33,3,0,0,0.5,7.2,356,98,54,0.4,32.7,2.4,194,0.06,472,1
+Mangwadi (n.v.),Mangwadi (n.v.),Anganwadi name : Anganwadi,15-06-2023,34,2,0,0,,7.2,228,,16,0.14,1.44,1.58,108,0.05,303,1
+Mangwadi (n.v.),Mangwadi (n.v.),School name : z.p.school,14-08-2023,26,0,0,0,0.5,7.2,523,128,285,0.07,41.29,1.32,260,0.09,832,1
+Mangwadi (n.v.),Mangwadi (n.v.),"PrivateHand Pump, location : Tanaji Shamrao Borage",12-06-2023,33,1,0,0,,7.2,352,96,52,0.3,28.6,2.2,196,0.04,465,1
+Mangwadi (n.v.),Mangwadi (n.v.),"PrivateHand Pump, location : laxman shivaji bhondage",12-06-2023,33,2,0,0,0.5,7.2,356,98,54,0.4,32.7,2.4,194,0.06,472,1
+Manu,MANU,Individual house tap water SUNIL POL,04-09-2023,26,0,0,0,0.4,7,132,34,33,0.001,0.12,0.9,211,0.02,210,1
+Manu,MANU,Individual house tap water DATTATRAY AVGHADE,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Manu,MANU,"Source Type : River, location : GAOTHAN",20-06-2023,33,3,0,0,0.2,7.3,380,116,36,0.19,30.59,0.14,200,0.04,505,1
+Manu,MANU,Individual house tap water in front of grampanchat,20-06-2023,33,3,0,0,0.2,7.3,374,112,34,0.2,28.6,0.16,198,0.02,500,1
+Manu,MANU,School name : z.p.school,20-06-2023,33,2,0,0,0.2,7.3,380,116,36,0.19,30.59,0.14,200,0.04,505,1
+Manu,MANU,Anganwadi name : anganwadi 158,20-06-2023,33,3,0,0,0.2,7.3,374,112,34,0.2,28.6,0.16,198,0.02,,1
+Marali,Daphalwadi,", location : Location : DAPHALWADI [ Source type : Deep Tubewell ] [ schemeId : 4441765, scheme name : DAPHALWADI-MARALI BW/PP, Type : Handpump ]",12-06-2023,33,2,0,0,0.6,7.3,354,44,48,0.11,25.5,3.2,220,0.06,542,1
+Marali,Daphalwadi,Anganwadi name : anganwadi,12-06-2023,33,2,0,0,0.6,7.2,412,98,34,0.6,10.5,0.88,260,0.06,542,1
+Marali,Daphalwadi,"Others, location : z p shala mage",12-06-2023,33,3,0,0,0.6,7.3,352,42,46,0.1,26,3,222,0.09,544,1
+Marali,Daphalwadi,Public tap water location : -----,12-06-2023,33,2,0,0,0.6,7.4,610,82,86,0.11,55,5,374,0.06,950,1
+Marali,Daphalwadi,Public tap water location : -----,12-06-2023,33,2,0,0,0.6,7.3,354,44,48,0.11,25.5,3.2,220,0.06,542,1
+Marali,Daphalwadi,Public tap water location : -----,12-06-2023,33,2,0,0,0.6,7.2,392,122,36,0.4,11.6,0.8,222,0.08,520,1
+Marali,Marali,", location : Location : Marathi school [ Source type : Deep Tubewell ] [ schemeId : 6313584, scheme name : Marathi school, Type : Handpump ]",12-06-2023,33,2,0,0,0.6,7.4,610,82,86,0.11,55,5,374,0.06,950,1
+Marali,Marali,", location : Location : Jotiba Mandir [ Source type : Open Well ] [ schemeId : 6313582, scheme name : Jotiba Mandir, Type : Handpump ]",12-06-2023,33,2,0,0,0.6,7.4,610,82,86,0.11,55,5,374,0.06,950,1
+Marali,Marali,", location : Location : Magas vasti [ Source type : Deep Tubewell ] [ schemeId : 6313583, scheme name : Magas vasti, Type : Handpump ]",12-06-2023,33,3,0,0,0.6,7.4,596,94,98,0.14,48,7,370,0.08,928,1
+Marali,Marali,Anganwadi name : anganwadi,12-06-2023,33,2,0,0,0.6,7.2,392,122,36,0.4,11.6,0.8,222,0.08,520,1
+Marali,Marali,Anganwadi name : ANGANWADI MINI NEW,12-06-2023,33,2,0,0,0.6,7.3,354,44,48,0.11,25.5,3.2,220,0.06,542,1
+Marali,Marali,Public tap water location : -----,12-06-2023,33,2,0,0,0.6,7.2,412,98,34,0.6,10.5,0.88,260,0.06,542,1
+Marali,Marali,Public tap water location : -----,12-06-2023,33,2,0,0,0.6,7.4,610,82,86,0.11,55,5,374,0.06,950,1
+Maskarwadi,Maskarwadi,School name : LOKNETE BABASAHEB CHOREKAR VIDYALAYA MASKARWADI,12-06-2023,33,3,0,0,0.6,7.2,372,82,42,0.2,17.34,1,82,0.08,578,1
+Maskarwadi,Maskarwadi,School name : z.p.school,12-06-2023,33,3,0,0,0.6,7.1,172,38,18,0.6,,1.1,96,0.06,225,1
+Maskarwadi,Maskarwadi,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,2,0,0,0.6,7.1,172,38,18,0.6,,1.1,96,0.06,225,1
+Maskarwadi,Maskarwadi,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,2,0,0,0.6,7.2,372,82,42,0.2,,1,82,0.08,578,1
+Maskarwadi,Maskarwadi,Individual house tap water dattaram popat suryavanshi house,12-06-2023,33,2,0,0,0.6,7.1,172,38,18,0.6,,1.1,96,0.06,225,1
+Maskarwadi,Maskarwadi,Individual house tap water dnyandev nivrutti suryavanshi house tap,12-06-2023,33,2,0,0,0.6,7.2,372,82,42,0.2,,1,82,0.08,578,1
+Maskarwadi,Maskarwadi,"PrivateHand Pump, location : anganwadi samoril hand pump",12-06-2023,33,2,0,0,0.6,7.2,323,30,44,0.2,,2,176,0.08,500,1
+Masur,Masur,School name : INDIRA KANYA PRASHALA MASUR,07-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,368,1
+Masur,Masur,School name : MASUR BOYS,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,198,0.02,368,1
+Masur,Masur,School name : MASUR GIRLS,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,62,0.02,368,1
+Masur,Masur,"Others, location : ZP School Sanjay nagar",07-09-2023,26,0,0,0,0.4,7.3,160,26,33,0.001,0.12,2.6,211,0.02,211,1
+Masur,Masur,"School name : SAMARTH NATIONAL PUBLIC SCHOOL, ,MASUR",07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.28,0.12,0.9,198,0.06,210,1
+Masur,Masur,School name : S. ENG.MED. MASUR,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,19.6,0.9,211,0.02,210,1
+Masur,Masur,School name : MOTHER TERESA ENGLISH MEDIUM SCHOOL MALWADI(MASUR),07-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,211,0.02,368,1
+Masur,Masur,School name : SHRI SHIVAJI VIDYALAY MASUR,26-07-2023,26,0,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.08,1490,1
+Masur,Masur,Individual house tap water YURAJ PATIL CHOUK,21-08-2023,32,0,0,0,0.4,7.1,210,42,42,0.001,0.12,0.9,162,0.02,256,1
+Masur,Masur,Public tap water location : -----,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Masur,Masur,Anganwadi name : anganwadi new 1,12-06-2023,25,2,0,0,0.5,7.3,364,148,30,0.1,6.1,1.98,296,0.4,570,1
+Masur,Masur,Anganwadi name : Masur 2,12-06-2023,25,3,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,Anganwadi name : Anganwadi 128,12-06-2023,25,2,0,0,0.5,7.4,620,86,62,0.1,45,4,386,0.04,970,1
+Masur,Masur,Anganwadi name : Masur 129,12-06-2023,25,2,0,0,0.5,7.3,364,148,30,0.1,6.1,1.98,296,0.4,570,1
+Masur,Masur,Anganwadi name : anganwadi - 130,12-06-2023,33,2,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,Anganwadi name : anganwadi - 131,12-06-2023,33,2,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,Anganwadi name : anganwadi - 132,12-06-2023,33,2,0,0,0.5,7.3,364,148,30,0.1,6.1,1.98,296,0.4,570,1
+Masur,Masur,Anganwadi name : anganwadi - 133,12-06-2023,33,2,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,Anganwadi name : anganwadi - 134,12-06-2023,33,2,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,Anganwadi name : anganwadi - 135,12-06-2023,33,2,0,0,0.5,7.3,364,148,30,0.1,6.1,1.98,296,0.4,570,1
+Masur,Masur,Anganwadi name : anganwadi - 136,12-06-2023,33,2,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.4,620,86,62,0.1,45,4,386,0.04,970,1
+Masur,Masur,"Source Type : Open Well, location : MASUR 128",12-06-2023,33,3,0,0,0.5,7.5,954,200,98,0.11,45,1,200,0.06,1490,1
+Masur,Masur,"Others, location : PHC Masur",12-06-2023,33,3,0,0,0.5,7.3,364,148,30,0.1,6.1,1.98,296,0.4,570,1
+Mervawadi (n.v.),Mervawadi (n.v.),"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,0,0,0,0.06,7,43,8,12,0.1,10.06,1,56,0.02,68,1
+Mundhe,Mundhe,"Source Type : Open Well, location : @ BANK OF KRISHNA RIVER",02-06-2023,34,2,0,0,0.8,7.4,750,76,68,0.01,10.22,10.48,300,0.11,993,1
+Mundhe,Mundhe,"Source Type : River, location : KOYANA RIVER NEAR KESE VILLEGE",02-06-2023,34,2,0,0,0.8,7.4,750,76,68,0.01,10.22,10.48,300,0.11,993,1
+Mundhe,Mundhe,Anganwadi name : ANGANWADI NEW,02-06-2023,34,2,0,0,0.8,7.3,440,132,40,0.21,45,4.81,232,0.17,584,1
+Mundhe,Mundhe,Anganwadi name : Anganwadi new mini,02-06-2023,34,2,0,0,0.8,7.4,750,76,68,0.01,10.22,10.48,300,0.11,993,1
+Mundhe,Mundhe,School name : PRITISANGAM VIDYAMANDIR GOTE MUNDHE,02-06-2023,34,2,0,0,0.8,7.2,782,140,100,0.24,55.88,8.09,260,0.08,1037,1
+Mundhe,Mundhe,School name : z.p.school,02-06-2023,34,2,0,0,0.8,7.2,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,Anganwadi name : anganwadi 171,02-06-2023,34,2,0,0,0.8,7.4,750,76,68,0.01,10.22,10.48,300,0.11,993,1
+Mundhe,Mundhe,Anganwadi name : anganwadi 170,02-06-2023,34,2,0,0,0.8,7.3,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,Anganwadi name : anganwadi 174,02-06-2023,34,2,0,0,0.8,7.3,440,132,40,0.21,45,4.81,232,0.17,584,1
+Mundhe,Mundhe,Anganwadi name : anganwadi173,02-06-2023,34,2,0,0,0.8,7.2,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,Individual house tap water Balu Dhondi Bhandalkar,02-06-2023,34,2,0,0,0.8,7.3,440,132,40,0.21,45,4.81,232,0.17,584,1
+Mundhe,Mundhe,Individual house tap water Vilas Shamrao Mohite,02-06-2023,34,2,0,0,0.8,7.2,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 4423804, scheme name : MUNDHE-SAWANT VASTI, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.3,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,", location : Location : CHAVAN MALA NO1 [ Source type : Deep Tubewell ] [ schemeId : 6313635, scheme name : CHAVAN MALA NO1, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.3,440,132,40,0.21,45,4.81,232,0.17,584,1
+Mundhe,Mundhe,", location : Location : JAMALE MALA [ Source type : Deep Tubewell ] [ schemeId : 4441169, scheme name : MUNDHE, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.2,391,128,44,0.25,34.86,5.51,200,0.09,519,1
+Mundhe,Mundhe,", location : Location : ANGANWADI [ Source type : Deep Tubewell ] [ schemeId : 6313634, scheme name : ANGANWADI, Type : Handpump ]",02-06-2023,34,2,0,0,0.8,7.2,644,152,84,0.06,55.68,6.22,316,0.05,855,1
+Nadashi,Nadashi,Individual house tap water Adhikrao Bhargav Thorat,12-06-2023,33,2,0,0,0.2,7.3,580,194,74,0.1,13.82,3,178,0.04,910,1
+Nadashi,Nadashi,Individual house tap water Maruti Sadashiv Gaikawad,12-06-2023,33,2,0,0,0.2,7.2,466,80,36,0.2,9.43,1,296,0.06,616,1
+Nadashi,Nadashi,"Source Type : Open Well, location : NADASHI 138",12-06-2023,33,3,0,0,0.2,7.3,580,194,74,0.1,13.82,3,178,0.04,910,1
+Nadashi,Nadashi,Anganwadi name : ANGANWADI 138,12-06-2023,33,2,0,0,0.2,7.2,466,80,36,0.2,9.43,1,296,0.06,616,1
+Nadashi,Nadashi,Anganwadi name : Nadashi 139,12-06-2023,33,3,0,0,0.2,7.2,466,80,36,0.2,9.43,1,296,0.06,616,1
+Nadashi,Nadashi,Anganwadi name : anganwadi 7,12-06-2023,33,3,0,0,0.2,7.3,580,194,74,0.1,13.82,3,178,0.04,910,1
+Nadashi,Nadashi,Anganwadi name : ANGANWADI NEW,12-06-2023,33,3,0,0,0.2,7.3,580,194,74,0.1,13.82,3,178,0.04,910,1
+Nadashi,Nadashi,School name : z.p.school,12-06-2023,25,2,0,0,0.2,7.2,466,80,36,0.2,9.43,1,296,0.06,616,1
+Nandgaon,Nandgaon,School name : NEW ENGLISH SCHOOL NANDGAON,20-07-2023,28,2,0,0,0.5,7.5,1118,218,166,0.4,40.83,6.1,542,0.09,1744,1
+Nandgaon,Nandgaon,"PrivateTube well / Bore well / Well, location : Anita Sanjay Patil",22-06-2023,32,2,0,0,0.5,7.5,1124,206,162,0.18,40.65,5.7,502,0.11,1758,1
+Nandgaon,Nandgaon,"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,2,0,0,0.5,7.5,1110,216,168,0.3,40.6,4.6,488,0.1,1720,1
+Nandgaon,Nandgaon,"Source Type : Deep Tubewell, location : Karad chandoli rasta ward no 3",12-06-2023,33,2,0,0,0.5,7.5,1118,206,170,0.5,41.83,6.1,526,0.1,1744,1
+Nandgaon,Nandgaon,"Source Type : Open Well, location : GAOTHAN",12-06-2023,33,3,0,0,0.5,7.4,1129,210,162,0.4,41.32,5.7,502,0.11,1760,1
+Nandgaon,Nandgaon,"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,2,0,0,0.5,7.4,1118,206,170,0.5,41.28,6.1,526,0.1,1744,1
+Nandgaon,Nandgaon,School name : z.p.school,12-06-2023,33,3,0,0,0.5,7.5,1110,216,168,0.3,40.6,4.6,488,0.1,1720,1
+Nandgaon,Nandgaon,School name : Z.P.PS.MOREWADI,12-06-2023,33,3,0,0,0.5,7.5,1124,206,162,0.18,40.65,5.7,502,0.11,1758,1
+Nandgaon,Nandgaon,Anganwadi name : anganwadi 179,12-06-2023,33,2,0,0,0.5,7.5,1118,218,166,0.4,40.83,6.1,542,0.09,1744,1
+Nandlapur,Nandalapur,"PrivateTube well / Bore well / Well, location : Sujata Shirke",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Nanegaon Bk,Nanegaon Bk,", location : Location : Sampat Bolake house [ Source type : Deep Tubewell ] [ schemeId : 6313664, scheme name : Sampat Bolake house, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.2,318,86,26,0.36,20.6,3.1,150,0.04,418,1
+Nanegaon Bk,Nanegaon Bk,", location : Location : near Samaj Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313663, scheme name : near Samaj Mandir, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.2,318,86,26,0.36,20.6,3.1,150,0.04,418,1
+Narayanwadi,Narayanwadi,"Source Type : Open Well, location : near gaothan",20-07-2023,25,2,0,0,0.4,7.1,172,44,16,0.03,2.69,0.13,56,0.05,226,1
+Navin Kavathe,Navin Kavathe,Anganwadi name : ANGANWADI 142,11-07-2023,30,3,0,0,0.4,7.2,520,110,62,0.1,41.6,2.3,286,0.09,814,1
+Navin Kavathe,Navin Kavathe,Anganwadi name : ANGANWADI 143,11-07-2023,30,2,0,0,0.4,7.2,272,82,26,0.3,8.9,1.2,162,0.1,530,1
+Navin Kavathe,Navin Kavathe,Individual house tap water SATISH KALASKAR HOUSE,11-07-2023,30,2,0,0,0.4,7.2,520,110,62,0.1,41.6,2.3,286,0.09,814,1
+Navin Kavathe,Navin Kavathe,Individual house tap water RAGHUANTH WAYDANDE HOUSE,11-07-2023,30,2,0,0,0.4,7.2,272,82,26,0.3,8.9,1.2,162,0.1,530,1
+Navin Kavathe,Navin Kavathe,School name : z.p.school,11-07-2023,30,2,0,0,0.4,7.2,520,110,62,0.1,41.6,2.3,286,0.09,814,1
+Navin Kavathe,Navin Kavathe,"Source Type : Open Well, location : GAOTHAN",20-06-2023,,,,,,7,,,0,,,,,,,0
+Navin Kavathe,Navin Kavathe,"Others, location : khandoba vasti",21-06-2023,,,,,,7.3,,,48,,,,,,,1
+Nigadi,Nigadi,Individual house tap water Nitin Abaso Koli,12-06-2023,33,2,0,0,0.5,7.2,400,94,40,0.06,28.17,2.23,270,0.06,528,1
+Nigadi,Nigadi,Individual house tap water Maruti Gangaram Mane,14-06-2023,33,3,0,0,0.5,7.2,400,94,40,0.06,28.17,2.23,270,0.06,528,1
+Nigadi,Nigadi,"Source Type : Open Well, location : MAHARKHI",12-06-2023,33,2,0,0,0.5,7.3,420,82,40,0.08,3.1,5.35,270,0.06,558,1
+Nigadi,Nigadi,"Source Type : Open Well, location : SOUTH OF GAOTHAN",12-06-2023,33,3,0,0,0.5,7.2,400,94,40,0.06,28.17,2.23,270,0.06,528,1
+Nigadi,Nigadi,Anganwadi name : anganwadi - 141,12-06-2023,33,2,0,0,0.5,7.2,400,94,40,0.06,28.17,2.23,270,0.06,528,1
+Nigadi,Nigadi,Anganwadi name : Anganwadi 140,12-06-2023,33,3,0,0,0.5,7.3,420,82,40,0.08,3.1,5.35,270,0.06,558,1
+Nigadi,Nigadi,School name : z.p.school,12-06-2023,33,2,0,0,0.5,7.2,400,94,40,0.06,28.17,2.23,270,0.06,528,1
+Ond,Ond,Individual house tap water BHASKAR RAMCHANDRA TAMBE ( OND),06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Ond,Ond,Individual house tap water USHA THORAT (OND),06-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,211,0.02,211,1
+Ond,Ond,"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,3,0,0,0.2,7.41,962,138,124,0.4,45,2.2,502,0.02,1272,1
+Ond,Ond,", location : Location : Chambhar vasti [ Source type : Deep Tubewell ] [ schemeId : 6313685, scheme name : Chambhar vasti, Type : Handpump ]",20-06-2023,33,2,0,0,0.2,7.42,1250,162,256,0.5,50.12,1.5,584,0.03,1254,1
+Ond,Ond,"Others, location : MARUTI MANDIR",20-06-2023,33,2,0,0,0.2,7.51,972,150,106,0.3,56.6,2.1,486,0.04,1285,1
+Ond,Ond,"Others, location : Z. P. SCHOOL JADHAV MALA",20-06-2023,33,3,0,0,0.2,7.61,890,126,110,0.3,22.12,2.8,518,0.04,1189,1
+Ond,Ond,"Others, location : NEAR HEALTH CENTRE",20-06-2023,33,3,0,0,0.2,7.41,1032,150,162,0.4,54.6,1.6,542,0.04,1366,1
+Ond,Ond,"Others, location : BAJARPETH HAND PUMP",20-06-2023,33,3,0,0,0.2,7.61,899,126,110,0.3,22.1,2.6,516,0.06,1189,1
+Ond,Ond,Anganwadi name : anganwadi 182,20-06-2023,33,3,0,0,0.2,7.49,902,138,96,0.2,58.6,1.45,602,0.06,1194,1
+Ondoshi,Ondoshi,Individual house tap water MINAKSHI MORE ( ONDOSHI),06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Ondoshi,Ondoshi,Individual house tap water MORE DIPAK GANPATRAO,06-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Ondoshi,Ondoshi,"Source Type : Open Well, location : ONDOSHI 187",20-06-2023,33,2,0,0,0.2,7.3,534,106,58,0.12,42,1,314,0.04,712,1
+Ondoshi,Ondoshi,"Others, location : GAVTHAN ONDOSHI",20-06-2023,33,2,0,0,0.2,7.3,454,98,42,0.22,45,1.4,286,0.06,6.4,1
+Ondoshi,Ondoshi,"Others, location : BIROBA MANDIR ONDOSHI",20-06-2023,33,2,0,0,0.2,7.3,346,70,38,0.26,20.6,1.3,174,0.06,453,1
+Ondoshi,Ondoshi,"Source Type : Open Well, location : ONDOSHI 187",20-06-2023,33,2,0,0,0.2,7.41,962,138,124,0.4,45,2.2,502,0.02,1272,1
+Ondoshi,Ondoshi,School name : z.p.school,20-06-2023,33,2,0,0,0.2,7.3,454,98,42,0.22,45,1.4,286,0.06,6.4,1
+Pachund,PACHUND,Individual house tap water arun raghunath jadhav,03-08-2023,26,0,0,0,0.2,7.1,130,22,14,0.06,0.36,0.9,46,0.06,210,1
+Pachund,PACHUND,"Source Type : Open Well, location : NEAR GAOTHAN",02-06-2023,34,0,0,0,0.06,7,43,56,12,0.1,9.68,1,56,0.02,68,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),Individual house tap water DINKAR KOLEKAR,06-09-2023,33,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,296,0.02,210,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),Individual house tap water SHAILA MORE,06-09-2023,33,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),"Source Type : Deep Tubewell, location : NEAR NAULA",20-06-2023,33,2,0,0,0.19,7.18,338,72,52,0.14,18.8,4.21,172,0.09,447,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),"Others, location : GAVTHAN",20-06-2023,33,2,0,0,0.6,7,168,38,14,0.13,2.6,3.6,98,0.04,226,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),School name : z.p.school,20-06-2023,33,3,0,0,0.6,7,172,38,34,0.4,10.6,1.2,86,0.03,276,1
+Pachupatewadi (n.v.),Pachupatewadi (n.v.),Anganwadi name : anganwadi 190,20-06-2023,33,3,0,0,0.6,7,172,38,34,0.4,10.6,1.2,86,0.03,276,1
+Padali Kese,Padali Kese,Anganwadi name : ANGANWADI 192,02-06-2023,34,2,0,0,0.6,7.3,333,44,48,0.53,15.4,0.68,124,0.05,443,1
+Padali Kese,Padali Kese,Anganwadi name : Anganwadi new mini,02-06-2023,34,2,0,0,0.6,7.4,464,140,24,0.47,17.9,1.66,260,0.07,615,1
+Padali Kese,Padali Kese,Anganwadi name : Anganwadi-194,02-06-2023,34,2,0,0,0.6,7.4,464,140,24,0.47,17.9,1.66,260,0.07,615,1
+Padali Kese,Padali Kese,Anganwadi name : Anganwadi-195,02-06-2023,34,2,0,0,0.6,7.3,333,44,48,0.53,15.4,0.68,124,0.05,443,1
+Padali Kese,Padali Kese,School name : ZP SCHOOL,02-06-2023,34,2,0,0,0.6,7.3,333,44,48,0.53,15.4,0.68,124,0.05,443,1
+Padali Kese,Padali Kese,Individual house tap water jayshing laxman karale,02-06-2023,34,2,0,0,0.6,7.4,464,140,24,0.47,17.9,1.66,260,0.07,615,1
+Padali Kese,Padali Kese,Individual house tap water jahagir mahmmad mujawar,02-06-2023,34,2,0,0,0.6,7.3,333,44,48,0.53,15.4,0.68,124,0.05,443,1
+Padali Kese,Padali Kese,"Source Type : Deep Tubewell, location : IN HABITATION",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,198,0.06,211,1
+Padali Kese,Padali Kese,"Source Type : Open Well, location : KOYANA RIVER",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : anganwadi,05-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : ANGANWADI MINI NEW,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : anganwadi,11-07-2023,30,3,0,0,0.4,7.2,476,76,40,0.6,38.6,2.5,300,0.09,450,1
+Padli-helgaon,Padali Helgaon,School name : Z P SCHOOL,11-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,School name : SAR.BABASAHEB MANE VID. PADALI,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,Individual house tap water SANTOSH JADHAV HOUSE,11-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,Individual house tap water ARUN JADHAV HOUSE,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,"Source Type : Spring, location : in habitaiton",05-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,", location : Location : DHONDI BUVA [ Source type : Deep Tubewell ] [ schemeId : 6313708, scheme name : DHONDI BUVA , Type : Handpump ]",05-07-2023,30,2,0,0,0.4,7.2,476,76,40,0.6,38.6,2.5,300,0.09,450,1
+Padli-helgaon,Padali Helgaon,", location : Location : BOUDHA WASTI [ Source type : Deep Tubewell ] [ schemeId : 6313706, scheme name : BOUDHA WASTI, Type : Handpump ]",05-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : anganwadi,05-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : ANGANWADI MINI NEW,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,Anganwadi name : anganwadi,11-07-2023,30,3,0,0,0.4,7.2,476,76,40,0.6,38.6,2.5,300,0.09,450,1
+Padli-helgaon,Padali Helgaon,School name : Z P SCHOOL,11-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,School name : SAR.BABASAHEB MANE VID. PADALI,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,Individual house tap water SANTOSH JADHAV HOUSE,11-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,Individual house tap water ARUN JADHAV HOUSE,11-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Padli-helgaon,Padali Helgaon,"Source Type : Spring, location : in habitaiton",05-07-2023,30,2,0,0,0.4,7.2,262,62,22,0.5,2.96,1.8,110,0.1,410,1
+Padli-helgaon,Padali Helgaon,", location : Location : DHONDI BUVA [ Source type : Deep Tubewell ] [ schemeId : 6313708, scheme name : DHONDI BUVA , Type : Handpump ]",05-07-2023,30,2,0,0,0.4,7.2,476,76,40,0.6,38.6,2.5,300,0.09,450,1
+Padli-helgaon,Padali Helgaon,", location : Location : BOUDHA WASTI [ Source type : Deep Tubewell ] [ schemeId : 6313706, scheme name : BOUDHA WASTI, Type : Handpump ]",05-07-2023,30,2,0,0,0.4,7.3,478,78,42,0.4,36.8,2.46,298,0.11,748,1
+Pal,Pal,"Source Type : River, location : Near Gaothan",08-06-2023,33,2,0,0,0.8,7.2,371,92,40,0,39.66,1,204,0.18,580,1
+Pal,Pal,", location : Location : bHEGHAR VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313718, scheme name : bHEGHAR VASTI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,704,220,116,0.11,60.1,2.28,508,0.04,1094,1
+Pal,Pal,", location : Location : MATANG VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313719, scheme name : MATANG VASTI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.48,596,500,76,0.071,55.43,0.78,480,0.07,932,1
+Pal,Pal,", location : Location : KAIKADI ALI [ Source type : Deep Tubewell ] [ schemeId : 6313732, scheme name : KAIKADI ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,471,,64,0.14,34.08,1.3,232,0.12,736,1
+Pal,Pal,", location : Location : SONAR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313742, scheme name : SONAR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,357,44,84,0.16,32.54,0.78,196,0.08,558,1
+Pal,Pal,", location : Location : SUTAR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313741, scheme name : SUTAR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,410,100,44,0.16,34.35,0.78,220,0.08,544,1
+Pal,Pal,", location : Location : KALABHOR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313734, scheme name : KALABHOR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,525,176,52,0.033,45,2.35,328,0.12,821,1
+Pal,Pal,", location : Location : MANE VASTI2 [ Source type : Deep Tubewell ] [ schemeId : 6313728, scheme name : MANE VASTI2, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.3,597,196,100,0.093,45,4.52,444,0.08,932,1
+Pal,Pal,", location : Location : VESHIT [ Source type : Deep Tubewell ] [ schemeId : 6313739, scheme name : VESHIT, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.3,660,204,56,0.071,29.28,0.78,476,0.04,1031,1
+Pal,Pal,", location : Location : VESHIT [ Source type : Deep Tubewell ] [ schemeId : 6313739, scheme name : VESHIT, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.3,372,36,36,0.11,45,10,280,0.18,581,1
+Pal,Pal,", location : Location : KALBHOR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313738, scheme name : KALBHOR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.5,674,80,44,0.077,61.4,1.61,484,0.11,1057,1
+Pal,Pal,", location : Location : PAWAR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313740, scheme name : PAWAR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.3,367,60,40,0.11,31.16,2.55,116,0.08,573,1
+Pal,Pal,", location : Location : KUMBHAR GALLI [ Source type : Deep Tubewell ] [ schemeId : 6313717, scheme name : KUMBHAR GALLI, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.5,871,144,152,0.197,61.13,0.7,436,0.13,1365,1
+Pal,Pal,", location : Location : KALBHOR ALI [ Source type : Deep Tubewell ] [ schemeId : 6313738, scheme name : KALBHOR ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.2,367,80,44,0.11,29.42,1.41,172,0.05,575,1
+Pal,Pal,", location : Location : MARUTI MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313722, scheme name : MARUTI MANDIR, Type : Handpump ]",08-06-2023,25,2,0,0,0.6,7.5,1080,192,204,0.088,59.83,1.91,744,0.07,1678,1
+Pal,Pal,School name : Pal 148,08-06-2023,33,2,0,0,0.8,7.3,372,36,36,0.11,45,10,280,0.18,581,1
+Pal,Pal,School name : Pal 149,08-06-2023,33,2,0,0,0.6,7.3,704,220,116,0.109,45,2.28,508,0.04,1094,1
+Pal,Pal,Anganwadi name : anganwadi - 148,08-06-2023,33,2,0,0,0.8,7.3,372,36,36,0.11,45,10,280,0.18,581,1
+Pal,Pal,Anganwadi name : anganwadi - 149,08-06-2023,33,2,0,0,0.6,7.3,525,176,52,0.033,45,2.35,328,0.12,821,1
+Pal,Pal,Anganwadi name : anganwadi - 150,08-06-2023,33,2,0,0,0.6,7.3,704,220,116,0.109,45,2.28,508,0.04,1094,1
+Pal,Pal,Anganwadi name : anganwadi 147,08-06-2023,33,2,0,0,0.6,7.3,704,220,116,0.109,45,2.28,508,0.04,1094,1
+Pal,Pal,School name : Pal 150,08-06-2023,33,2,0,0,0.6,7.5,786,192,156,0.191,45,0.9,604,0.09,1230,1
+Pal,Pal,", location : Location : BABADTABAR [ Source type : Deep Tubewell ] [ schemeId : 6313729, scheme name : BABADTABAR, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.6,1010,276,136,0.104,61.75,2.55,736,0.08,1580,1
+Pal,Pal,", location : Location : near canol Sarjerao Khandait house [ Source type : Deep Tubewell ] [ schemeId : 6313724, scheme name : near canol Sarjerao Khandait house, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.4,810,216,176,0.115,45,1.56,376,0.05,1271,1
+Pal,Pal,", location : Location : MANE VASTI2 [ Source type : Deep Tubewell ] [ schemeId : 6313728, scheme name : MANE VASTI2, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.5,665,172,136,0.093,8.18,2.3,372,0.08,1040,1
+Pal,Pal,", location : Location : KHADAITH ALI [ Source type : Deep Tubewell ] [ schemeId : 6313727, scheme name : KHADAITH ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.4,575,164,84,0.082,45,1.66,412,0.08,898,1
+Pal,Pal,", location : Location : KHADAITH ALI [ Source type : Deep Tubewell ] [ schemeId : 6313727, scheme name : KHADAITH ALI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.2,354,80,60,0.071,14.8,4.8,152,0.14,553,1
+Pal,Pal,", location : Location : SHEKEKAR HOUSE [ Source type : Deep Tubewell ] [ schemeId : 6313720, scheme name : SHEKEKAR HOUSE, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.4,623,156,168,0.071,45,0.71,290,0.07,973,1
+Pal,Pal,", location : Location : TAMBE HOUSE [ Source type : Deep Tubewell ] [ schemeId : 6313726, scheme name : TAMBE HOUSE, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.61,906,112,116,0.1,45,4.25,516,0.14,1416,1
+Pal,Pal,", location : Location : DUTTA MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313725, scheme name : DUTTA MANDIR, Type : Handpump ]",08-06-2023,33,2,0,0,0.8,7.2,572,116,44,0.33,45,1,272,0.18,894,1
+Pal,Pal,", location : Location : SAWATAIMAI MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313733, scheme name : SAWATAIMAI MANDIR, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.2,580,160,56,0.07,45,1.74,416,0.07,897,1
+Pal,Pal,", location : Location : bHEGHAR VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313718, scheme name : bHEGHAR VASTI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,,413,92,32,0.11,11.93,0.64,176,0.14,152,1
+Pal,Pal,", location : Location : BHEGHAR VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313721, scheme name : BHEGHAR VASTI, Type : Handpump ]",08-06-2023,33,2,0,0,0.8,7.2,373,76,40,0.11,45,1,252,0.18,585,1
+Pal,Pal,", location : Location : BOUDH VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313730, scheme name : BOUDH VASTI, Type : Handpump ]",08-06-2023,25,2,0,0,0.8,7.2,497,80,76,0.33,,1.03,196,0.14,777,1
+Pal,Pal,School name : PEMBAR Mini,15-06-2023,34,2,0,0,0.6,7.29,560,100,100,0.19,0.29,0.75,340,0.06,874,1
+Parle,Parle,", location : Location : GHAOTHAN [ Source type : Open Well ] [ schemeId : 6313750, scheme name : GHAOTHAN, Type : Handpump ]",24-05-2023,34,0,0,0,0.6,7.3,853,40,80,0.18,45,1.2,560,0.01,1335,1
+Parle,Parle,"Source Type : River, location : NEAR KOPRDE HAVELI",14-08-2023,,,,,,,,34,,,,,,,,0
+Pashchimsupane,Pashchimsupane,Anganwadi name : anganwadi 188,02-06-2023,34,2,0,0,0.6,7.1,98,36,20,0.11,12,3,36,0.08,154,1
+Pashchimsupane,Pashchimsupane,Anganwadi name : anganwadi 189,02-06-2023,34,2,0,0,0.6,7.1,344,84,44,0.33,23.53,2.83,124,0.07,458,1
+Pashchimsupane,Pashchimsupane,Individual house tap water Santosh Gaikwad,02-06-2023,34,2,0,0,0.6,7,98,36,20,0.11,12,3,36,0.08,154,1
+Pashchimsupane,Pashchimsupane,Individual house tap water Jalindar Gaikwad,02-06-2023,34,2,0,0,0.6,7.1,344,84,44,0.33,23.53,2.83,124,0.07,458,1
+Pashchimsupane,Pashchimsupane,", location : Location : SHIVAJI GAIKWAD [ Source type : Deep Tubewell ] [ schemeId : 6313760, scheme name : SHIVAJI GAIKWAD, Type : Handpump ]",02-06-2023,34,0,0,0,0.6,7.4,496,72,60,0.1,62,4,284,0.06,776,1
+Pashchimsupane,Pashchimsupane,", location : Location : BHIKAJI MALA [ Source type : Deep Tubewell ] [ schemeId : 6313759, scheme name : BHIKAJI MALA, Type : Handpump ]",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Pashchimsupane,Pashchimsupane,", location : Location : BANIYAN TREE [ Source type : Deep Tubewell ] [ schemeId : 4424969, scheme name : CHAVAN MALA 3 - PASCHIKM SUPANE BWHP, Type : Handpump ]",02-06-2023,34,0,0,0,0.6,7,90,16,20,0.22,9,3,56,0.12,150,1
+Pashchimsupane,Pashchimsupane,", location : Location : NEAR ROAD [ Source type : Deep Tubewell ] [ schemeId : 4429404, scheme name : PASHMIMPUPNE, Type : Handpump ]",02-06-2023,34,2,0,0,0.6,7.1,344,84,44,0.33,23.53,2.83,124,0.07,458,1
+Pashchimsupane,Pashchimsupane,", location : Location : NEAR NIVRUNTI GAIAKWADA [ Source type : Deep Tubewell ] [ schemeId : 4429380, scheme name : PASHCHIMSUPNE, Type : Handpump ]",03-08-2023,26,0,0,0,0.2,7,135,20,16,0.14,0.27,0.38,60,0.04,214,1
+Pashchimsupane,Pashchimsupane,"Source Type : Open Well, location : near gaothan",26-09-2023,26,0,0,0,0.4,7.4,380,39,33,0.001,0.12,2.6,211,0.06,256,1
+Pawarwadi Nandgaon,Pawarwadi Nandgaon,"PrivateTube well / Bore well / Well, location : Dipak Yashawant Pawar",22-06-2023,32,2,0,0,0.5,7.5,1124,206,162,0.18,40.65,5.7,502,0.11,1758,1
+Pawarwadi Nandgaon,Pawarwadi Nandgaon,"PrivateTube well / Bore well / Well, location : Sambhaji Bandu Khot",22-06-2023,32,2,0,0,0.5,7.5,1118,218,166,0.4,40.83,6.1,542,0.09,1744,1
+Pawarwadi Nandgaon,Pawarwadi Nandgaon,"Source Type : Open Well, location : NEAR VASTI",12-06-2023,33,3,0,0,0.5,7.4,1124,240,166,0.11,40.6,4.5,498,0.1,1750,1
+Pawarwadi Nandgaon,Pawarwadi Nandgaon,School name : z.p.school,12-06-2023,30,3,0,0,0.5,7.4,1122,238,164,0.12,40.2,4.45,496,0.1,1748,1
+Perle,Perle,"PrivateTube well / Bore well / Well, location : gav vihir",15-06-2023,34,2,0,0,0.87,7.31,362,100,36,0.1,0.29,2.3,204,0.11,572,1
+Perle,Perle,", location : Location : SATVAINAGAR [ Source type : Deep Tubewell ] [ schemeId : 6313776, scheme name : SATVAINAGAR, Type : Handpump ]",15-06-2023,34,2,0,0,1,7.2,88,20,16,0.1,23.58,1.5,16,0.1,137,1
+Perle,Perle,", location : Location : LALAWADA2 [ Source type : Deep Tubewell ] [ schemeId : 6313772, scheme name : LALAWADA2, Type : Handpump ]",15-06-2023,34,2,0,0,1,7.2,110,32,24,0.1,1.8,3.23,32,0.1,172,1
+Perle,Perle,"PrivateHand Pump, location : patil vasti",15-06-2023,34,2,0,0,0.2,7.2,153,40,36,0.14,1.6,3.23,64,0.09,239,1
+Perle,Perle,", location : Location : CHAMBHAR VASTI [ Source type : Deep Tubewell ] [ schemeId : 4427594, scheme name : CHAMBHAR VASTI-PERLE BW/PP, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.2,153,40,36,0.14,1.2,3.23,64,0.06,239,1
+Perle,Perle,", location : Location : BIROBA MALA [ Source type : Deep Tubewell ] [ schemeId : 6313766, scheme name : BIROBA MALA, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.1,596,72,140,0.18,5.59,0.9,152,0.08,791,1
+Perle,Perle,", location : Location : CHADANI CHOCK [ Source type : Deep Tubewell ] [ schemeId : 6313774, scheme name : CHADANI CHOCK, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.1,263,72,32,0.14,8.73,0.42,76,0.1,348,1
+Perle,Perle,", location : Location : Z. P. SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6313775, scheme name : Z. P. SCHOOL, Type : Handpump ]",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Perle,Perle,Anganwadi name : Pearle mini 9,26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Pimpari,Pimpari,Individual house tap water Maruti Shripati Wangade,12-06-2023,33,2,0,0,0.5,7.2,434,86,82,0.9,22.88,2,230,0.08,678,1
+Pimpari,Pimpari,Individual house tap water Ganesh Pandurang Wangade,12-06-2023,33,2,0,0,0.5,7.2,434,86,82,0.9,22.88,2,230,0.08,678,1
+Pimpari,Pimpari,School name : z.p.school,12-06-2023,34,2,0,0,0.5,7.2,434,86,82,0.9,22.88,2,230,0.08,678,1
+Pimpari,Pimpari,"Source Type : Open Well, location : in habitaiton",12-06-2023,33,2,0,0,0.5,7.2,434,86,82,0.9,22.88,2,230,0.08,678,1
+Pimpari,Pimpari,Anganwadi name : anganwadi 159,12-06-2023,33,3,0,0,0.5,7.2,458,80,68,0.06,15.6,0.08,136,0.08,608,1
+Potale,Potale,"Source Type : Open Well, location : GAOTHAN",07-08-2023,33,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.012,154,1
+Potale,Potale,"Source Type : Open Well, location : NEAR NALLA",07-08-2023,32,0,0,0,0.4,7,160,42,42,0.001,1.1,0.9,211,0.02,154,1
+Potale,Potale,School name : JUNE GAVTHAN,07-08-2023,33,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,156,1
+Potale,Potale,School name : NAM.A.C. VIDYALAY POTALE,07-08-2023,32,0,0,0,0.1,7,210,34,33,0.001,0.12,0.9,90,0.02,156,1
+Potale,Potale,School name : Z P SCHOOL,07-08-2023,32,0,0,0,0.4,7,210,34,42,0.001,0.12,0.9,162,0.012,154,1
+Potale,Potale,School name : Z P SCHOOL,07-08-2023,33,0,0,0,0.4,7.1,299,44,33,0.001,0.12,0.9,211,0.02,156,1
+Potale,Potale,Anganwadi name : ANGANWADI 196,07-08-2023,33,0,0,0,0.4,7,160,42,33,0.001,0.12,0.09,211,0.001,154,1
+Potale,Potale,Anganwadi name : anganwadi 202,07-08-2023,33,0,0,0,0.4,7.1,160,34,42,0.001,1.1,0.9,211,0.02,154,1
+Potale,Potale,Anganwadi name : POTALE 201,07-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Potale,Potale,", location : Location : BHINTADE HOUSE [ Source type : Deep Tubewell ] [ schemeId : 6313782, scheme name : BHINTADE HOUSE, Type : Handpump ]",07-08-2023,32,0,0,0,0.4,7,160,42,33,0.001,0.12,0.9,211,0.02,156,1
+Potale,Potale,", location : Location : Kumar Bhoi house [ Source type : Deep Tubewell ] [ schemeId : 6313784, scheme name : Kumar Bhoi house, Type : Handpump ]",07-08-2023,32,0,0,0,0.4,7.1,160,42,33,0.001,0.12,0.08,62,0.02,154,1
+Rajmachi,Rajmachi,"Source Type : Open Well, location : near gaothan",24-05-2023,34,0,0,0,0.5,7.1,311,20,48,0.1,26.6,1.2,320,0.1,487,1
+Rajmachi,Rajmachi,", location : Location : JANAI MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313788, scheme name : JANAI MANDIR, Type : Handpump ]",02-06-2023,34,2,0,0,0.5,7.1,305,20,48,0.12,24.7,1.2,300,0.1,477,1
+Rethare Bk,Rethare Bk.,Public tap water location : -----,23-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,23-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,17-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,Public tap water location : -----,18-01-2024,,0,,,,,,,,,,,,,,0
+Rethare Bk,Rethare Bk.,"PrivateTube well / Bore well / Well, location : Khare phata",15-06-2023,34,2,0,0,0.5,7.2,241,36,24,0.1,36.71,0.64,104,0.1,378,1
+Rethare Bk,Rethare Bk.,,15-06-2023,34,2,0,0,0.5,7.2,160,52,12,0.2,0.51,0.71,88,0.09,255,1
+Rethare Bk,Rethare Bk.,"Source Type : Open Well, location : Gaothan",15-06-2023,34,2,0,0,0.59,7.2,71,32,20,0.017,1.17,2.42,36,0.11,110,1
+Rethare Bk,Rethare Bk.,Individual house tap water Dagrapanand,15-06-2023,34,2,0,0,1,7.2,377,64,40,0.2,19.24,1.12,124,0.14,590,1
+Rethare Bk,Rethare Bk.,"Others, location : shivnagar",15-06-2023,34,2,0,0,0.5,,88,36,20,0.1,23.58,1.36,24,0.1,140,1
+Rethare Bk,Rethare Bk.,"Source Type : Open Well, location : Gaothan",15-06-2023,34,2,0,0,1,7.2,370,76,44,0.1,21.99,3.23,128,0.13,579,1
+Rethare Bk,Rethare Bk.,"PrivateTube well / Bore well / Well, location : Vasti",15-06-2023,34,2,0,0,0.2,7.1,425,68,48,0.18,23.58,0.79,196,0.12,564,1
+Rethare Kh,Rethare Kh,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Rethare Kh,Rethare Kh,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Rethare Kh,Rethare Kh,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Rethare Kh,Rethare Kh,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Rethare Kh,Rethare Kh,"Others, location : Mohite Mala",15-06-2023,34,2,0,0,0.5,7.4,206,32,38,0.16,2,0.8,160,0.06,326,1
+Rethare Kh,Rethare Kh,"Others, location : Nadi",15-06-2023,34,2,0,0,0.5,7.55,321,100,16,0.07,4.68,0.25,180,0.09,510,1
+Rethare Kh,Rethare Kh,"Others, location : Biroba Mandir",15-06-2023,34,2,0,0,0.5,7.2,206,36,40,0.1,3.23,3.23,92,0.1,323,1
+Rethare Kh,Rethare Kh,", location : Vel",15-06-2023,34,2,0,0,0.5,7.2,281,40,24,0.1,26.03,0.64,60,0.1,440,1
+Riswad,Risvad,Individual house tap water Sandip Mohan Ingawale,12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Riswad,Risvad,Individual house tap water Santosh Dinkar Ingawale,12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Riswad,Risvad,School name : z.p.school,12-06-2023,25,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Riswad,Risvad,"Source Type : Open Well, location : GAOTHAN",12-06-2023,33,3,0,0,0.5,7.3,716,160,156,1.5,50,3,362,0.06,1120,1
+Riswad,Risvad,"Others, location : Vamanki",12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Riswad,Risvad,Anganwadi name : Anganwadi 162,12-06-2023,25,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Riswad,Risvad,Anganwadi name : anganwadi 163,12-06-2023,25,2,0,0,0.5,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Sabalwadi,Sabalwadi,School name : z.p.school,26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,368,1
+Sabalwadi,Sabalwadi,,08-06-2023,25,2,0,0,0.6,7.2,318,60,40,0.11,45,2.28,100,0.04,497,1
+Saidapur,Saidapur,"Source Type : Open Well, location : SAIDAPUR 169",15-09-2023,34,0,0,0,0.02,7,47,34,33,0.001,0.12,1,211,0.06,73,1
+Sajur,Sajur,", location : Location : MATANG WASTI [ Source type : Deep Tubewell ] [ schemeId : 4446381, scheme name : MATANG VASTI-SAJUR BW/PP, Type : Handpump ]",02-06-2023,34,3,0,0,0.8,7,38,12,12,,2.1,0.59,8,0.09,60,1
+Sajur,Sajur,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 1290, scheme name : SAJUR, Type : Handpump ]",02-06-2023,34,3,0,0,0.8,7.2,472,132,36,0.06,15.26,0.58,268,0.05,626,1
+Sajur,Sajur,"Source Type : Open Well, location : NEAR GAONTHAN",02-06-2023,34,2,0,0,0.8,7,69,12,16,0.03,2.31,0.58,24,0.03,109,1
+Sajur,Sajur,", location : Location : Z P SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6313815, scheme name : Z P SCHOOL, Type : Handpump ]",27-09-2023,26,0,0,0,0.5,7.2,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Sajur,Sajur,Anganwadi name : anganwadi 224,02-06-2023,34,3,0,0,0.8,7,38,12,12,0.04,2.1,0.59,8,0.09,60,1
+Sajur,Sajur,Anganwadi name : anganwadi new,27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Sajur,Sajur,Individual house tap water Ananda Mhadev Chavan,02-06-2023,34,3,0,0,0.8,7.2,472,132,36,0.06,15.26,0.58,268,0.05,626,1
+Sajur,Sajur,Individual house tap water shankar vithoba lohar,02-06-2023,34,2,0,0,0.8,7,69,12,16,0.03,2.31,0.58,24,0.03,109,1
+Sakurdi,Sakurdi,"Source Type : Open Well, location : GAOTHAN",02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Sakurdi,Sakurdi,School name : z.p.school,02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Sakurdi,Sakurdi,Anganwadi name : anganwadi 137,02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Sakurdi,Sakurdi,Anganwadi name : anganwadi,02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Sakurdi,Sakurdi,Individual house tap water Ashok Dongare,02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Sakurdi,Sakurdi,Public tap water location : -----,02-06-2023,34,2,0,0,0.5,7.2,450,100,80,0.06,45,2,264,0.02,710,1
+Salshirmbe,Salshirmbe,Individual house tap water MAHADEV SHINDE,04-09-2023,27,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Salshirmbe,Salshirmbe,Individual house tap water SUVARNA PATIL,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.11,0.12,0.9,211,0.02,154,1
+Salshirmbe,Salshirmbe,"Source Type : Open Well, location : GAOTHAN",20-06-2023,33,3,0,0,0.3,7.3,640,150,46,0.16,36.1,1.2,358,0.02,852,1
+Salshirmbe,Salshirmbe,Public tap water location : -----,20-06-2023,33,2,0,0,0.3,7.3,636,154,50,0.12,42.4,3.6,404,0.02,846,1
+Salshirmbe,Salshirmbe,"PrivateTube well / Bore well / Well, location : kudewadi",20-06-2023,33,3,0,0,0.3,7.2,376,110,42,0.1,40.6,0.6,186,0.04,502,1
+Salshirmbe,Salshirmbe,School name : Z P SCHOOL,20-06-2023,33,2,0,0,0.3,7.2,376,110,42,0.1,40.6,0.6,186,0.04,502,1
+Salshirmbe,Salshirmbe,Anganwadi name : anganwadi 226,20-06-2023,33,2,0,0,0.3,7.3,640,150,46,0.16,36.1,1.2,358,0.02,852,1
+Sanjaynagar (n.v.),Sanjaynagar (n.v.),School name : z.p.school,20-07-2023,28,2,0,0,0.5,7.2,316,46,34,0.11,38.6,2.1,198,0.11,492,1
+Sanjaynagar (n.v.),Sanjaynagar (n.v.),"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,2,0,0,0.6,7.3,474,48,40,0.5,28.1,1.1,312,0.08,748,1
+Sanjaynagar (n.v.),Sanjaynagar (n.v.),"Source Type : Open Well, location : in habitaiton",12-06-2023,33,3,0,0,0.6,7.3,600,98,60,0.06,22.09,1.5,400,0.05,778,1
+Sanjaynagar (n.v.),Sanjaynagar (n.v.),School name : Z P SCHOOL,12-06-2023,33,2,0,0,0.6,7.3,474,48,40,0.5,28.1,1.1,312,0.08,748,1
+Sanjaynagar (n.v.),Sanjaynagar (n.v.),"Source Type : Open Well, location : in habitaiton",13-06-2023,34,3,0,0,0.5,7.4,655,80,80,1.4,20,2,400,0.1,1026,1
+Savade,Savade,Individual house tap water SHARAD THORAT,06-09-2023,32,0,0,0,0.5,7.3,160,34,14,0.001,0.12,0.9,211,0.06,211,1
+Savade,Savade,Individual house tap water RAJARAM KUMBHAR,06-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,210,1
+Savade,Savade,"Source Type : Open Well, location : NEAR BRIDGE",20-06-2023,33,3,0,0,0.4,7.45,262,58,10,0.24,19.58,3.6,182,0.04,344,1
+Savade,Savade,"Source Type : Open Well, location : NEAR BRIDGE",20-06-2023,33,3,0,0,0.4,7.18,266,66,14,0.2,2.4,3.62,146,0.06,350,1
+Savade,Savade,"Others, location : BANDEKARWADI",20-06-2023,33,3,0,0,0.4,7.19,210,46,14,0.09,2.8,3.8,106,0.04,276,1
+Savade,Savade,School name : SAVADE,20-06-2023,33,2,0,0,0.4,7.45,262,58,10,0.24,19.58,3.6,182,0.04,344,1
+Savade,Savade,Anganwadi name : anganwadi,21-06-2023,33,3,0,0,0.4,7.18,266,66,14,0.2,2.4,3.62,146,0.06,350,1
+Savarghar,Savarghar,School name : SAVARGHAR,15-06-2023,34,2,0,0,0.6,7.2,72,24,32,0.1,23.58,1.1,20,0.12,113,1
+Savarghar,Savarghar,School name : SAVARGHAR,12-06-2023,33,3,0,0,0.5,7.2,412,90,86,0.11,16,3,186,0.06,648,1
+Savarghar,Savarghar,Individual house tap water mahesh ramchandr jadhav,12-06-2023,33,2,0,0,0.5,7.26,598,96,58,0.09,37,1.1,384,0.04,794,1
+Savarghar,Savarghar,Individual house tap water raviraj nathuram sakpal,12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.1,36.6,1,382,0.06,796,1
+Savarghar,Savarghar,"Source Type : Open Well, location : NEAR NAULA",12-06-2023,33,2,0,0,0.5,7.3,600,98,60,0.1,36.6,1,382,0.06,796,1
+Savarghar,Savarghar,Public tap water location : -----,12-06-2023,33,2,0,0,0.5,7.26,598,96,58,0.09,37,1.1,384,0.04,794,1
+Sayapur,Sayapur,"Source Type : Open Well, location : near gaothan",24-05-2023,34,0,0,0,0.6,7.1,377,46,60,0.18,26.68,1.8,240,0.14,590,1
+Shahapur,Shahapur,School name : Z.P.PS.SHAHAPUR,07-09-2023,26,0,0,0,0.5,7.4,160,34,33,0.001,0.12,2.6,211,0.09,256,1
+Shahapur,Shahapur,School name : MADARSA FATIMA ARABIYA SHAHAPUR,07-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.28,0.12,1,211,0.02,368,1
+Shahapur,Shahapur,Individual house tap water SANJAY PANDURANG RAVIDHONE,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,368,1
+Shahapur,Shahapur,Individual house tap water ANNASO RAJARAM SHIRTODE,07-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,1,0.9,211,0.02,368,1
+Shahapur,Shahapur,Anganwadi name : anganwadi 181,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Shahapur,Shahapur,Anganwadi name : anganwadi mini new,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Shahapur,Shahapur,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,2,0,0,0.5,7.3,378,132,40,1,19.36,3,182,0.09,590,1
+Shahapur,Shahapur,"Others, location : Near odha",12-06-2023,33,2,0,0,0.5,7.3,390,130,38,1.2,16.6,2.6,180,0.06,600,1
+Shahapur,Shahapur,Anganwadi name : anganwadi180,12-06-2023,33,2,0,0,0.5,7.3,378,132,40,1,19.36,3,182,0.09,590,1
+Shamgaon,Shamgaon,"Others, location : Anganwadi Mini",06-09-2023,26,0,0,0,0.4,7.3,160,26,33,0.001,0.223,1,211,0.02,240,1
+Shamgaon,Shamgaon,Individual house tap water Nanaso Pandurag Chavan,14-06-2023,33,3,0,0,0.46,7.4,462,138,40,0.09,4.15,0.9,210,0.06,614,1
+Shamgaon,Shamgaon,Individual house tap water Somnath Nivtuti Pol,14-06-2023,33,3,0,0,0.05,7.3,610,138,60,0.06,28,2.3,378,0.08,810,1
+Shamgaon,Shamgaon,School name : ONKNATH VID. SHAMGAON,12-06-2023,25,2,0,0,0.05,7.2,458,80,68,0.06,15.6,0.08,136,0.08,608,1
+Shamgaon,Shamgaon,School name : z.p.school,12-06-2023,25,3,0,0,0.46,7.4,462,138,40,0.09,4.15,0.9,210,0.06,614,1
+Shamgaon,Shamgaon,", location : Location : MAHADEV MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313844, scheme name : MAHADEV MANDIR, Type : Handpump ]",12-06-2023,33,3,0,0,0.46,7.4,462,138,40,0.09,4.15,0.9,210,0.06,614,1
+Shamgaon,Shamgaon,"Others, location : near Bus Stand",12-06-2023,33,2,0,0,0.05,7.2,458,80,68,0.06,15.6,0.08,136,0.08,608,1
+Shamgaon,Shamgaon,", location : Location : BHAVANI MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6313846, scheme name : BHAVANI MANDIR, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.1,113,40,24,0.1,2.2,0.95,40,0.08,176,1
+Shamgaon,Shamgaon,"Source Type : Open Well, location : in habitaiton",12-06-2023,33,3,0,0,0.24,7.1,306,58,32,0.08,3.06,0.8,166,0.06,408,1
+Shamgaon,Shamgaon,Anganwadi name : anganwadi 176,12-06-2023,33,2,0,0,0.5,7.3,610,138,60,0.06,28,2.3,378,0.08,810,1
+Shamgaon,Shamgaon,Anganwadi name : anganwadi 178,12-06-2023,33,2,0,0,0.5,7.2,458,80,68,0.06,15.6,0.08,136,0.08,608,1
+Shamgaon,Shamgaon,Anganwadi name : anganwadi 179,12-06-2023,33,2,0,0,0.24,7.1,306,58,32,0.08,3.06,0.8,166,0.06,408,1
+Shamgaon,Shamgaon,Anganwadi name : anganwadi 177,12-06-2023,33,2,0,0,0.46,7.4,462,138,40,0.09,4.15,0.9,210,0.06,614,1
+Shelakewadi (mha),Shelakewadi (mha),Individual house tap water VANDANA CHALAKE,31-07-2023,26,2,0,0,0.2,7.2,314,46,42,0.26,11.68,0.38,190,0.02,420,1
+Shelakewadi (mha),Shelakewadi (mha),Individual house tap water SHIVAJI SHELAKE,31-07-2023,26,2,0,0,0.2,7.2,314,46,42,0.26,11.68,0.38,190,0.02,420,1
+Shelakewadi (mha),Shelakewadi (mha),"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,2,0,0,0.2,7.2,314,46,42,0.26,11.68,0.38,190,0.02,420,1
+Shelakewadi (mha),Shelakewadi (mha),School name : z.p.school,20-06-2023,33,2,0,0,0.2,7.2,314,46,42,0.26,11.68,0.38,190,0.02,420,1
+Shelakewadi (mha),Shelakewadi (mha),Anganwadi name : ANGANWADI 232,20-06-2023,33,3,0,0,0.2,7.2,314,46,42,0.26,11.68,0.38,190,0.02,420,1
+Shelakewadi (yevati),Shelakewadi (yevati),Individual house tap water SAMBHAJI SHELAKE,31-07-2023,26,2,0,0,0.2,7.2,316,46,38,0.3,1.6,1.1,130,0.06,424,1
+Shelakewadi (yevati),Shelakewadi (yevati),Individual house tap water SANGITA SHELAKE,31-07-2023,26,2,0,0,0.2,7.2,512,86,58,0.28,5.8,3.3,322,0.06,684,1
+Shelakewadi (yevati),Shelakewadi (yevati),"Source Type : Open Well, location : NEAR GAONTHAN",20-06-2023,33,3,0,0,0.2,7.2,316,46,38,0.3,1.6,1.1,130,0.06,424,1
+Shelakewadi (yevati),Shelakewadi (yevati),"Others, location : GAVTHAN",20-06-2023,33,3,0,0,0.2,7.2,512,86,58,0.28,5.8,3.3,322,0.06,684,1
+Shelakewadi (yevati),Shelakewadi (yevati),School name : z.p.school,20-06-2023,33,2,0,0,0.2,7.2,316,46,38,0.3,1.6,1.1,130,0.06,424,1
+Shelakewadi (yevati),Shelakewadi (yevati),Anganwadi name : ANGANWADI 235,20-06-2023,33,2,0,0,0.2,7.2,316,46,38,0.3,1.6,1.1,130,0.06,424,1
+Shenoli,Shenoli,Anganwadi name : 237,27-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.1,1962,1
+Shenoli,Shenoli,Anganwadi name : 238,26-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.04,1962,1
+Shenoli,Shenoli,Anganwadi name : 239,26-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.04,1962,1
+Shenoli,Shenoli,Anganwadi name : 240,26-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.08,1962,1
+Shenoli,Shenoli,"Others, location : Anganwadi 237",26-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.05,1962,1
+Shenoli,Shenoli,School name : SANJIWANI VIDYAMANDIR SHENOLI,26-07-2023,26,0,0,0,0.6,7.6,1476,,168,0.06,16.1,1.1,422,0.05,1962,1
+Shenoli,Shenoli,School name : SHENOLI BOYS,26-07-2023,26,0,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.06,1962,1
+Shenoli,Shenoli,"Source Type : Open Well, location : NEAR GAOTHAN",18-10-2023,,,,,,,,34,,,,,,,,0
+Shenoli,Shenoli,"Source Type : Open Well, location : SHENOLI 236",22-06-2023,34,2,0,0,0.6,7.81,1478,102,258,0.08,46.1,1.6,378,0.06,1968,1
+Shenoli,Shenoli,,22-06-2023,34,2,0,0,0.6,7.6,1476,150,168,0.06,16.1,1.1,422,0.09,1962,1
+Shenoli,Shenoli,,22-06-2023,34,2,0,0,0.6,7.5,820,82,138,0.1,50,2,422,0.09,1284,1
+Shenoli,Shenoli,,22-06-2023,34,2,0,0,0.6,7.5,890,124,116,0.5,50.1,13,254,0.08,1388,1
+Shere,Sanjaynagar,", location : Location : NEAR GAOTHAN [ Source type : Deep Tubewell ] [ schemeId : 7641672, scheme name : SHERE SANJAYNAGAR, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.5,1208,162,258,0.12,46.5,1.1,458,0.08,,1
+Shere,Sanjaynagar,", location : Location : NEAR GAOTHAN [ Source type : Deep Tubewell ] [ schemeId : 7641672, scheme name : SHERE SANJAYNAGAR, Type : Handpump ]",06-06-2023,34,3,0,0,0.5,7.3,764,240,90,0.1,32,1.9,432,0.06,1192,1
+Shere,Sanjaynagar,"Others, location : z.p school near school",24-07-2023,26,0,0,0,0.5,7.4,655,80,80,1.4,20,2,400,0.11,1026,1
+Shere,Sanjaynagar,"Others, location : kole khind",24-06-2023,26,0,0,0,0.5,7.1,656,78,80,0.6,22,1.18,402,0.1,1020,1
+Shere,Sanjaynagar,School name : z.p.school,24-07-2023,26,0,0,0,0.5,7.4,655,80,80,1.4,20,2,400,0.08,1026,1
+Shere,Shere,", location : Location : Ninai Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313884, scheme name : Ninai Mandir, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,708,82,54,0.11,40.5,2,290,0.06,1106,1
+Shere,Shere,", location : Location : RAHUL PATIL [ Source type : Deep Tubewell ] [ schemeId : 6313878, scheme name : RAHUL PATIL , Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,746,242,84,0.01,45,1,258,0.1,986,1
+Shere,Shere,", location : Location : DHANGERVASTI [ Source type : Deep Tubewell ] [ schemeId : 6313880, scheme name : DHANGERVASTI, Type : Handpump ]",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,198,0.06,256,1
+Shere,Shere,", location : Location : ZP SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6313885, scheme name : ZP SCHOOL, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,486,94,78,0.11,21.6,1,116,0.04,644,1
+Shere,Shere,", location : Location : NEAR GAOTHAN [ Source type : Deep Tubewell ] [ schemeId : 7637686, scheme name : SHERE CANALWASTI, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,488,94,78,0.16,21.1,1,114,0.06,644,1
+Shere,Shere,", location : Location : MADAN CHAVAN [ Source type : Deep Tubewell ] [ schemeId : 6313888, scheme name : MADAN CHAVAN, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,864,282,126,0.6,8.2,0.9,120,,0.08,1
+Shere,Shere,", location : Location : MOULAI KHADAK [ Source type : Deep Tubewell ] [ schemeId : 6313887, scheme name : MOULAI KHADAK, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.4,780,218,74,0.1,38.1,1,162,0.06,1032,1
+Shere,Shere,", location : Location : AMBEDKER COMLEKS [ Source type : Deep Tubewell ] [ schemeId : 6313893, scheme name : AMBEDKER COMLEKS, Type : Handpump ]",06-06-2023,34,3,0,0,0.5,7.4,1204,142,254,0.16,46.3,0.8,498,0.04,1596,1
+Shere,Shere,", location : Location : PRALHAD DHALE HOUSE [ Source type : Deep Tubewell ] [ schemeId : 6313891, scheme name : PRALHAD DHALE HOUSE, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.5,1242,164,246,0.11,45,0.8,180,0.09,1646,1
+Shere,Shere,", location : Location : NEAR SAWAS MALA [ Source type : Deep Tubewell ] [ schemeId : 4432589, scheme name : SAWAS MALA-SHERE, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,676,200,82,0.11,30.6,1.2,242,0.08,894,1
+Shere,Shere,", location : Location : NEAR JALINDER ABA HOUSE [ Source type : Deep Tubewell ] [ schemeId : 4431008, scheme name : KELBAG VASTI-SHERE, Type : Handpump ]",06-06-2023,34,2,0,0,0.5,7.3,636,162,162,0.1,45,,320,0.06,844,1
+Shere,Shere,"Others, location : gavthan",12-06-2023,25,2,0,0,0.5,7.3,508,80,60,1.5,28,4,340,0.11,806,1
+Shere,Shere,"Others, location : gavthan",24-07-2023,26,0,0,0,0.5,7.3,864,282,126,0.6,8.2,0.9,120,0.11,1149,1
+Shere,Shere,"Others, location : canol vasti",24-07-2023,25,2,0,0,0.5,7.3,746,242,84,0.01,45,1,258,0.12,986,1
+Shere,Shere,"Others, location : steshin",30-06-2023,25,2,0,,0.5,7.3,864,282,126,0.6,8.2,0.9,120,0.11,1149,1
+Shere,Shere,"Others, location : mutalik mala",30-06-2023,25,2,0,0,0.5,7.3,488,94,78,0.16,21.1,1,114,0.13,644,1
+Shere,Shere,Anganwadi name : anganwadi mini sherepati,30-06-2023,25,2,0,0,0.5,7.4,780,218,74,0.1,38.1,1,162,0.09,1032,1
+Shere,Shere,Anganwadi name : anganwadi 231,30-06-2023,25,2,0,0,0.5,7.3,864,282,126,0.6,8.2,0.9,120,0.11,1149,1
+Shere,Shere,School name : zp school,30-06-2023,25,3,0,0,0.5,7.3,746,242,84,0.01,45,1,258,0.09,986,1
+Shere,Shere,School name : zp school,30-06-2023,25,2,0,0,0.5,7.3,864,282,126,0.6,8.2,0.9,120,0.11,1149,1
+Shere,Shere,"Others, location : kelbaag",30-06-2023,25,2,0,0,0.5,7.4,780,218,74,0.1,38.1,1,162,0.1,1032,1
+Shere,Shere,School name : KRISHNA SEC. & HIGHER SEC. SCH,24-07-2023,26,0,0,0,0.5,7.4,780,218,74,0.1,38.1,1,162,0.09,1032,1
+Shere,Shere,,24-07-2023,26,0,0,0,0.5,7.3,864,282,84,0.6,8.2,0.9,120,0.06,1149,1
+Shere,Shere,School name : KRISHNA P.VID. SHERE,24-07-2023,26,0,0,0,0.5,7.3,746,242,84,0.01,45,1,258,0.06,,1
+Shere,Shere,"Others, location : thorat mala zp school",19-03-2024,,,,,0.2,,,,,,,,,,,0
+Shere,Shere,"Others, location : ninai mandir",11-08-2023,,,,,,,,,,,,,,,156,0
+Shere,Shere,,13-06-2023,34,2,0,0,0.5,7.3,508,80,60,1.5,28,4,340,0.11,806,1
+Shere,Thoratmala,Anganwadi name : shere 245,30-06-2023,25,2,0,0,0.5,7.5,1242,164,246,0.11,45,0.8,180,0.11,1646,1
+Shere,Thoratmala,School name : z.p.school,30-06-2023,25,2,0,0,0.5,7.3,864,282,126,0.6,8.2,0.9,120,0.1,1149,1
+Shewalwadi (mhasoli),Shewalwadi (mhasoli),Individual house tap water CHAYA SHEWALE,31-07-2023,26,2,0,0,0.3,7.2,206,38,42,0,17,1,98,0.06,324,1
+Shewalwadi (mhasoli),Shewalwadi (mhasoli),Individual house tap water DINAKAR SHEWALE,31-07-2023,26,2,0,0,0.3,7.2,206,38,42,0,17,1,98,0.06,324,1
+Shewalwadi (mhasoli),Shewalwadi (mhasoli),"Source Type : Open Well, location : PATIL WADI",20-06-2023,33,2,0,0,0.3,7.2,206,38,42,0,17,1,98,0.06,324,1
+Shewalwadi (mhasoli),Shewalwadi (mhasoli),School name : Z.P.PS.PATILWADI,20-06-2023,33,2,0,0,0.3,7.2,206,38,42,0,17,1,98,0.06,324,1
+Shewalwadi (mhasoli),Shewalwadi (mhasoli),Anganwadi name : anganwadi,20-06-2023,33,3,0,0,0.3,7.2,206,38,42,0,17,1,98,0.06,324,1
+Shindewadi(wing),Shindewadi(wing),School name : shindewadi,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Shindewadi(wing),Shindewadi(wing),"Source Type : Deep Tubewell, location : NEAR GAONTHAN",07-08-2023,32,0,0,0,0.4,7.1,299,34,33,0.001,0.12,0.9,211,0.012,154,1
+Shinganwadi,Shinganwadi,"Source Type : Open Well, location : in habitaiton",07-08-2023,32,0,0,0,0.4,7,299,34,33,0.001,0.12,0.9,62,0.02,156,1
+Shiravade,Shiravade,Individual house tap water ARJUN RAJARAM TAME,14-08-2023,26,0,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.04,800,1
+Shiravade,Shiravade,Individual house tap water SUNIL BABAN PADALE,14-08-2023,26,0,0,0,0.5,7.2,700,158,78,1.2,5.31,2.12,258,0.08,927,1
+Shiravade,Shiravade,School name : JYOTIRLING VIDYALAY SHIRVADE,14-06-2023,33,3,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.09,800,1
+Shiravade,Shiravade,"Others, location : Shiravade",12-06-2023,0,0,0,0,0.1,7.3,510,98,84,1,43.73,7,211,0.012,466,1
+Shiravade,Shiravade,"Source Type : Open Well, location : SHIRVADE 184",12-06-2023,33,2,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.09,800,1
+Shiravade,Shiravade,", location : Location : SHIVAJI CHOCK [ Source type : Deep Tubewell ] [ schemeId : 6313910, scheme name : SHIVAJI CHOCK, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.3,754,98,80,1.1,48,4,330,0.06,1180,1
+Shiravade,Shiravade,"Others, location : Near Water Tank",12-06-2023,33,2,0,0,0.5,7.2,700,158,78,1.2,5.31,2.12,258,0.04,927,1
+Shiravade,Shiravade,Anganwadi name : anganwadi 185,12-06-2023,33,3,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.09,800,1
+Shiravade,Shiravade,Anganwadi name : anganwadi mini new,12-06-2023,33,2,0,0,0.5,7.2,700,158,78,1.2,5.31,2.12,258,0.04,927,1
+Shiravade,Shiravade,Anganwadi name : SHIRAVADE 187,12-06-2023,33,3,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.09,800,1
+Shiravade,Shiravade,Anganwadi name : ANGANWADI 184,12-06-2023,33,3,0,0,0.5,7.2,700,158,78,1.2,5.31,2.12,258,0.04,927,1
+Shiravade,Shiravade,Anganwadi name : anganwadi 186,12-06-2023,33,2,0,0,0.5,7.3,510,98,84,1,43.73,4,310,0.09,800,1
+Shirgaon,Shirgaon,"Source Type : Open Well, location : NEAR TARALI RIVER",08-06-2023,25,2,0,0,0.5,7.3,383,140,52,0.51,7.08,0.79,160,0.12,509,1
+Shirgaon,Shirgaon,", location : Location : SAPAT YADAV SHOP [ Source type : Deep Tubewell ] [ schemeId : 6313916, scheme name : SAPAT YADAV SHOP, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,386,100,48,0.65,4.98,1.44,104,0.08,7.3,1
+Shirgaon,Shirgaon,", location : Location : Bhairavnath Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313919, scheme name : Bhairavnath Mandir, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,350,100,80,0.35,3.24,,112,0.13,464,1
+Shirgaon,Shirgaon,", location : Location : GAYAVAD VASTI [ Source type : Deep Tubewell ] [ schemeId : 6313918, scheme name : GAYAVAD VASTI, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,386,100,48,0.65,4.98,1.44,104,0.08,512,1
+Shirgaon,Shirgaon,", location : Location : ZP SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6313917, scheme name : ZP SCHOOL, Type : Handpump ]",08-06-2023,33,2,0,0,0.5,7.3,418,100,40,0.6,12.87,1.3,208,0.09,555,1
+Shirgaon,Shirgaon,", location : Location : Shirgaon mala [ Source type : Deep Tubewell ] [ schemeId : 6313920, scheme name : Shirgaon mala, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,368,72,48,0.42,20.02,0.79,192,0.12,488,1
+Shirgaon,Shirgaon,", location : Location : TARLI RIVER [ Source type : Open Well ] [ schemeId : 6313915, scheme name : TARLI RIVER, Type : Handpump ]",08-06-2023,25,2,0,0,0.5,7.3,418,100,40,0.6,12.87,1.3,208,0.09,555,1
+Shirgaon,Shirgaon,Anganwadi name : anganwadi 182,08-06-2023,33,2,0,0,0.5,7.3,383,140,52,0.51,7.08,0.79,160,0.12,509,1
+Shirgaon,Shirgaon,Anganwadi name : Anganwadi-183,08-06-2023,33,2,0,0,0.5,7.3,418,100,40,0.6,12.87,1.3,208,0.09,555,1
+Shirgaon,Shirgaon,School name : SWA SAINIK GAJANANRAO BANDOJI PATIL VIDYANIKET,08-06-2023,33,2,0,0,0.5,7.3,383,140,52,0.51,7.08,0.79,160,0.12,509,1
+Shirgaon,Wazewadi,"Source Type : Open Well, location : WAJEWADI",08-06-2023,25,2,0,0,0.5,7.3,605,388,40,0.4,0.08,18,3,0.13,7.2,1
+Shitalwadi,Shitalwadi,Individual house tap water Shankar Barge,05-07-2023,30,2,0,0,0.5,7.2,236,46,22,0.26,9.4,1.16,158,0.02,312,1
+Shitalwadi,Shitalwadi,Individual house tap water Shivaji Doulat Yadav hose tap water,05-07-2023,30,3,0,0,0.5,7.2,236,46,22,0.26,9.4,1.16,158,0.02,312,1
+Shitalwadi,Shitalwadi,"Source Type : River, location : in habitaiton",05-07-2023,30,3,0,0,0.5,7.2,250,58,26,0.11,11.6,0.1,142,0.08,330,1
+Shitalwadi,Shitalwadi,Anganwadi name : Anganwadi,05-07-2023,30,3,0,0,0.5,7.2,250,58,26,0.11,11.6,0.1,142,0.08,330,1
+Shivade,Shiwade,"Source Type : Open Well, location : IN HABITATION",05-07-2023,30,3,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Shivade,Shiwade,Anganwadi name : anganwadi 189,05-07-2023,30,2,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Shivade,Shiwade,Anganwadi name : Anganwadi New,05-07-2023,30,2,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Shivade,Shiwade,School name : z.p.school,05-07-2023,30,2,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Shivade,Shiwade,Individual house tap water Mahadev Parshuram Bhongale,05-07-2023,30,2,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Shivade,Shiwade,Individual house tap water Nandkumar Vitthal Gavare,05-07-2023,30,2,0,0,0.5,7.2,218,34,22,0.5,1.3,0.9,58,0.09,300,1
+Supane,Supane,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,2,0,0,0.6,7.4,476,80,48,0.12,33,5,284,0.06,743,1
+Supane,Supane,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,2,0,0,0.6,7.3,500,52,40,0.2,12,5,392,0.08,781,1
+Supane,Supane,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,2,0,0,0.6,7.2,291,52,36,0.52,31.64,2.39,104,0.11,386,1
+Supane,Supane,"Source Type : Treated Surface Water, location : Koyana River",02-06-2023,34,2,0,0,0.6,7.4,468,84,56,0.56,18.33,2.66,248,0.13,600,1
+Supane,Supane,"Source Type : Open Well, location : SUPANE 256",02-06-2023,34,2,0,0,0.6,7.5,630,96,92,0.26,22,4,404,0.06,745,1
+Supane,Supane,Anganwadi name : ANGANWADI 256,08-06-2023,33,2,0,0,0.6,7.3,500,52,40,0.2,12,5,392,0.08,781,1
+Supane,Supane,Anganwadi name : anganwadi 257,09-06-2023,34,3,0,0,0.6,7.2,291,52,36,0.52,31.64,2.39,104,0.11,386,1
+Supane,Supane,Anganwadi name : anganwadi 258,09-06-2023,34,3,0,0,0.6,7.5,630,96,92,0.26,22,4,404,0.06,745,1
+Supane,Supane,Anganwadi name : anganwadi 259,09-06-2023,34,3,0,0,0.6,7.4,476,80,48,0.12,33,5,284,0.06,743,1
+Supane,Supane,Anganwadi name : anganwadi 260,08-06-2023,33,2,0,0,0.6,7.4,476,80,48,0.12,33,5,284,0.06,743,1
+Supane,Supane,School name : SHREE KEDAR HIGH SCHOOL SUPANE,13-06-2023,34,2,0,0,0.6,7.3,500,52,40,0.2,12,5,392,0.08,781,1
+Supane,Supane,School name : Z P SCHOOL,13-06-2023,34,2,0,0,0.6,7.2,291,52,36,0.52,31.64,2.39,104,0.11,386,1
+Supane,Supane,Anganwadi name : anganwadi mini,08-06-2023,33,2,0,0,0.6,7.5,630,96,92,0.26,22,4,404,0.06,745,1
+Supane,Supane,Individual house tap water Vijay Dadaram Mali,08-06-2023,33,2,0,0,0.6,7.5,630,96,92,0.26,22,4,404,0.06,745,1
+Supane,Supane,Individual house tap water Bajarang Jagannatgh Mali,08-06-2023,33,2,0,0,0.6,7.2,291,52,36,0.52,31.64,2.39,104,0.11,386,1
+Surli,Surli,"Source Type : Open Well, location : near gaothan",15-09-2023,34,0,0,0,0.2,7,197,34,33,0.001,0.12,0.9,211,0.06,309,1
+Surli,Surli,"Source Type : Open Well, location : in habitaiton",15-09-2023,34,0,0,0,0.2,7,197,34,33,0.001,0.12,0.9,211,0.06,309,1
+Talbid,Talbid,"Source Type : Open Well, location : NEAR SCHOOL",14-07-2023,30,3,0,0,0.5,7.2,330,66,38,0.3,35.6,0.6,182,0.02,520,1
+Talbid,Talbid,", location : Location : CHAVAN VASTI [ Source type : Deep Tubewell ] [ schemeId : 4427879, scheme name : CHAVAN VASTI-TALBID BWHP, Type : Handpump ]",14-07-2023,30,3,0,0,0.5,7.1,312,62,34,0.3,28.1,0.8,186,0.04,492,1
+Talbid,Talbid,", location : Location : Gat No. 264/B [ Source type : Open Well ] [ schemeId : 6313958, scheme name : Gat No. 264/B, Type : Handpump ]",14-07-2023,30,3,0,0,0.5,7.2,418,62,58,0.32,15.2,1.8,282,0.06,648,1
+Talbid,Talbid,", location : Location : Beghar vasti [ Source type : Deep Tubewell ] [ schemeId : 6313959, scheme name : Beghar vasti, Type : Handpump ]",14-07-2023,30,3,0,0,0.5,7.3,400,58,46,0.34,16.6,1.5,210,0.08,528,1
+Talbid,Talbid,", location : Location : near Baban Shivdas house [ Source type : Deep Tubewell ] [ schemeId : 6313962, scheme name : near Baban Shivdas house, Type : Handpump ]",14-07-2023,30,2,0,0,0.5,7.2,330,66,38,0.3,35.6,0.6,182,0.02,520,1
+Talbid,Talbid,", location : Location : Ves [ Source type : Deep Tubewell ] [ schemeId : 6313961, scheme name : Ves, Type : Handpump ]",14-07-2023,30,2,0,0,0.5,7.2,418,62,58,0.32,15.2,1.8,282,0.06,648,1
+Talbid,Talbid,Anganwadi name : anganwadi mini new,14-07-2023,30,3,0,0,0.5,7.2,418,62,58,0.32,15.2,1.8,282,0.06,648,1
+Talbid,Talbid,"Source Type : Open Well, location : North side of viallge",14-07-2023,30,2,0,0,0.5,7.3,400,58,46,0.34,16.6,1.5,210,0.08,528,1
+Talgaon,Talgaon,Individual house tap water ASHOK CHAVAN,03-08-2023,26,0,0,0,0.2,7.2,258,54,26,0.12,36,2.6,102,0.06,342,1
+Talgaon,Talgaon,"Source Type : Open Well, location : BANK OF RIVER MAND",20-06-2023,33,2,0,0,0.4,7.3,422,82,42,0.16,21.6,2.8,234,0.06,560,1
+Talgaon,Talgaon,"Source Type : Open Well, location : GAOTHAN 1",20-06-2023,33,2,0,0,0.4,7.2,248,90,42,0.14,23.3,0.6,94,0.08,332,1
+Talgaon,Talgaon,"Source Type : Open Well, location : in habitaiton",20-06-2023,33,3,0,0,0.4,7.4,1061,130,54,0.16,38.2,0.4,254,0.06,774,1
+Talgaon,Talgaon,School name : z.p.school,20-06-2023,33,3,0,0,0.4,7.3,590,82,78,0.2,45,3.8,340,0.08,786,1
+Talgaon,Talgaon,Anganwadi name : anganwadi,20-06-2023,33,2,0,0,0.4,7.2,248,90,42,0.14,23.3,0.6,94,0.08,332,1
+Tambve,Tambve,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,2,0,0,0.8,7,93,16,20,0,11.11,1,44,0.04,145,1
+Tambve,Tambve,"Source Type : Open Well, location : TAMBAVE",02-06-2023,34,2,0,0,0.8,7.3,463,84,104,0,40.26,1,212,0.13,722,1
+Tambve,Tambve,School name : SWA. SAI. ANNA BALA PATIL VID.TAMBVE,02-06-2023,34,2,0,0,0.8,7.3,463,84,104,0,40.26,1,212,0.13,722,1
+Tambve,Tambve,Anganwadi name : ANGANWADI 276,02-06-2023,34,2,0,0,0.8,7,93,16,20,0,11.11,1,44,0.04,145,1
+Tambve,Tambve,Individual house tap water chabutai daji patil,02-06-2023,34,2,0,0,0.8,7,93,16,20,0,11.11,1,44,0.04,145,1
+Tambve,Tambve,Individual house tap water sampat dagadu karande,02-06-2023,34,2,0,0,0.8,7.3,463,84,104,0,40.26,1,212,0.13,722,1
+Tarukh,Tarukh,"Others, location : Anganwadi Tarukh 268",21-09-2023,26,0,0,0,0.5,7.3,374,34,33,0.001,0.12,0.9,186,0.06,211,1
+Tarukh,Tarukh,"Source Type : Open Well, location : NEAR GAOTHAN",04-08-2023,33,0,0,0,0.4,7,160,44,33,0.001,0.12,0.9,211,0.012,154,1
+Tarukh,Tarukh,"PrivateTube well / Bore well / Well, location : Khadakwadi gov open well",04-08-2023,32,0,0,0,0.4,7,160,42,33,0.001,0.12,0.9,62,0.012,154,1
+Tarukh,Tarukh,"PrivateTube well / Bore well / Well, location : kadhane road najik open well",04-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.012,466,1
+Tarukh,Tarukh,"Others, location : gavthan sarvjanik taki tap water",04-08-2023,32,0,0,0,0.4,7,160,34,33,0.001,0.12,7,211,0.012,154,1
+Taswade,Taswade,"Source Type : Open Well, location : near Maruti Mandir",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Deep Tubewell, location : near Dnyaneshwar Mandir",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Deep Tubewell, location : Magas vasti",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Deep Tubewell, location : new Beghar vasti",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Deep Tubewell, location : BEGHAR WASTI DUAL PUMP ON SOLAR ENERGY",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Deep Tubewell, location : near Pisal house",20-04-2023,,,0,,,,,,,,,,,,,0
+Taswade,Taswade,"Source Type : Open Well, location : near Maruti Mandir",15-06-2023,34,2,0,0,0.2,7.1,58,36,28,0.12,0.03,0.74,44,0.11,91,1
+Taswade,Taswade,", location : Location : Magas vasti [ Source type : Deep Tubewell ] [ schemeId : 6313991, scheme name : Magas vasti, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.2,54,32,32,0.12,0.06,1.19,52,0.1,85,1
+Taswade,Taswade,", location : Location : near Dnyaneshwar Mandir [ Source type : Deep Tubewell ] [ schemeId : 6313990, scheme name : near Dnyaneshwar Mandir, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.2,583,88,84,0.13,10.49,0.77,196,0.07,715,1
+Taswade,Taswade,", location : Location : near Pisal house [ Source type : Deep Tubewell ] [ schemeId : 6313992, scheme name : near Pisal house, Type : Handpump ]",15-06-2023,34,2,0,0,0.2,7.2,181,40,36,0.07,4,1.5,100,0.08,282,1
+Taswade,Taswade,", location : Location : new Beghar vasti [ Source type : Deep Tubewell ] [ schemeId : 6313994, scheme name : new Beghar vasti, Type : Handpump ]",15-06-2023,34,2,0,0,0.5,7.2,238,44,32,0.09,9.45,0.53,84,0.06,315,1
+Taswade,Taswade,", location : Location : Shinde vasti [ Source type : Deep Tubewell ] [ schemeId : 6313993, scheme name : Shinde vasti, Type : Handpump ]",15-06-2023,34,2,0,0,0.5,7.2,566,104,76,0.14,6.42,0.71,152,0.09,750,1
+Tembhu,Tembhu,"Source Type : Open Well, location : NEAR NALA",24-05-2023,34,0,0,0,0.6,7.2,599,48,60,0.18,25.5,2,360,0.16,937,1
+Tulsan,Tulsan,Individual house tap water DIPALI VIR,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Tulsan,Tulsan,Individual house tap water VARSHA VIR,06-09-2023,27,0,0,0,0.4,7.1,374,34,33,0.001,0.12,0.9,211,0.02,211,1
+Tulsan,Tulsan,"Source Type : Open Well, location : near gaothan",20-06-2023,33,3,0,0,0.4,7.2,296,56,36,0.11,20.6,2.1,96,0.04,392,1
+Tulsan,Tulsan,"Others, location : KALAKICHE BET",20-06-2023,33,2,0,0,0.4,7.33,292,58,38,0.12,21.6,2.2,94,0.06,394,1
+Tulsan,Tulsan,"Source Type : Open Well, location : Near Latkewadi Perculation Tank",20-06-2023,33,2,0,0,0.4,7.14,258,58,30,0.11,1.6,3.6,100,0.06,342,1
+Tulsan,Tulsan,"Others, location : BOUDH VASTI",20-06-2023,33,2,0,0,0.4,7.5,1304,138,178,0.18,55.6,3.12,420,0.08,1730,1
+Tulsan,Tulsan,"Others, location : Z. P. SCHOOL",20-06-2023,33,2,0,0,0.4,7.33,292,58,38,0.12,21.6,2.2,94,0.06,394,1
+Tulsan,Tulsan,School name : Z P SCHOOL,20-06-2023,33,2,0,0,0.4,7.14,258,58,30,0.11,1.6,3.6,100,0.06,342,1
+Tulsan,Tulsan,Anganwadi name : anganwadi 273,20-06-2023,33,2,0,0,0.4,7.33,292,58,38,0.12,21.6,2.2,94,0.06,394,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -207,14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -210,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -211,14-07-2023,30,2,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -212,14-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -213,14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -214,14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -215,14-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : ANGANWADI 206,14-07-2023,30,3,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi 203,14-07-2023,30,3,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi 204,14-07-2023,30,3,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi 202,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -216,14-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi 208,14-07-2023,30,3,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi Hjaremala,14-07-2023,30,2,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,Anganwadi name : anganwadi KrushnaAppartment,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Anganwadi name : Anganwadi Bhoudhvasti,14-07-2023,30,3,0,0,,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : ANGANWADI Choreroad,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,School name : YASHWANTRAO JADHAV VIDYALAYA UMBRAJ,14-07-2023,30,3,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,School name : Z.P.PS.UMBRAJ(GIRLS),14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Public tap water location : -----,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,School name : ROYAL PUBLIC SCHOOL UMBRAJ,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,School name : ADARSH VIDYAMANDIR UMBRAJ (KRISHNANAGAR),14-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,School name : HOLY CONVENT ENGLISH MEDIUM SCHOOL UMBRAJ,14-07-2023,30,2,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,School name : JAGRUTI PS.ASHRAMSHALA,14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,School name : MAHATMA GANDHI VIDYALAYA UMBRAJ,14-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,School name : SMT.RUKMINI PANDURANGKADAM VID,14-07-2023,30,3,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,School name : GLOBAL ENGLISH MEDIUM SCHOOL UMBRAJ,14-07-2023,30,3,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,Anganwadi name : anganwadi -209,05-07-2023,30,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,Individual house tap water tukaram kambale,05-07-2023,30,2,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,158,372,1
+Umbraj,Umbraj,Individual house tap water santosh salunkhe house tap water,05-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,,398,1
+Umbraj,Umbraj,School name : Z P SCHOOL BOYS,05-07-2023,30,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Umbraj,Umbraj,"Source Type : Infiltration well, location : Umbraj",12-06-2023,33,2,0,0,0.5,7.2,282,58,22,0.4,2.09,2.6,158,0.06,372,1
+Umbraj,Umbraj,", location : Location : Rest house [ Source type : Deep Tubewell ] [ schemeId : 6314037, scheme name : Rest house, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.3,552,122,78,0.32,12.5,2,126,0.06,730,1
+Umbraj,Umbraj,", location : Location : Dombare vasti [ Source type : Deep Tubewell ] [ schemeId : 6314025, scheme name : Dombare vasti, Type : Handpump ]",12-06-2023,33,2,0,0,0.5,7.2,301,84,40,0.4,22.6,3.2,170,0.06,398,1
+Undale,UNDALE,Individual house tap water NANDINI SAPKAL ( UNDALE),06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Undale,UNDALE,Individual house tap water USHA JANGAM ( UNDALE),06-09-2023,26,0,0,0,0.5,7.4,380,42,33,0.001,0.12,0.9,296,0.06,210,1
+Undale,UNDALE,Individual house tap water VAISHALI SHEWALE ( SHEWALEWADI),06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.02,368,1
+Undale,UNDALE,Individual house tap water LALASO SHEWALE ( SHEWALEWADI),06-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Undale,UNDALE,"Others, location : SHEWALEWADI NO.1 UNDALE",31-10-2023,28,0,0,0,0.5,7.4,521,40,60,0.8,42.4,1.2,320,0.06,924,1
+Undale,UNDALE,"Source Type : River, location : in habitaiton",20-06-2023,33,2,0,0,0.07,7.41,674,162,62,0.22,39.86,2.6,386,0.09,898,1
+Undale,UNDALE,"Others, location : MARUTI MANDIR UNDALE",20-06-2023,33,2,0,0,0.35,7.31,824,130,98,0.3,34.6,2.9,418,0.08,1096,1
+Undale,UNDALE,"Others, location : NEAR PATIL HOUSE HAND PUMP",20-06-2023,33,3,0,0,0.35,7.31,824,130,98,0.3,33.6,2.9,418,0.08,1096,1
+Undale,UNDALE,"Others, location : GOSAVI VASTI",20-06-2023,33,3,0,0,0.42,7.59,566,130,54,0.2,25.4,0.7,314,0.09,756,1
+Undale,UNDALE,"Others, location : HAND PUMP GOSAVI VASTI",20-06-2023,33,3,0,0,0.01,7.29,444,110,70,0.16,11.14,6.4,234,0.1,590,1
+Undale,UNDALE,"Source Type : Deep Tubewell, location : near gaothan",20-06-2023,33,3,0,0,0.4,7.4,658,178,66,0.26,26.4,2.8,366,0.02,872,1
+Undale,UNDALE,"Others, location : BEGHAR VASTI",20-06-2023,33,3,0,0,0.4,7.4,628,138,70,0.2,2.8,3.8,378,0.02,832,1
+Undale,UNDALE,School name : SWA. DADASAHEB UNDALKAR VIDYALAYA UNDALE,20-06-2023,33,2,0,0,0.07,7.41,674,162,62,0.22,39.86,2.6,386,0.09,898,1
+Undale,UNDALE,"Others, location : SHEWALEWADI NO.1 Z. P. SCHOOL",20-06-2023,33,3,0,0,0.4,7.4,658,178,66,0.26,26.4,2.8,366,0.02,872,1
+Uttar Koparde,Uttar Koparde,Individual house tap water Kiran Nana Gorad,12-06-2023,33,2,0,0,0.5,7.1,468,80,40,0.16,38.08,1.08,232,0.04,630,1
+Uttar Koparde,Uttar Koparde,Individual house tap water Prashant Balkrushna Yadav,12-06-2023,33,2,0,0,0.5,7.1,470,82,42,0.18,38.1,1.1,234,0.04,630,1
+Uttar Koparde,Uttar Koparde,"Source Type : Deep Tubewell, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.4,834,130,98,0.12,50,7,330,0.06,1304,1
+Uttar Koparde,Uttar Koparde,"Others, location : Near Z P School",12-06-2023,33,2,0,0,0.5,7.1,470,82,42,0.18,38.1,1.1,234,0.04,630,1
+Uttar Koparde,Uttar Koparde,Anganwadi name : ANGANWADI 287,12-06-2023,33,3,0,0,0.5,7.1,468,80,40,0.16,38.08,1.08,232,0.04,630,1
+Uttar Koparde,Uttar Koparde,Anganwadi name : ANGANWADI 10,12-06-2023,33,2,0,0,0.5,7.1,470,82,42,0.18,38.1,1.1,234,0.04,630,1
+Uttar Koparde,Uttar Koparde,School name : YADAVWADI,12-06-2023,33,2,0,0,0.5,7.2,360,84,60,0.1,24,2,190,0.06,564,1
+Uttar Tambwe,Uttar Tambwe,"Source Type : Open Well, location : IN HABITATION",02-06-2023,34,2,0,0,0.8,7.3,434,160,52,0.09,43.94,7,52,0.1,678,1
+Uttar Tambwe,Uttar Tambwe,School name : z.p.school,02-06-2023,34,2,0,0,0.8,7.3,434,160,52,0.1,43.94,7,52,0.1,678,1
+Uttar Tambwe,Uttar Tambwe,Anganwadi name : anganwadi,02-06-2023,34,2,0,0,0.8,7.3,463,84,104,0,40.26,1,212,0.13,722,1
+Uttar Tambwe,Uttar Tambwe,Individual house tap water vikas pandurang patil,02-06-2023,34,2,0,0,0.8,7.3,434,160,52,0.15,43.94,7,52,0.1,678,1
+Uttar Tambwe,Uttar Tambwe,Individual house tap water vilas shjankar chavan,02-06-2023,34,2,0,0,0.8,7.3,434,160,52,0.16,43.94,7,52,0.1,678,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : NEAR RIVER [ Source type : Open Well ] [ schemeId : 6314058, scheme name : NEAR RIVER, Type : Handpump ]",08-06-2023,33,2,0,0,0.5,7.3,373,24,36,0.24,24.66,3.2,244,0.11,582,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : VINAYK KADAM WADA [ Source type : Deep Tubewell ] [ schemeId : 6314061, scheme name : VINAYK KADAM WADA, Type : Handpump ]",15-06-2023,34,2,0,0,0.6,7.2,113,20,44,0.1,32.78,0.75,36,0.1,177,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : ZP SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6314060, scheme name : ZP SCHOOL, Type : Handpump ]",08-06-2023,33,2,0,0,0.5,7.3,373,24,36,0.33,25,3,244,0.11,582,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : Nandiwale vasti [ Source type : Deep Tubewell ] [ schemeId : 6314062, scheme name : Nandiwale vasti, Type : Handpump ]",15-06-2023,34,2,0,0,0.6,7.2,470,80,76,0.1,23.58,1.49,156,0.1,735,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : BEGHER VASTI [ Source type : Deep Tubewell ] [ schemeId : 6314059, scheme name : BEGHER VASTI, Type : Handpump ]",15-06-2023,34,2,0,0,0.6,7.16,129,48,16,0.07,0.11,0.44,40,0.11,206,1
+Vadgaon Umbraj,Wadgaon-umbraj,", location : Location : RATALWADI [ Source type : Deep Tubewell ] [ schemeId : 4427946, scheme name : RATALWADI-VADGAON UMBRAJ BWHP, Type : Handpump ]",15-06-2023,34,2,0,0,0.6,7.2,37,8,8,0.1,23.58,0.61,20,0.1,57,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,Anganwadi name : Anganwadi 228,05-07-2023,30,2,0,0,0.2,7.3,662,98,122,1.45,33.26,0.3,262,0.1,878,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,School name : z.p.school,05-07-2023,30,2,0,0,0.2,7.2,222,78,42,0.2,1.66,0.8,150,0.09,298,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,Individual house tap water Shashikant Sutar,05-07-2023,30,3,0,0,0.2,7.2,226,78,22,1.46,0.1,0.6,180,0.12,302,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,Individual house tap water Mohan Kirtawade,05-07-2023,30,2,0,0,0.2,7.2,222,78,42,0.2,1.66,0.8,150,0.09,298,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,"Source Type : Open Well, location : NEAR ROAD",05-07-2023,30,2,0,0,0.2,7.3,662,98,122,1.45,33.26,0.3,262,0.1,878,1
+Vadoli Bhikeshwar,Vadoli Bhikeshwar,,05-07-2023,30,2,0,0,0.2,7.2,226,78,22,1.46,0.1,0.6,180,0.12,302,1
+Vadoli Nileshwar,Vadoli Nileshwar,Individual house tap water ARUN PARBATI PAWAR,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.02,210,1
+Vadoli Nileshwar,Vadoli Nileshwar,Individual house tap water Sunil Patil,12-06-2023,33,2,0,0,0.5,7.3,372,130,112,0.98,25,3,114,0.06,584,1
+Vadoli Nileshwar,Vadoli Nileshwar,"Others, location : NILESHWAR VIDYALAY VADOLI LILESHWAR",12-06-2023,25,2,0,0,0.5,7.2,370,128,110,0.88,24.6,3,112,0.05,582,1
+Vadoli Nileshwar,Vadoli Nileshwar,School name : z.p.school,12-06-2023,25,2,0,0,0.5,7.3,372,130,112,0.98,25,3,114,0.06,584,1
+Vadoli Nileshwar,Vadoli Nileshwar,"Source Type : Open Well, location : IN HABITATION",12-06-2023,33,3,0,0,0.5,7.3,372,130,112,0.98,25,3,114,0.06,584,1
+Vadoli Nileshwar,Vadoli Nileshwar,"Others, location : Near Z P School",12-06-2023,33,2,0,0,0.5,7.2,372,130,112,0.98,25,3,114,0.06,584,1
+Vadoli Nileshwar,Vadoli Nileshwar,Anganwadi name : anganwadi 231,12-06-2023,33,2,0,0,0.5,7.3,372,130,112,0.98,25,3,114,0.06,584,1
+Vadoli Nileshwar,Vadoli Nileshwar,Anganwadi name : anganwadi new,12-06-2023,33,2,0,0,0.5,7.2,370,128,110,0.88,24.6,3,112,0.05,582,1
+Vagheri,Vagheri,"Source Type : Open Well, location : in habitaiton",02-06-2023,25,2,0,0,0.5,7.3,667,60,72,0.14,36.5,1.6,360,0.16,1042,1
+Vagheri,Vagheri,"Source Type : Open Well, location : in habitaiton",02-06-2023,34,3,0,0,0.5,7.3,669,60,72,0.12,38,1.8,356,0.14,1045,1
+Vagheri,Vagheri,", location : Location : GAOTHAN [ Source type : Deep Tubewell ] [ schemeId : 6314073, scheme name : GAOTHAN, Type : Handpump ]",02-06-2023,34,3,0,0,0.5,7.3,670,58,72,0.14,38.2,1.8,360,0.16,1049,1
+Vagheri,Vagheri,"Source Type : Open Well, location : in habitaiton",10-08-2023,,,,,,,,,,0.001,,,,,,0
+Vahagaon,Vahagaon,Anganwadi name : Anganwadi,04-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,211,1
+Vahagaon,Vahagaon,"Source Type : River, location : GAOTHAN",25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,256,1
+Vahagaon,Vahagaon,", location : Location : Bhairavnath Mandir [ Source type : Open Well ] [ schemeId : 6314078, scheme name : Bhairavnath Mandir, Type : Handpump ]",12-06-2023,33,3,0,0,0.6,7.2,494,124,40,0.29,6.1,1.1,286,0.09,655,1
+Vahagaon,Vahagaon,Anganwadi name : anganwadi -244,12-06-2023,33,3,0,0,0.6,7.2,494,124,40,0.29,6.1,1.1,286,0.09,655,1
+Vahagaon,Vahagaon,", location : Location : near Pry.school [ Source type : Deep Tubewell ] [ schemeId : 6314077, scheme name : near Pry.school, Type : Handpump ]",12-06-2023,33,3,0,0,0.6,7.3,650,140,80,0.4,26.5,3.6,400,0.09,863,1
+Vahagaon,Vahagaon,", location : Location : Beghar/Boudh vasti [ Source type : Deep Tubewell ] [ schemeId : 6314075, scheme name : Beghar/Boudh vasti, Type : Handpump ]",12-06-2023,33,3,0,0,0.6,7.2,498,122,42,0.6,18.7,2.2,292,0.08,670,1
+Vanarwadi,Vanarwadi,"Source Type : Open Well, location : NEAR GAOTHAN",20-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,368,1
+Vanarwadi,Vanarwadi,"Others, location : Grampanchayat Samor Hand Pump",25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Vanarwadi,Vanarwadi,"Others, location : shankar todakar hand pump",25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,210,1
+Vanarwadi,Vanarwadi,Anganwadi name : anganwadi,25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,211,0.06,210,1
+Vanavasmachi (s.gad),Vanwasmachi S.gadh.,"Source Type : Open Well, location : NEAR GOATHAN",24-05-2023,34,0,0,0,0.2,7.1,226,20,20,0.09,16.6,0.08,160,0.06,353,1
+Vanwasmachi Khodashi,Vanwasmachi Khodashi,School name : Z P SCHOOL VANVASMACHI S GADH,14-07-2023,30,2,0,0,0.6,7.3,546,84,52,0.12,35.97,0.74,208,0.1,721,1
+Vanwasmachi Khodashi,Vanwasmachi Khodashi,", location : Location : NH-4 ROAD NEAR [ Source type : Open Well ] [ schemeId : 6314086, scheme name : NH-4 ROAD NEAR, Type : Handpump ]",14-07-2023,30,3,0,0,0.6,7.3,560,92,44,0.1,38.25,1.95,292,0.1,740,1
+Vanwasmachi Khodashi,Vanwasmachi Khodashi,"Source Type : Open Well, location : in habitaiton",14-07-2023,30,2,0,0,0.6,7.3,546,84,52,0.12,35.97,0.74,208,0.1,721,1
+Vanwasmachi Khodashi,Vanwasmachi Khodashi,"Others, location : VITTHAL WARD",25-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,186,0.06,211,1
+Vanwasmachi Khodashi,Vanwasmachi Khodashi,Anganwadi name : anganwadi -221,14-07-2023,30,2,0,0,0.6,7.4,750,112,72,0.1,43.4,1.24,296,0.1,993,1
+Varade,Varade,"Source Type : Open Well, location : VARADE 226",05-07-2023,30,3,0,0,0.6,7.2,148,30,14,0.2,12.6,1.5,78,0.08,236,1
+Varade,Varade,", location : Location : Chambhar Vasti [ Source type : Deep Tubewell ] [ schemeId : 6314095, scheme name : Chambhar Vasti, Type : Handpump ]",05-07-2023,30,2,0,0,0.6,7.2,428,86,58,0.3,12,1.6,246,0.1,676,1
+Varade,Varade,Anganwadi name : Anganwadi 227,05-07-2023,30,2,0,0,0.6,7.2,148,30,14,0.2,12.6,1.5,78,0.08,0.08,1
+Varade,Varade,Individual house tap water sunanda jalindar hajare house tap water,05-07-2023,30,2,0,0,0.6,7.2,148,30,14,0.2,12.6,1.5,78,0.08,236,1
+Varade,Varade,Individual house tap water dilip keru shirsat house tap water,05-07-2023,30,2,0,0,0.6,7.2,428,86,58,0.3,12,1.6,246,0.1,676,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : z.p school warunji",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : z.p.scool jijamatanagar waarunji",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : anganwadi kra.297",02-06-2023,34,2,0,0,0.6,7.69,1328,156,164,0.16,14.29,14.76,556,0.36,1764,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : Anaganwadi kra.295",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : Anganwadi no-296",02-06-2023,34,2,0,0,0.6,7.69,1328,156,164,0.16,14.29,14.76,556,0.36,1764,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : Anaganwadi no-298",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : Anganwaadi no-293",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : Anganwadi no-294",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : sahyadri mini Anganwadi no-1",02-06-2023,34,2,0,0,0.6,7.69,1328,156,164,0.16,14.29,14.76,556,0.36,1764,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : june gaav mini Aganwaadi no-2",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : pandurang laxman gurav nal",02-06-2023,34,2,0,0,0.6,7.69,1328,156,164,0.16,14.29,14.76,556,0.36,1764,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : sindhutai suresh sutar",02-06-2023,34,2,0,0,0.6,7,82,8,20,0.12,0.28,2.01,48,0.05,130,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : kaka patil shet vihir",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.11,0.12,0.9,211,0.06,256,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : june gavthan vihir river",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : RANGRAO PATIL BORE",02-06-2023,34,0,0,0,0.8,7.4,660,168,60,0.11,51.42,1.33,300,0.05,876,1
+Varunji,Varunji,"PrivateTube well / Bore well / Well, location : JIJAMATANAGAR",02-06-2023,34,2,0,0,0.6,,82,8,20,0.12,0.28,2,48,0.05,130,1
+Vasantgadh,Vasantgad,Anganwadi name : anganwadi 281,02-06-2023,34,2,0,0,0.5,7.1,299,84,20,0.32,28.27,0.98,180,0.07,398,1
+Vasantgadh,Vasantgad,Anganwadi name : anganwadi 282,02-06-2023,34,2,0,0,0.5,7.1,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasantgadh,Vasantgad,Anganwadi name : anganwadi 280,02-06-2023,34,2,0,0,0.5,,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasantgadh,Vasantgad,"Source Type : Open Well, location : GAOTHAN",02-06-2023,34,0,0,0,0.5,7.1,299,84,20,0.32,28.27,0.98,180,0.07,398,1
+Vasantgadh,Vasantgad,", location : Location : NEAR HANUMAN MANDIR [ Source type : Deep Tubewell ] [ schemeId : 6314114, scheme name : NEAR HANUMAN MANDIR, Type : Handpump ]",02-06-2023,34,2,0,0,0.61,7.51,224,44,20,0.19,12.84,0.57,128,0.1,297,1
+Vasantgadh,Vasantgad,", location : Location : NEAR NIVAS CHAVAN [ Source type : Deep Tubewell ] [ schemeId : 6314118, scheme name : NEAR NIVAS CHAVAN, Type : Handpump ]",02-06-2023,34,0,0,0,0.6,7.1,222,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasantgadh,Vasantgad,", location : Location : NEAR HIGH SCHOOL [ Source type : Deep Tubewell ] [ schemeId : 6314117, scheme name : NEAR HIGH SCHOOL, Type : Handpump ]",02-06-2023,34,3,0,0,0.4,7.58,302,84,20,0.32,28.27,0.98,180,0.07,401,1
+Vasantgadh,Vasantgad,", location : Location : NEAR LAXIMI MANDIR [ Source type : Open Well ] [ schemeId : 6314113, scheme name : NEAR LAXIMI MANDIR, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.1,220,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasti Sakurdi,Vasti Sakurdi,Individual house tap water sadashiv govind nanavre,02-06-2023,34,2,0,0,0.6,7.1,216,24,24,0.12,13.18,0.55,124,0.06,288,1
+Vasti Sakurdi,Vasti Sakurdi,Individual house tap water Hanmant Ananda Jadhav,02-06-2023,34,2,0,0,0.6,7.1,222,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasti Sakurdi,Vasti Sakurdi,", location : Location : DALIT VASTI [ Source type : Deep Tubewell ] [ schemeId : 6314119, scheme name : DALIT VASTI, Type : Handpump ]",02-06-2023,34,2,0,0,0.61,7.51,224,44,20,0.19,12.84,0.57,128,0.1,297,1
+Vasti Sakurdi,Vasti Sakurdi,"Source Type : Open Well, location : NEAR GAONTHAN",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,296,1
+Vasti Sakurdi,Vasti Sakurdi,Anganwadi name : anganwadi,02-06-2023,34,2,0,0,0.6,7.1,222,44,20,0.19,12.84,0.57,128,0.1,296,1
+Vasti Sakurdi,Vasti Sakurdi,Anganwadi name : anganwadi 300,02-06-2023,34,2,0,0,0.6,7.1,216,24,24,0.12,13.18,0.55,124,0.06,288,1
+Vasti Sakurdi,Vasti Sakurdi,"Source Type : Open Well, location : NEAR GAONTHAN",02-06-2023,34,2,0,0,0.6,7.1,216,24,24,0.12,13.18,0.6,124,0.06,288,1
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,,,,,,,,,,,,,0,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,04-12-2023,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,26-02-2024,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,Public tap water location : -----,26-02-2024,,0,,,,,,,,,,,,,,0
+Vathar,Vathar,"Others, location : Smashanbhumi",08-06-2023,33,0,0,0,0.6,7.9,1440,356,160,0.06,50,6,476,0.06,2260,1
+Vathar,Vathar,", location : Location : More wada [ Source type : Deep Tubewell ] [ schemeId : 6314133, scheme name : More wada, Type : Handpump ]",26-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,1,211,0.06,256,1
+Vathar,Vathar,", location : Location : Prakash Patil house [ Source type : Deep Tubewell ] [ schemeId : 6314137, scheme name : Prakash Patil house, Type : Handpump ]",08-06-2023,33,2,0,0,0.6,7.4,1120,256,356,0.1,49.24,11.4,360,0.09,1751,1
+Vathar,Vathar,", location : Location : Vasant Gavade house [ Source type : Deep Tubewell ] [ schemeId : 6314138, scheme name : Vasant Gavade house, Type : Handpump ]",08-06-2023,33,2,0,0,0.6,7.2,377,84,84,0.27,6.79,3.2,204,0,587,1
+Vathar,Vathar,"Others, location : Gavthan",08-06-2023,33,2,0,0,0.6,7.2,405,84,84,0.16,6.22,2.4,156,0,632,1
+Vathar,Vathar,"Others, location : Bheghar Vasti",08-06-2023,33,2,0,0,0.6,7.4,1053,172,40,0.11,54.77,3.6,380,0.12,1650,1
+Vathar,Vathar,"Others, location : Gavthan",08-06-2023,33,2,0,0,0.6,7.4,1076,160,172,0.08,54.61,6,336,0.12,1681,1
+Vijaynagar,Vijaynagar,", location : Location : KOYANA RIVER [ Source type : Open Well ] [ schemeId : 6314141, scheme name : KOYANA RIVER, Type : Handpump ]",27-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,198,0.06,211,1
+Vijaynagar,Vijaynagar,Anganwadi name : ANGANWADI 283,24-07-2023,26,2,0,0,0.8,7.2,246,80,40,0.51,0.5,3.1,124,0.1,326,1
+Vijaynagar,Vijaynagar,Anganwadi name : Vijaynagar 284 MSEB Office,24-07-2023,26,2,0,0,0.8,7.2,244,78,38,0.46,0.45,2.8,120,0.11,330,1
+Vijaynagar,Vijaynagar,School name : z.p.school,24-07-2023,26,2,0,0,0.8,7.2,246,80,40,0.51,0.5,3.1,124,0.1,326,1
+Vijaynagar,Vijaynagar,"Others, location : High School",24-07-2023,26,2,0,0,0.8,7.2,244,78,38,0.46,0.45,2.8,120,0.11,330,1
+Vijaynagar,Vijaynagar,"Others, location : Sanjay Bandu Jadhav House",07-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,211,0.02,256,1
+Vijaynagar,Vijaynagar,"Others, location : Prakash D. Jadhav",24-07-2023,26,2,0,0,0.8,7.2,244,78,38,0.46,0.45,2.8,120,0.11,330,1
+Virvade,Virvade,Anganwadi name : viravde 225 (gavthan),07-09-2023,32,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,211,0.02,368,1
+Virvade,Virvade,Anganwadi name : Viravde MSEB,07-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,2.6,211,0.06,368,1
+Virvade,Virvade,Anganwadi name : Viravde 223 Datanager,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,1,0.9,211,0.012,256,1
+Virvade,Virvade,Anganwadi name : Viravde 224,07-09-2023,32,0,0,0,0.5,7,160,34,33,0.001,0.12,0.9,186,0.06,368,1
+Virvade,Virvade,Anganwadi name : Mini Virvade madane wasti,07-09-2023,32,0,0,0,0.4,7.3,160,34,33,0.001,0.12,0.9,186,0.02,368,1
+Virvade,Virvade,School name : z.p.school,07-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,2.6,198,0.06,368,1
+Virvade,Virvade,Individual house tap water Sachin Ramdas Pawar,07-09-2023,32,0,0,0,0.4,7,380,34,42,0.001,19.6,0.9,198,0.06,368,1
+Virvade,Virvade,Individual house tap water Bhagvan Shankar Jadhav,07-09-2023,26,0,0,0,0.4,7.3,160,34,33,0.001,1,0.9,186,0.06,368,1
+Virvade,Virvade,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 1296, scheme name : VIRWADE, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.3,827,56,64,0.26,40.5,1.8,460,0.16,1296,1
+Virvade,Virvade,", location : Location : GOPAL DHOKATE [ Source type : Deep Tubewell ] [ schemeId : 6314179, scheme name : GOPAL DHOKATE, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.2,748,52,62,0.22,38.6,1.6,420,0.14,1168,1
+Virvade,Virvade,", location : Location : near gavthan [ Source type : Deep Tubewell ] [ schemeId : 1296, scheme name : VIRWADE, Type : Handpump ]",02-06-2023,34,0,0,0,0.5,7.3,917,60,68,0.24,30.5,2.2,560,0.18,1436,1
+Vithobawadi,Vithobawadi,Individual house tap water VANDANA CHAVAN,06-09-2023,32,0,0,0,0.2,7.1,160,26,33,0.001,1,0.6,186,0.06,211,1
+Vithobawadi,Vithobawadi,Individual house tap water SANDEEP PANDHARE,06-09-2023,32,0,0,0,0.5,7,160,26,33,0.001,1,0.9,186,0.04,211,1
+Vithobawadi,Vithobawadi,"Others, location : MALWADI",20-06-2023,33,2,0,0,0.19,7.18,338,70,50,0.12,16.8,3.8,170,0.1,448,1
+Vithobawadi,Vithobawadi,"Source Type : Open Well, location : NEAR GAONTHAN",20-06-2023,33,2,0,0,0.18,7.23,346,74,46,0.1,46.6,3.6,166,0.1,460,1
+Vithobawadi,Vithobawadi,School name : VITTHALWADI,20-06-2023,33,3,0,0,0.19,7.18,338,70,50,0.12,16.8,3.8,170,0.1,448,1
+Vithobawadi,Vithobawadi,Anganwadi name : anganwadi 286,20-06-2023,33,3,0,0,0.19,7.18,338,70,50,0.12,16.8,3.8,170,0.1,448,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : 16vadgoan,24-07-2023,26,0,0,0,0.4,7.3,474,48,40,0.5,28.1,1.1,312,0.09,748,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : 175 vadgoan,24-07-2023,26,0,0,0,0.5,7.3,402,40,40,0.1,15.1,1.1,284,0.11,654,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : 288 vadgoan,24-07-2023,26,0,0,0,0.5,7.3,482,40,60,0.4,16.25,1.2,288,0.1,750,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : 290,24-07-2023,26,0,0,0,0.5,7.3,402,40,40,0.1,15.1,1.1,284,0.08,654,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : ANGANWADI 291,24-07-2023,26,0,0,0,0.4,7.3,474,48,40,0.5,28.1,1.1,312,0.09,748,1
+Wadgaon Haveli,Wadgaon Haveli,Anganwadi name : ANGANWADI MINI NEW chavanvasti,24-07-2023,26,0,0,0,0.4,7.3,474,48,40,0.5,28.1,1.1,312,0.06,748,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : gaonthan",07-09-2023,32,0,0,0,0.5,7.3,380,34,33,0.001,1,0.9,198,0.06,256,1
+Wadgaon Haveli,Wadgaon Haveli,School name : MADYAMIK VIDYA MANDIR WADGAON HAVELI,24-07-2023,26,0,0,0,0.5,7.3,550,218,54,0.11,38.1,2.2,226,0.11,732,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : Beghar Wasti Kanya Shala",24-07-2023,26,0,0,0,0.5,7.33,550,218,54,0.11,38.1,2.2,226,0.13,732,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : Harshad Jagtap",24-07-2023,26,0,0,0,0.5,7.3,402,40,40,0.1,15.1,1.1,284,0.11,654,1
+Wadgaon Haveli,Wadgaon Haveli,"Source Type : Open Well, location : NEAR GAONTHAN",13-06-2023,34,3,0,0,0.4,7.3,474,48,40,0.5,28.1,1.1,312,0.08,748,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : Beghar Wasti",13-06-2023,34,3,0,0,0.5,7.3,402,40,40,0.1,15.1,1.1,284,0.09,654,1
+Wadgaon Haveli,Wadgaon Haveli,"Source Type : Open Well, location : NEAR NALLA",13-06-2023,34,3,0,0,0.5,7.28,432,122,74,0.16,22.6,1.1,190,0.06,576,1
+Wadgaon Haveli,Wadgaon Haveli,"Source Type : Deep Tubewell, location : VASTI",13-06-2023,34,3,0,0,0.5,7.33,550,218,54,0.11,38.1,2.2,226,0.08,732,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : Subhash Patil Hotel",13-06-2023,34,2,0,0,0.5,7.4,570,130,74,0.11,50,2,218,0.08,890,1
+Wadgaon Haveli,Wadgaon Haveli,"Others, location : Maruti Mandir",13-06-2023,34,3,0,0,0.5,7.3,482,40,60,0.4,16.25,1.2,288,0.08,750,1
+Wagheshwar,Wagheshwar,School name : z.p.school,26-07-2023,26,0,0,0,0.6,7.4,556,138,34,0.36,27.1,1.8,198,0.05,740,1
+Wagheshwar,Wagheshwar,Individual house tap water Vithal Rajaram Jadhav,12-06-2023,25,2,0,0,0.6,7.4,556,138,34,0.36,27.1,1.8,198,0.04,740,1
+Wagheshwar,Wagheshwar,Individual house tap water Vikas Shrirang Bhange,12-06-2023,25,2,0,0,0.6,7.4,555,138,32,0.34,27.08,1.78,196,0.04,739,1
+Wagheshwar,Wagheshwar,"Source Type : Open Well, location : NEAR NAULA",12-06-2023,33,3,0,0,0.6,7.4,556,138,34,0.36,27.1,1.8,198,0.04,740,1
+Wagheshwar,Wagheshwar,Anganwadi name : Anganwadi,12-06-2023,25,2,0,0,0.6,7.4,555,138,32,0.34,27.08,1.78,196,0.04,739,1
+Wanyachiwadi,Wanyachiwadi,Anganwadi name : Anganwadi,06-09-2023,26,0,0,0,0.4,7.1,374,34,33,0.001,0.12,0.9,186,0.02,154,1
+Wanyachiwadi,Wanyachiwadi,Individual house tap water Nilesh Hanmant Pawar,12-06-2023,33,2,0,0,0.6,7.3,380,114,34,0.08,12.6,2.6,200,0.06,506,1
+Wanyachiwadi,Wanyachiwadi,Individual house tap water Dipak Balaso Salunkhe,12-06-2023,33,3,0,0,0.5,7.3,366,98,38,0.2,4.1,1.04,194,0.02,484,1
+Wanyachiwadi,Wanyachiwadi,"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,2,0,0,0.5,7.3,366,98,38,0.2,4.1,1.04,194,0.02,484,1
+Wanyachiwadi,Wanyachiwadi,", location : Location : GP OFFICE [ Source type : Deep Tubewell ] [ schemeId : 6314195, scheme name : GP OFFICE, Type : Handpump ]",12-06-2023,34,3,0,0,0.6,7.3,380,114,34,0.08,12.6,2.6,200,0.06,506,1
+Wanyachiwadi,Wanyachiwadi,School name : z.p.school,12-06-2023,25,2,0,0,0.5,7.3,420,82,40,0.08,3.1,5.35,270,0.06,558,1
+Yadavwadi,Yadavawadi,School name : z.p.school,07-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,1,0.9,211,0.02,256,1
+Yadavwadi,Yadavawadi,Individual house tap water MANISHA VILAS YADAV,05-09-2023,26,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,210,1
+Yadavwadi,Yadavawadi,Individual house tap water KISAN YASHAWANT YADAV,05-09-2023,26,0,0,0,0.4,7,160,42,33,0.001,0.12,1.1,211,0.02,210,1
+Yadavwadi,Yadavawadi,Anganwadi name : Anganwadi 245,06-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.11,0.12,0.9,296,0.09,210,1
+Yadavwadi,Yadavawadi,"Source Type : Open Well, location : NEAR GAOTHAN",12-06-2023,33,3,0,0,0.6,7.3,402,62,78,0.4,29.6,1,174,0.04,630,1
+Yashwantnagar,Yeshwantnagar,"Others, location : YASHWANTRAO CHAVAN VIDYALAY",07-09-2023,26,0,0,0,0.5,7.3,160,26,33,0.001,0.12,0.9,211,0.02,256,1
+Yashwantnagar,Yeshwantnagar,Individual house tap water AJAY VIJAY MANE,05-09-2023,26,0,0,0,0.4,7.6,160,34,18,0.001,0.12,2.6,211,0.012,211,1
+Yashwantnagar,Yeshwantnagar,Individual house tap water SAYAJI KHADANG,05-09-2023,33,0,0,0,0.4,7,160,34,33,0.001,0.4,0.9,211,0.02,211,1
+Yashwantnagar,Yeshwantnagar,"Source Type : Deep Tubewell, location : NEAR KRISHNA RIVER",12-06-2023,33,2,0,0,0.5,7.1,570,164,46,0.06,22.1,4.1,286,0.06,758,1
+Yashwantnagar,Yeshwantnagar,Anganwadi name : anganwadi 248,12-06-2023,33,2,0,0,0.5,7.3,602,132,154,0.08,29.06,4,250,0.04,944,1
+Yashwantnagar,Yeshwantnagar,Anganwadi name : anganwadi 246,12-06-2023,33,2,0,0,0.5,7.3,602,132,154,0.08,29.06,4,4,0.04,944,1
+Yashwantnagar,Yeshwantnagar,Anganwadi name : anganwadi 247,12-06-2023,33,2,0,0,0.5,7.3,602,132,154,0.08,29.06,4,250,0.04,944,1
+Yashwantnagar,Yeshwantnagar,School name : z.p.school,12-06-2023,25,2,0,0,0.5,7.2,700,158,78,1.2,5.31,2.12,258,0.04,927,1
+Yelgaon,Yelgaon,Individual house tap water VISHNU AAVALE,06-09-2023,32,0,0,0,0.5,7.3,160,34,33,0.001,0.12,0.9,211,0.06,211,1
+Yelgaon,Yelgaon,Individual house tap water PRASHANT MANE,06-09-2023,26,0,0,0,0.5,7.3,160,34,33,0.001,1,0.6,186,0.02,154,1
+Yelgaon,Yelgaon,"Source Type : Open Well, location : in habitaiton",20-06-2023,33,2,0,0,0.08,,274,58,38,0.3,6.04,0.58,118,0.04,360,1
+Yelgaon,Yelgaon,"Source Type : Open Well, location : MAHAVLI WELL",20-06-2023,33,3,0,0,0.08,7.3,576,138,70,0.22,12.01,0.82,290,0.06,764,1
+Yelgaon,Yelgaon,Individual house tap water boudh wasti,20-06-2023,33,2,0,0,0.05,7.3,322,98,18,0.2,1,3.1,142,0.04,426,1
+Yelgaon,Yelgaon,School name : z.p.school,20-06-2023,33,2,0,0,0.08,7.2,274,58,38,0.3,6.04,0.58,118,0.04,360,1
+Yelgaon,Yelgaon,Anganwadi name : anganwadi YELGAON315,20-06-2023,33,2,0,0,0.08,7.2,274,58,38,0.3,6.04,0.58,118,0.04,360,1
+Yelgaon,Yelgaon,"Source Type : Deep Tubewell, location : NEAR NALLA",20-06-2023,33,3,0,0,0.1,7.2,258,82,18,0.9,4.6,2.12,110,0.06,342,1
+YENAPE,Chormarwadi,"Source Type : Open Well, location : NEAR DAM GHOGAON",20-06-2023,33,2,0,0,0.6,7.2,342,102,30,0.42,3.12,1.98,186,0.08,448,1
+YENAPE,MATEKERWADI,"Source Type : Open Well, location : NEAR DAM",20-06-2023,33,2,0,0,0.6,7.1,172,58,22,0.31,0.22,,66,0.09,225,1
+YENAPE,Shewalewadi Yenape,"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,2,0,0,0.6,7.2,264,42,20,0.16,5.28,0.62,118,0.09,348,1
+YENAPE,Yenape,Individual house tap water JOTIRAM JADHAV,31-07-2023,26,0,0,0,0.6,7.2,292,54,24,0.12,0.11,0.55,146,0.09,384,1
+YENAPE,Yenape,Individual house tap water SHIVAJI PATIL,31-07-2023,26,0,0,0,0.6,7.2,292,54,24,0.12,0.11,0.55,146,0.09,384,1
+YENAPE,Yenape,"Source Type : Open Well, location : YENAPE 321",20-06-2023,33,2,0,0,0.6,7.2,292,54,24,0.12,0.11,0.55,,0.09,384,1
+YENAPE,Yenape,"Source Type : Open Well, location : NEAR GAONTHAN",20-06-2023,33,2,0,0,0.6,7.1,194,70,34,0.2,3.4,0.62,60,0.1,256,1
+YENAPE,Yenape,School name : NEW ENGLISH SCHOOL YENAPE,20-06-2023,33,2,0,0,0.6,7.2,292,54,24,0.12,0.11,0.55,146,0.09,384,1
+YENAPE,Yenape,Anganwadi name : anganwadi 322,20-06-2023,33,2,0,0,0.6,7.1,194,70,34,0.2,3.4,0.62,60,0.1,256,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",04-10-2023,,,,,,,,34,,,,,,,,0
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",01-11-2023,,,,,,,,,,0.122,,,,,,0
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",03-08-2023,32,0,0,0,0.4,7,299,34,33,0.001,0.12,7,211,0.02,154,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",03-08-2023,33,0,0,0,0.4,7.1,299,42,33,0.001,0.12,0.9,211,0.012,256,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",03-08-2023,33,0,0,0,0.4,7,160,42,33,0.001,0.12,0.9,211,0.012,466,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",03-08-2023,32,0,0,0,0.4,7.1,210,42,42,0.001,0.12,0.9,211,0.02,256,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",03-08-2023,33,0,0,0,0.4,7,160,34,33,0.001,0.12,0.9,211,0.02,154,1
+Yenke,Yenke,"Source Type : Open Well, location : GAOTHAN",21-12-2023,,,,,,,,,,0,,,,,,0
+Yeravale,Yerwale,School name : YERAVALE NO. 1,08-08-2023,25,2,0,0,0.4,7.1,163,36,12,0.11,37.24,2.12,82,0.04,256,1
+Yeravale,Yerwale,School name : YERAVALE NO. 2,08-08-2023,25,2,0,0,0.4,7.3,494,204,56,0.131,39.4,1.29,360,0.06,774,1
+Yeravale,Yerwale,Anganwadi name : ANGANWADI 323,08-08-2023,25,2,0,0,0.4,7.3,164,32,10,0.1,28.4,1.2,80,0.04,258,1
+Yeravale,Yerwale,Anganwadi name : anganwadi 324,08-08-2023,25,2,0,0,0.4,7.3,531,100,68,0.3,29.2,2.12,254,0.08,830,1
+Yeravale,Yerwale,Anganwadi name : anganwadi 325,08-08-2023,25,2,0,0,0.4,7.1,163,36,12,0.11,37.24,2.12,82,0.04,256,1
+Yeravale,Yerwale,Anganwadi name : anganwadi 326,08-08-2023,25,2,0,0,0.4,7.3,494,204,56,0.131,39.4,1.29,360,0.06,774,1
+Yeravale,Yerwale,Anganwadi name : anganwadi 327,08-08-2023,25,2,0,0,0.4,7.3,164,32,10,0.1,28.4,1.2,80,0.04,258,1
+Yeravale,Yerwale,Individual house tap water Zunjar Yadav House,08-08-2023,25,2,0,0,0.4,7.3,531,100,68,0.3,29.2,2.12,254,0.08,830,1
+Yeravale,Yerwale,Individual house tap water Sunanda Koli,08-08-2023,25,2,0,0,0.4,7.3,164,32,10,0.1,28.4,1.2,80,0.04,258,1
+Yeravale,Yerwale,"Source Type : Open Well, location : Koyana river",24-06-2023,26,0,0,0,0.4,7.1,163,36,12,0.11,37.24,2.12,82,0.04,256,1
+Yeravale,Yerwale,"Source Type : Open Well, location : YERVALE 323",24-06-2023,26,0,0,0,0.4,7.3,164,32,10,0.1,28.4,1.2,80,0.04,258,1
+Yeravale,Yerwale,"Source Type : Deep Tubewell, location : NEAR PRIMARY SCHOOL",24-06-2023,26,0,0,0,0.4,7.3,531,100,68,0.3,29.2,2.12,254,0.08,830,1
+Yeravale,Yerwale,"Source Type : Open Well, location : Koyana river",24-06-2023,26,0,0,0,0.4,7.3,494,204,56,0.13,39.4,1.29,360,0.06,774,1
+Yevati,Yevati,Individual house tap water SHOBHA SHEWALE,31-07-2023,26,2,0,0,0.4,7.2,264,58,18,0.1,27.02,0.6,162,0.06,354,1
+Yevati,Yevati,Individual house tap water ANANDA SHEWALE,31-07-2023,26,2,0,0,0.4,7.2,264,58,18,0.1,27.02,0.6,162,0.06,354,1
+Yevati,Yevati,"Source Type : Open Well, location : GAOTHAN",20-06-2023,33,2,0,0,0.4,7.2,264,58,18,0.1,27.02,0.6,162,0.06,354,1
+Yevati,Yevati,"Others, location : NEAR PHC",20-06-2023,33,2,0,0,0.4,7.2,496,106,50,0.18,21.56,1.3,278,0.06,662,1
+Yevati,Yevati,"Source Type : Open Well, location : IN HABITATION",20-06-2023,33,3,0,0,0.4,7.2,230,38,26,0.22,3.6,2.4,108,0.03,308,1
+Yevati,Yevati,School name : YEVATI VIDYALAYA YEVATI,20-06-2023,33,2,0,0,0.4,7.2,264,58,18,0.1,27.02,2.401,162,0.06,354,1
+Yevati,Yevati,Anganwadi name : anganwadi 329,20-06-2023,33,2,0,0,0.4,7.2,264,58,18,0.1,27.02,2.402,162,0.06,354,1
